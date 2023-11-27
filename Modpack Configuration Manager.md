@@ -73,4 +73,18 @@ mods:
 
 ### Todays notes
 - I should work on [GitHub - packwiz/packwiz: A command line tool for editing and distributing Minecraft modpacks, using a git-friendly TOML format. Supports CurseForge and Modrinth mods with automated updates!](https://github.com/packwiz/packwiz), conversion as it probably has a lot of what I need to do.
-- 
+
+
+# Naming
+| Rank | Modpack Management Tool Names |
+| ----:|:----------------------------- |
+|    1 | Negative Pack Architect       |
+|    2 | Negative Mod Matrix           |
+|    3 | MatrixMod Manager             |
+|    4 | Negative Craft Nexus           |
+|    5 | Negative Mod Merger            |
+|    6 | Negative Pack Pathfinder       |
+|    7 | Negative Forge Fabricator      |
+|    8 | Negative Wave Weaver           |
+|    9 | Mod Meld Mastermind            |
+|   10 | Craft Core Conductor           |
