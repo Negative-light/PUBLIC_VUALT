@@ -88,3 +88,4 @@ mods:
 |    8 | Negative Wave Weaver           |
 |    9 | Mod Meld Mastermind            |
 |   10 | Craft Core Conductor           |
+Negative Pack Architect - This seems to be a favorite
