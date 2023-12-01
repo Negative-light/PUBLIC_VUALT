@@ -28,25 +28,25 @@ After having a conversation with Chat GPT and some other users I think i will ma
 
 ## Commands
 ```sh
-mccm init <moadpack-name>
-mccm mod add <mod name>
-mccm mod remove <mod name>
-mccm mods
+npact init <moadpack-name>
+npact mod add <mod name>
+npact mod remove <mod name>
+npact mods
 # Update all mods
-mccm update
+npact update
 # Only Check for updates
-mccm update -c 
-mccm export
+npact update -c 
+npact export
 # Export Only Curseforge Version
-mccm export cf
+npact export cf
 # Export only Modrinth version
-mccm export mr
+npact export mr
 # Export only zip file
-mccm export zip
-mccm changelog
-mccm doc
-mccm analyize
-mccm help
+npact export zip
+npact changelog
+npact doc
+npact analyize
+npact help
 ```
 
 ## File Format
