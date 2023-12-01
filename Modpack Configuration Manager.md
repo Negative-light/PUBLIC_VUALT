@@ -91,3 +91,5 @@ mods:
 Negative Pack Architect - This seems to be a favorite
 
 I can rename the project so the output file is the acrynom.
+
+Ok so the name is Negative Pack Architect, we will use the acrynim N-PAct.
