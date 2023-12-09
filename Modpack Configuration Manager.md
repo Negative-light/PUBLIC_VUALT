@@ -2,6 +2,7 @@
 tags:
   - programing
   - projects
+  - public
 ---
 This project should allow the user to create modpacks using version control. It should automatically
 - Export to Cruseforge
