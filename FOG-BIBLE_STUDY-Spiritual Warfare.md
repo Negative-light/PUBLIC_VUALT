@@ -10,13 +10,13 @@ tags:
   - c/salvation
 note-type: bible-study
 scripture:
-  - "[[../30-Spiritual/BIBLE_CSB_MD/Joshua/Josh 1|Josh 1]]"
-  - "[[../30-Spiritual/BIBLE_CSB_MD/Ephesians/Ephes 6|Ephes 6]]"
+  - "[[Josh 1]]"
+  - "[[Ephes 6]]"
   - "[[Matt 16]]"
-  - "[[../30-Spiritual/BIBLE_CSB_MD/1 Samuel/1 Sam 17|1 Sam 17]]"
+  - "[[1 Sam 17]]"
   - "[[Rev 20]]"
 ---
-faThe goal of this Bible study is to explain the details from the book the Battle is the Lord by Ton y Evans about how to put on the armor of God.
+The goal of this Bible study is to explain the details from the book the Battle is the Lord by Ton y Evans about how to put on the armor of God.
 
 This rolls down to the art or prayer.
 
