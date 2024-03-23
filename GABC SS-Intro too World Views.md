@@ -10,8 +10,9 @@ north:
   - The Battle is the Lords
 south: 
 east:
-  - "[[../GABC SS-Intro to Spiritual Warfare|GABC SS-Intro to Spiritual Warfare]]"
-west:
+  - "[[GABC SS-Intro to Spiritual Warfare|GABC SS-Intro to Spiritual Warfare]]"
+  - "[[GABC SS-Back to the Beginning|GABC SS-Back to the Beginning]]"
+west: 
 ---
 # Review
 Last week we had a short introduction into spiritual warfare. The major things we covered are
