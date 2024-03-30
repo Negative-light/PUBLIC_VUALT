@@ -12,6 +12,7 @@ south:
 east:
   - "[[PUBLIC_VUALT/GABC SS-Intro too World Views|GABC SS-Intro too World Views]]"
   - "[[PUBLIC_VUALT/GABC SS-Intro to Spiritual Warfare|GABC SS-Intro to Spiritual Warfare]]"
+  - "[[SS GABC-Intro To Angles]]"
 west:
 ---
 # Review
