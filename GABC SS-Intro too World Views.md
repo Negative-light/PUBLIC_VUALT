@@ -17,25 +17,24 @@ west:
 # Review
 Last week we had a short introduction into spiritual warfare. The major things we covered are
 - Our Enemy Satan
-- The Goal of the Battle being Glory.
+- The Goal of Satan in this battle is Glory
 - Our Equipment being the [[Armor of God]]
-- 
 
 # Today
-Our focus today is on the two classes of world views
+Our focus today is on the two major classes of world views. This is more of a side step too the book, but is something that I believe is fully importnat.
 
 ## Naturalistic Worldview
 This is the view that there is only the natural world. More of a it is only real if it is observable through the physical sense.
 
 The results of this are things like [[agnosticism]], [[atheism]] and on the extreme [[anti-theism]]
 
-[[30-Spiritual/BIBLE_CSB_MD/Romans/Rom 1#22|Romans 1:23-25]]
+![[30-Spiritual/BIBLE_CSB_MD/Romans/Rom 1#22|Romans 1:23-25]]
 
 
 ## Spiritual Worldview
-This is the view that there is a spiritual realm beyond the physical world. It is not necessarily Biblical, consider the [[New Age Movement]].
+This is the view that there is a spiritual realm beyond the physical world. It is not necessarily Biblical, consider the [[New Age Movement]] or [[Gnosticism]] which are both worldviews that go against the Bible, but are Spiritual Worldviews.
 
-Ultimately this is reveled in the physical world. [[Rom 1#20|Romans 1:20-25]] highlights that God has intentionally placed things  in the phyical world to make it clear his nature. This is called [[General Revelation]].
+Ultimately this is reveled in the physical world. [[Rom 1#20|Romans 1:20-25]] highlights that God has intentionally placed things  in the physical world to make it clear his nature. This is called [[General Revelation]].
 ## The Implications of Spiritual Warfare
 First we must acknowledge a basis of Spiritual Warfare.
 
@@ -56,15 +55,15 @@ The big thing we need to consider is that Spiritual warfare is a battle of the m
 # Future
 
 ## Section 1
-The Start of the Battle 
-The Methods of Battle
-The Battle Fronts
-The Counterattack
+- The Start of the Battle 
+- The Methods of Battle
+- The Battle Fronts
+- The Counterattack
 ## Section 2
-All About Angles
+- All About Angles
+# Additional Notes
 
 
 
 
-
-[^1]: [Bible Hub Strongs G342](https://biblehub.com/greek/342.htm)
+[^1]: [Bible Hub/Strongs G342](https://biblehub.com/greek/342.htm)

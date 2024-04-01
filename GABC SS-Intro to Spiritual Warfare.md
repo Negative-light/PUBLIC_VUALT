@@ -9,7 +9,17 @@ tags:
 note-type: lesson
 north:
   - The Battle is the Lords
+south: 
+east:
+  - "[[GABC SS-Intro too World Views]]"
+  - "[[GABC SS-Back to the Beginning]]"
+  - "[[GABC SS-Intro To Angles]]"
+west: 
 ---
+# Review
+N/A (First Lesson)
+# Today
+
 Purpose: The purpose of this lesson is to introduce everyone to the book and to seek if they would like to explore this topic further.
     In essence a high level overview of the Book/Concepts mentioned.
 
@@ -35,11 +45,11 @@ By having the wrong worldview we get distracted and this results in the many eff
 And now we loop back too [[Ephes 6|Ephes 6:10-11]]. Our Strength comes form God alone and through the Blood of Chrsit alone.
 
 
-Take aways
-Worldview = the lens one uses to see reality
-If you do not live as if you believe in God everyone has the right to question that. 
-Spiritual Warfare is about the Glory of God
-Our Victory is found in Jesus Alone
+## Take aways
+1. Worldview = the lens one uses to see reality
+2. If you do not live as if you believe in God everyone has the right to question that. 
+3. Spiritual Warfare is about the Glory of God
+4. Our Victory is found in Jesus Alone
 
 ## Future Lessons
 - Lesson on Worldviews
@@ -47,3 +57,6 @@ Our Victory is found in Jesus Alone
     - Spiritual
         - Man Center
         - God Centered
+
+# Additional Notes
+Throughout this study it is important too understand several components of Spiritual Warfare are not going to be explained fully. This being said as we are 

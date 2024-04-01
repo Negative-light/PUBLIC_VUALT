@@ -12,8 +12,8 @@ south:
 east:
   - "[[PUBLIC_VUALT/GABC SS-Intro too World Views|GABC SS-Intro too World Views]]"
   - "[[PUBLIC_VUALT/GABC SS-Intro to Spiritual Warfare|GABC SS-Intro to Spiritual Warfare]]"
-  - "[[SS GABC-Intro To Angles]]"
-west:
+  - "[[GABC SS-Intro To Angles]]"
+west: 
 ---
 # Review
 In the study we have already covered the following:
@@ -41,7 +41,7 @@ Based on this passage it is believed that Satan was the "worship pastor" of heav
 
 [[30-Spiritual/BIBLE_CSB_MD/Isaiah/Isa 14#12|Isa 14:12-15]] describes a angle who came before and desired too position himself *above* [[God]] this is the passage known as the fall of Satan. In Satans fall he also convinced ~1/3 of all the angles [[30-Spiritual/BIBLE_CSB_MD/Revelation/Rev 12#14|Rev 12:14]].
 
-Satan basicly wanted too take God's throne and take his position at the command center of the Kingdom. This is what the "Assembly in the Recesses of the North" discuses [[30-Spiritual/BIBLE_CSB_MD/Psalms/Ps 48#2|Ps 48:2]], [[30-Spiritual/BIBLE_CSB_MD/Isaiah/Isa 2#2|Isa 2:2]]. And the going above the clouds that reprent the **Glory** of God. [[30-Spiritual/BIBLE_CSB_MD/Exodus/Exod 16#10|Exod 16:10]], [[30-Spiritual/BIBLE_CSB_MD/Exodus/Exod 40#34|Exod 40:34]].
+Satan basicly wanted too take God's throne and take his position at the command center of the Kingdom. This is what the "Assembly in the Recesses of the North" discuses [[30-Spiritual/BIBLE_CSB_MD/Psalms/Ps 48#2|Ps 48:2]], [[30-Spiritual/BIBLE_CSB_MD/Isaiah/Isa 2#2|Isa 2:2]]. And the going above the clouds that represent the **Glory** of God. [[30-Spiritual/BIBLE_CSB_MD/Exodus/Exod 16#10|Exod 16:10]], [[30-Spiritual/BIBLE_CSB_MD/Exodus/Exod 40#34|Exod 40:34]].
 
 ### Satan's Punishment
 
