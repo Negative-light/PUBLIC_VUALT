@@ -126,8 +126,9 @@ As a church we know that these types of things exist and we may call them by dif
 As an anecdote one of the best ways in my life too fight depression was serving others and taking care of them. 
 
 #### For Partitions
-Partitions are lofty ideas or spectlations that are contrary to what God says. The primary way to prevent/destroy a partition is the idea of "Thought Claiming" ^[[[../30-Spiritual/BIBLE_CSB_MD/2 Corinthians/2 Cor 10#5|2 Cor 10:5]]]. This idea sounds easy and honestly when it comes down to it, once it is habit, is rather easy. This is the thing that Evans clams is a major issue in the church we are "Making the Christian life harder than God makes it" ^[Tony Evans "The Battle is the Lords" pg 82]. Ultimately the time to a complete time of change in ones life requires a change in ones thinking, this is even admitted within the world of phycology.
+Partitions are lofty ideas or spectlations that are contrary to what God says. The primary way to prevent/destroy a partition is the idea of "Thought Claiming" ^[[[../30-Spiritual/BIBLE_CSB_MD/2 Corinthians/2 Cor 10#5|2 Cor 10:5]]]. This idea sounds easy and honestly when it comes down to it, once it is habit, is rather easy. This is the thing that Evans clams is a major issue in the church we are "Making the Christian life harder than God makes it" ^[Tony Evans "The Battle is the Lords" pg 82]. Ultimately the time to a complete time of change in ones life requires a change in ones thinking, this is even admitted within the world of phycology [^source1].
 
+[^source1]: [What Is Behavior Change in Psychology? 5 Models and Theories](https://positivepsychology.com/behavior-change/)
 #### For All Things
 - Get your order from God. This is done by asking for wisdom in faith. ^[[[../30-Spiritual/BIBLE_CSB_MD/James/James 1#5|James 1:5]]].
     - Note that you should focus on *what God says*. Otherwise you risk acting as double minded going the way God and Man both are pulling you.
