@@ -126,4 +126,15 @@ As a church we know that these types of things exist and we may call them by dif
 As an anecdote one of the best ways in my life too fight depression was serving others and taking care of them. 
 
 #### For Partitions
-Partitions are lofty ideas or spectlations that are contrary to what God says. The primary way to prevent/destroy a partition is the idea of "Thought Claiming" ^[[[../30-Spiritual/BIBLE_CSB_MD/2 Corinthians/2 Cor 10#5|2 Cor 10:5]]]
+Partitions are lofty ideas or spectlations that are contrary to what God says. The primary way to prevent/destroy a partition is the idea of "Thought Claiming" ^[[[../30-Spiritual/BIBLE_CSB_MD/2 Corinthians/2 Cor 10#5|2 Cor 10:5]]]. This idea sounds easy and honestly when it comes down to it, once it is habit, is rather easy. This is the thing that Evans clams is a major issue in the church we are "Making the Christian life harder than God makes it" ^[Tony Evans "The Battle is the Lords" pg 82]. Ultimately the time to a complete time of change in ones life requires a change in ones thinking, this is even admitted within the world of phycology.
+
+#### For All Things
+- Get your order from God. This is done by asking for wisdom in faith. ^[[[../30-Spiritual/BIBLE_CSB_MD/James/James 1#5|James 1:5]]].
+    - Note that you should focus on *what God says*. Otherwise you risk acting as double minded going the way God and Man both are pulling you.
+- Get close too God. ^[[[../30-Spiritual/BIBLE_CSB_MD/James/James 4#8|James 4:8]]]
+    - As mentioned above, you do not have a issue with the obvious things. Alcoholism, Addiction etc are not the problem they are the symptom.  Ultimately as you get close too God, God comes closer too you and where God resides sin cannot exist.
+- Get the right view of Sin ^[[[../30-Spiritual/BIBLE_CSB_MD/James/James 4#9|James 4:9-10]]]
+    - We you need too see your sin as God sees it and understand our Total depravity. This also results in God coming closer too you. ^[[[../30-Spiritual/BIBLE_CSB_MD/Psalms/Ps 34#18|Ps 34:18]], [[../30-Spiritual/BIBLE_CSB_MD/Psalms/Ps 51#17|Ps 51:17]]]
+- Get on your knees
+    - Specificly it is advised too pray Scripture itself.
+    - This can operate as the sledgehammer too destroy walls
