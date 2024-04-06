@@ -2,6 +2,10 @@
 tags:
   - c/teaching
   - c/spiritual-warfare
+  - c/church
+  - c/family
+  - c/comunity
+  - c/discipleship
 note-type: lesson
 north:
   - The Battle is the Lords
@@ -78,6 +82,48 @@ This is effectively why Satan desires too attack  the family though things like 
 > We must fight for the family because whoever controls the family controls the future.
 \- Tony Evans "The Battle is the Lords" pg 73
 ### The Church
-Second too a factory is the training grounds and strategic military bases. In the spiritual world these are the churches.
+Second too a factory is the training grounds and strategic military bases. In the spiritual world these are the churches. The primary attack here is contention within the church. Almost every epistle is targeting *this* one issue. The goal is too divide us over superficial lines, in the including but not limited race, politics, and sub-cultures. One issue is that there is a distinction between being a "member" of a church body and having fellowship with another group of Christians. Although we may not agree with the Pentecostals on all things it doesn't mean we shouldn't fellowship with them and when we do something over a whole city, county, state or the nation does not mean we shouldn't invite them [^note2]. Ultiatmly we should seek too "Preserve the unity of the Spirit in the bond of peace" ^[[[../30-Spiritual/BIBLE_CSB_MD/Ephesians/Ephes 4#3|Ephes 4:3]]]
+
+> One reason the churches have not come together is that we are not very good about making the distinction between membership and fellowship.
+\- Tony Evans "The Battle is the Lord" pg 74
+
+[^note2]: Although Pentecostals are called out here, this is for the sake of the people this is presented too, this applies across all denominations.
+   There are somethings we must be in agreeance with (these are the primary issues of salvation, the nature of God and the nature of man) most of the differences between Baptists, Southern Baptists, Pentecostals, Lutherans, Methodists, Anglicans, Orthodox and some branches of Catholics are minor details when compared too the [[Great Commission ]].
 ### The Society
+In [[../30-Spiritual/BIBLE_CSB_MD/Daniel/Dan 10|Dan 10]], Daniel gets a vision in which the angle [[🧑Gabriel]] meets Daniel, but he is stopped by the "Prince of the Kingdom of Persia" until [[🧑 Michael]] comes and saves him. This passage shows a lot about spiritual warfare we will hit on later. But one thing is that Satan works within bodies of society including Government, Organizations and/or Movements. Ultimately the goal here is the support the Induvial front and take as many 
+
 ## The Battles
+So first we are going to look at a bit of strategy that Paul discusses in [[../30-Spiritual/BIBLE_CSB_MD/2 Corinthians/2 Cor 10#3|2 Cor 10:3-5]]. Satan tries to convince us that we need to follow through with secular things too fill spiritual needs. If you have an addiction the truth of the matter is that although there is a physiological issue present it is a symptom of a spiritual need. This is why it is important too encourage healing through **Christ Alone** too addicts, rather than just phycological tricks and tips [^note3].
+
+[^note3]: Note that just like it is important to treat the symptoms of a infection, it is also important to treat the physical symptoms of spiritual sickness.
+  This is to say that although we should preach **Christ Alone**, we should also provide tips, tricks hints and help to assist  brother and sisters in Christ in dealing with their spiritual/physical issues.
+### Mental Fortresses
+On the individual front Satan desires too build a "fortress" in everyone's mind this obviously needs a detention.
+
+
+> [!IMPORTANT] Fortress Definition
+> a mind-set that holds you hostage, making you believe that you are locked into a hopeless situation that you are powerless to change.
+\- Tony Evans "The Battle is the Lords" pg 77
+
+This is ultimately how Satan makes Christians a POW. These can be subtle like ("I can't work with Kids") or glaringly obvious ("I can't defeat my __X__ addition"). This is a byproduct of Satan basicly making himself a little house inside your head whispering into your mind continuously lies.
+
+
+### Partitions
+In line with this is Satan putting up walls under the goal of making us "double minded"., These specifically are mentioned in [[../30-Spiritual/BIBLE_CSB_MD/2 Corinthians/2 Cor 10#5|2 Cor 10:5]]. Basically making a "Holy" side of your mind and a "Unholy" side of your mind. ^[A Good analogy for this is the land of Mordor which has a fortress called Barad-dûr, and the Black Gate which operates as a wall too prevent the "Good things" from entering the corrupted land of Mordor allowing Sauron ]. A clear sign of having a partition is that what you hear on a Sunday Morning (or in your daily bible studies) isn't finding its way into your every day life. This results in becoming a confused warrior that cannot tell who the enemy is.
+
+### Counterattacks
+As a church we know that these types of things exist and we may call them by different names. 
+
+#### For Fortresses
+[[../30-Spiritual/BIBLE_CSB_MD/2 Corinthians/2 Cor 10#4|2 Cor 10:4]] desicribes our methods of defeating a fortress
+- Prayer
+- Bible Study
+- Obedience
+- Biblical Meditation
+- Fasting
+- Service
+
+As an anecdote one of the best ways in my life too fight depression was serving others and taking care of them. 
+
+#### For Partitions
+Partitions are lofty ideas or spectlations that are contrary to what God says. The primary way to prevent/destroy a partition is the idea of "Thought Claiming" ^[[[../30-Spiritual/BIBLE_CSB_MD/2 Corinthians/2 Cor 10#5|2 Cor 10:5]]]
