@@ -42,7 +42,7 @@ To see the spiritual effects we must have the right worldview for the purpose of
 By having the wrong worldview we get distracted and this results in the many effects of Satan being able to deceive us. Note that Satan doesn't want you dead or even unsaved, just inactive **not** giving glory to God. [[Isa 48|Isa 48:11]]
     - This results in a call to action. Can people question if you are a Christian. Are you living in a manner that brings Glory to God. Many of us know of a Christian who no one can question, our goal should be to be such a person.
 
-And now we loop back too [[Ephes 6|Ephes 6:10-11]]. Our Strength comes form God alone and through the Blood of Chrsit alone.
+And now we loop back too [[Ephes 6|Ephes 6:10-11]]. Our Strength comes form God alone and through the Blood of Christ alone.
 
 
 ## Take aways
