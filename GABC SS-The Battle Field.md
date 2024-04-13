@@ -139,5 +139,5 @@ Partitions are lofty ideas or speculations that are contrary to what God says. T
 - Get the right view of Sin ^[[[../30-Spiritual/BIBLE_CSB_MD/James/James 4#9|James 4:9-10]]]
     - We you need too see your sin as God sees it and understand our Total depravity. This also results in God coming closer too you. ^[[[../30-Spiritual/BIBLE_CSB_MD/Psalms/Ps 34#18|Ps 34:18]], [[../30-Spiritual/BIBLE_CSB_MD/Psalms/Ps 51#17|Ps 51:17]]]
 - Get on your knees
-    - Specificly it is advised too pray Scripture itself.
+    - Specifically it is advised too pray Scripture itself.
     - This can operate as the sledgehammer too destroy walls
