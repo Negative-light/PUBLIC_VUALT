@@ -55,7 +55,7 @@ Angles have a variety of ministries that they do examples include
 
 [^s1]: [Strong's Greek: 32. ἄγγελος (aggelos) -- an angel, messenger](https://biblehub.com/greek/32.htm)
 [^b1]: [[2 Kings 6|2 Kings 6:15-16]] - In this selection these angles were surrounding the town that Elisha was in while they were attacked by the King of Syria
-  [[Acts 12|Acts 12:19-20]] - This is when [[🧑Peter]] is freed from jail for the second time
+  [[Acts 12|Acts 12:7-10]] - This is when [[🧑Peter]] is freed from jail for the second time
 [^b3]: [[Matt 4|Matt 4:11]] - This is after [[../30-Spiritual/33-Resources/33.10-People/👼Jesus|👼Jesus]] was in the wilderness and had finished this trial did angels come and provide for him
 [^b4]: [[Rev 15|Rev 15:7]] - Rev angles are given 7 bowls of judgment and later will spill them out. 
    [[Acts 12|Acts 12:20-23]] - Acts an angle is used to kill Herod Aggripa who is claiming the Glory of God
