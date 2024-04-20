@@ -55,10 +55,15 @@ Isaiah when he was called to become a prophet was involved in a worship moment i
 [^b4]: [[Isa 6|Isa 6:1-10]] - This is the passage that describes Isaiah's calling 
 
 ### Prayer
+Additionally there are several examples of people praying and angels being directly used to be a part of that prayer being answer, these examples include Peter being freed from the prison [^b5] and Daniel in the Lions Den [^b6].
 
+[^b5]: [[Acts 12]] - This chapter contains the story of Peter being freed from prison
+[^b6]: [[Dan 6|Dan 6:10]] - This is where Daniel prays in the story of Daniel and the Lions den
 
 ### Submission
+Another method to enlist angles is via submission. An exmpale being Jesus submitting to the father and after his temptation he is ministered to by angles [^b7].  A final note on this setction si that the idea of submission and the idea of authority are heavily connected together. It is always hinted as a requirement for one to have authority they must submit to those that have authoirty over them. 
 
-# Take Aways
 
 ## Future Lessons
+The Adversary
+- The Character of Satan
