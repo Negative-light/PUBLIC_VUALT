@@ -6,6 +6,7 @@ tags:
 note-type: lesson
 north:
   - The Battle is the Lords
+  - "[[GABC SS-The_Battle_Is_The_Lords]]"
 south: 
 east:
   - "[[PUBLIC_VUALT/GABC SS-Intro To Angles|GABC SS-Intro To Angles]]"
@@ -31,7 +32,7 @@ west:
 - We fight on various "Battle Fronts"
     - Individual
     - Family
-    - Churth
+    - Church
     - Society
 - There are two "structures" that Satan builds
     - Mental Fortresses - used to make us "POWs" in this Spiritual battle. Symptoms are basically a addiction or difficult sin that one cannot shake
