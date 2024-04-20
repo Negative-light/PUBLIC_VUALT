@@ -3,6 +3,9 @@ tags:
   - c/teaching
   - c/spiritual-warfare
   - c/angles
+  - c/repentance
+  - c/praise
+  - c/worship
 note-type: lesson
 north:
   - The Battle is the Lords
@@ -31,14 +34,31 @@ west:
     - Provision for God's Purposes
 
 # Today
-
+A note the chapters this study is over (7 and 8) are really short and do not have much real data that isn't planly repeated in other areas. Therefore most of the content from this lesson comes from 8
 ## Organization
-Throughout scripture we know that angles are known to be army [^b1]. An army is divided up into ranks, this is hinted at through terms like archangel. [^g1] This structure is spelled out for those that we are against and it would be safe to say that this structure is replicated in the angels as well [^b2]. In the creation of [[Ark of the Convenant]] there are two Cherubim [^b3]. There are also the continuously worshipers and direct guardians of God taht are found in Isaiah [^b4].
+Throughout scripture we know that angles are known to be army [^b1]. An army is divided up into ranks, this is hinted at through terms like archangel. [^g1] This structure is spelled out for those that we are against and it would be safe to say that this structure is replicated in the angels as well [^b2]. In the creation of [[Ark of the Convenant]] there are two Cherubim [^b3]. There are also the continuously worshipers and direct guardians of God that are found in Isaiah [^b4].
 
 [^b1]: [[Matt 26|Matt26:54]] - Angles being refereed to in a sense that makes it clear they are a army
 [^g1]: [Strongs G743 Bible Hub](https://biblehub.com/greek/743.htm)
 [^b2]: [[Ephes 6|Ephes 6:12]] - this is the description of the structure of the demonic army. [[Col 1|Col 1:16]] - This verse also hinds at God creating four levels of leadership both in the visible and invisible space.
-[^b3]: [[Exod 25|Exod 25:20]] - This verse just has the reference to the cherubim that are on the Ark of the Covenant, but the full chapter includes the full descirption of the ark
+[^b3]: [[Exod 25|Exod 25:20]] - This verse just has the reference to the cherubim that are on the Ark of the Covenant, but the full chapter includes the full description of the ark
+
+## Authority
+Angles are authorized to act under God and should not be worshiped. But they do show God's authority in any magnificent things they do.
+
+## Actions
+Angels have various actions that they take that are somewhat activated by us and this is the *practical* side for us of why angels are important. The book describes this as **enlisting angels**.
+
+### Praise
+Isaiah when he was called to become a prophet was involved in a worship moment in heaven. This praise moment filled Isaiah with the awe that [[God]] naturally brings this produces a transformation in Isaiah, that results in him repenting specifically of being "foul mouthed". This cleaning was then where we see an angel being involved, it is an angel that brings in the coal that cleans Isaiah. Although we are cleaned by the blood of Jesus alone in our santification journey sometimes we may be ministered to by angels to push us onward as we destroy strongholds within out lives. [^b4].
+
+[^b4]: [[Isa 6|Isa 6:1-10]] - This is the passage that describes Isaiah's calling 
+
+### Prayer
+
+
+### Submission
+
 # Take Aways
 
 ## Future Lessons
