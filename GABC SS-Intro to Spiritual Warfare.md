@@ -49,11 +49,12 @@ To see the spiritual effects we must have the right worldview for the purpose of
 \- Tony Evans "The Battle is the Lords" pg 20
 
 By having the wrong worldview we get distracted and this results in the many effects of Satan being able to deceive us. Note that Satan doesn't want you dead or even unsaved, just inactive **not** giving glory to God. [[Isa 48|Isa 48:11]]
-    - This results in a call to action. Can people question if you are a Christian. Are you living in a manner that brings Glory to God. Many of us know of a Christian who no one can question, our goal should be to be such a person.
+- This results in a call to action. Can people question if you are a Christian. Are you living in a manner that brings Glory to God. Many of us know of a Christian who no one can question, our goal should be to be such a person.
 
-And now we loop back too [[Ephes 6|Ephes 6:10-11]]. Our Strength comes form God alone and through the Blood of Christ alone.
+And now we loop back too [[Ephes 6|Ephes 6:10-11]]. Our Strength comes form God alone and through the Blood of Christ alone. We know that Jesus will not leave us of forsake us either so he is fully reliable [^b3] furthermore Christ.
 
 [^b2]: [[Dan 4|Dan 4:26-32]]
+[^b3]: [[Matt 28|Matt 28:20]]
 
 # Take aways
 1. Worldview = the lens one uses to see reality
