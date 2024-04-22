@@ -51,7 +51,7 @@ Like all weapons there is a good counter for this one.
 3. Prayer [[30-Spiritual/BIBLE_CSB_MD/James/James 1#5|James 1:5-8]]
 
 ### Twisted Truths
-A commonality of cults or those that have misused the church and made it into a weapon is that they will twist the words of Scripture and use it for great evil. If we return too [[30-Spiritual/BIBLE_CSB_MD/Genesis/Gen 3|Gen 3]] we will see that Satan does the same thing.
+A commonality of cults or those that have misused the church and made it into a weapon is that they will twist the words of Scripture and use it for great evil. If we return too [[30-Spiritual/BIBLE_CSB_MD/Genesis/Gen 3|Gen 3]] we will see that Satan does the same thing. It is importnat to note that we are human and sometimes a truth just gets twisted in communication and may not be intentional, but when it comes to what God says it is important to resync frequently. The following comes from a summary of 
 
 First we should look at Eve's words here. She alters the command of God in three areas.
 1. She does not use the term freely. This is important because God has clearly marked that you may consume too your hearts content on the whole of the Garden.
