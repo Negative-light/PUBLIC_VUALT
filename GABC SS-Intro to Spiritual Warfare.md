@@ -30,9 +30,6 @@ Key Scriptures come from [[30-Spiritual/BIBLE_CSB_MD/Ephesians/Ephes 6|Ephes 6]]
 
 ## Evidence of the Battle
 The overall essence of this study is to really consider that there is the invisible spiritual realm that has a direct impact on the physical world. The Physical world does have some clear evidence of the conflict that occurs. Including divorce, war, abuse, addiction and so on. Currently about 50% of all marriages end in divorce [^cite1] additionally there is a growing trend of there being fewer marriages and relationships [^cite2].
-%%
-  For future lessons add *recent* divorce stats
-%%
 
 It is important that we understand that our battle is not with individuals rather it is waged mostly in this spiritual world. [^b1]
 
