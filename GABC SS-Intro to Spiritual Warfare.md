@@ -29,7 +29,7 @@ Main topic. Spiritual Warfare is real and we are to understand that battle as it
 Key Scriptures come from [[30-Spiritual/BIBLE_CSB_MD/Ephesians/Ephes 6|Ephes 6]], [[30-Spiritual/BIBLE_CSB_MD/Daniel/Dan 4|Dan 4]], [[James 4]], [[30-Spiritual/BIBLE_CSB_MD/Isaiah/Isa 48|Isa 48]],[[30-Spiritual/BIBLE_CSB_MD/Colossians/Col 1|Col 1]], [[30-Spiritual/BIBLE_CSB_MD/1 Timothy/1 Tim 4|1 Tim 4]],
 
 ## Evidence of the Battle
-The overall essence of this study is to really consider that there is the invisible spiritual realm that has a direct impact on the physical world. The Physical world does have some clear evidence of the conflict that occurs. Including divorce, war, abuse, addiction and so on.
+The overall essence of this study is to really consider that there is the invisible spiritual realm that has a direct impact on the physical world. The Physical world does have some clear evidence of the conflict that occurs. Including divorce, war, abuse, addiction and so on. Currently about 50% of all marriages end in divorce [^cite1] additionally there is a growing trend of there being fewer marriages and relationships [^cite2].
 %%
   For future lessons add *recent* divorce stats
 %%
@@ -37,6 +37,8 @@ The overall essence of this study is to really consider that there is the invisi
 It is important that we understand that our battle is not with individuals rather it is waged mostly in this spiritual world. [^b1]
 
 [^b1]: [[Ephes 6|Ephes 6:12]] - This verse discuses that we are not waging war with the physical but rather are dealing with spiritual powers.
+[^cite1]: [Revealing Divorce Statistics In 2024 – Forbes Advisor](https://www.forbes.com/advisor/legal/divorce/divorce-statistics/#sources_section) - This article discuses the current statistics on marriage and divorce
+[^cite2]: [Rising Share of U.S. Adults Are Living Without a Spouse or Partner | Pew Research Center](https://www.pewresearch.org/social-trends/2021/10/05/rising-share-of-u-s-adults-are-living-without-a-spouse-or-partner/)
 ## The Full Armor of God
 [[Ephes 6|Ephes 6:11-13]] highlights the necessity of putting on the [[Armor of God]] and the nature of our battling being a spiritual conflict.
     - This conflict creates many of the conflicts we have dealt with. That being the degradation of culture through divorce. Addiction to substances and pornography.
