@@ -27,15 +27,15 @@ Last week we did a short introduction into angles but here is what we know so fa
 # Today
 Our focus today will be on the battle field.
 
-> [!NOTE] Last Weeks Lesson was done early
-> I accidentally skipped two chapters. This is kinda a catchup lesson
-
 In a normal battle field you have battle fronts for example in World War 2 had 10 fronts, the African, Middle Eastern, Mediterranean, Western, Atlantic, Eastern, Indian, Pacific, China and Southeast Asia front [^1]. Within the battle fronts there were various battle lines where the Allies or the Axis gained/lost ground.  In essence a Battle Front is "the war" and a battle line is just "the battle".  Additionally what defines World War 2 is the new weaponry. This includes the nuclear weapons, the start of electronic warfare and tank based warfare.
 
 Similarly Spiritual Warfare has battle fronts, battle lines and a unique set of weapons and strategies used that define the war.
 
+> [!NOTE]
+> It is important to check the footnotes of this study as there are some clarifications included in them.
+
 ## Weaponry
-Lets start with focusing on the weapons that you are likly too see being used. Note that these are not guns, or swords by more or less methodologies, or attempts used by Satan against us.
+Lets start with focusing on the weapons that you are likely too see being used. Note that these are not guns, or swords by more or less methodologies, or attempts used by Satan against us.
 
 ### Bad Questions
 In [[30-Spiritual/BIBLE_CSB_MD/Genesis/Gen 3|Gen 3]] we have the fall of man. This is all precipitated via a question that the serpent (which we assume to be Satan) asks "Did God Really Say". Questions like this can be dangerous. But it is important too realize a few things.
@@ -56,8 +56,12 @@ A commonality of cults or those that have misused the church and made it into a 
 First we should look at Eve's words here. She alters the command of God in three areas.
 1. She does not use the term freely. This is important because God has clearly marked that you may consume too your hearts content on the whole of the Garden.
 2. She adds a term to the command that one should not touch the tree. This is the first case of legalism we can find in the Bible. 
-3. She lessens the punishment of God into a probability. [^note1]
+3. She lessens the punishment of God into a probability. This is to say see reduced the emphasis on the punishment which is ultimately the vector of attack Satan will use. [^note1]
 
+> [!WARNING]
+> There is this belief that Eve was the one who caused us to fall into in. This ignores two key details.
+> 1. Adam is the one who was supposed to tell Eve of the curse so these twists may have originated with him
+> 2. Adam was present with Eve **AND DID NOTHING**. Further making him responsible just as well.
 ### Blatant Contradiction
 The killing weapon of Satan is the he will outright build up contradictions of Scripture that *appear* too be from scripture itself. This weapon often is used in conjunction with Twisted Truths such that it more firmly locks in.
 
@@ -87,8 +91,16 @@ Second too a factory is the training grounds and strategic military bases. In th
 > One reason the churches have not come together is that we are not very good about making the distinction between membership and fellowship.
 \- Tony Evans "The Battle is the Lord" pg 74
 
+The church operates as a army and this comes back to the concept of the [[Armor of God]], specifically the Shield. The shield discussed is the roman shield (Shown Below) was dignied to give the full army a shell due to its interlocking design [^2] allowing the whole army to protect eachother better than one individual can, similar we are called to protect each other from the blows of Satan [^b1].
+
+![Roman Scuta|100](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ag-obj-5959-001-pub-large.jpg/800px-Ag-obj-5959-001-pub-large.jpg)
+
+
 [^note2]: Although Pentecostals are called out here, this is for the sake of the people this is presented too, this applies across all denominations.
    There are somethings we must be in agreeance with (these are the primary issues of salvation, the nature of God and the nature of man) most of the differences between Baptists, Southern Baptists, Pentecostals, Lutherans, Methodists, Anglicans, Orthodox and some branches of Catholics are minor details when compared too the [[Great Commission ]].
+[^2]:  [Scutum - Wikipedia](https://en.wikipedia.org/wiki/Scutum)
+[^b1]: [[Gal 6|Gal 6:1-10]] Discuses Christians lifting each others burdens and carrying them as one. Specifically this is talking about those who are caught in sin. 
+  [[Heb 10|Heb 10:24-25]] - This passage discuses Christians encouraging each other, making sure to meet and build each other in love and good works.
 ### The Society
 In [[../30-Spiritual/BIBLE_CSB_MD/Daniel/Dan 10|Dan 10]], Daniel gets a vision in which the angle [[🧑Gabriel]] meets Daniel, but he is stopped by the "Prince of the Kingdom of Persia" until [[🧑 Michael]] comes and saves him. This passage shows a lot about spiritual warfare we will hit on later. But one thing is that Satan works within bodies of society including Government, Organizations and/or Movements. Ultimately the goal here is the support the Induvial front and take as many 
 
