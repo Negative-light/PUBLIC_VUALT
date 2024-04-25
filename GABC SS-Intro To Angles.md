@@ -1,6 +1,5 @@
 ---
 tags:
-  - "#c/teaching"
   - c/spirutal-warfare
   - c/angles
 note-type: lesson

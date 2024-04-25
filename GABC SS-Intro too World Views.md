@@ -1,6 +1,5 @@
 ---
 tags:
-  - "#c/teaching"
   - c/spiritual-warfare
   - c/worldviews
   - c/sin
@@ -23,6 +22,10 @@ Last week we had a short introduction into spiritual warfare. The major things w
 
 # Today
 Our focus today is on the two major classes of world views. This is more of a side step too the book, but is something that I believe is fully importnat.
+
+![[../Excalidraw/D_CLASSES_OF_WORLD_VIEWS.excalidraw]]
+
+
 
 ## Naturalistic Worldview
 This is the view that there is only the natural world. More of a it is only real if it is observable through the physical sense.
@@ -56,12 +59,11 @@ The big thing we need to consider is that Spiritual warfare is a battle of the m
 # Future
 
 ## Section 1
-- The Start of the Battle 
-- The Methods of Battle
-- The Battle Fronts
-- The Counterattack
+- Return to the Start of the Battle
+- The Different Battle Fields
 ## Section 2
-- All About Angles
+- Utility of Angles
+- Operations of Angles
 # Additional Notes
 
 

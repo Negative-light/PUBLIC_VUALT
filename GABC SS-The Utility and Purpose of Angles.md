@@ -1,6 +1,5 @@
 ---
 tags:
-  - c/teaching
   - c/spiritual-warfare
   - c/angles
 note-type: lesson

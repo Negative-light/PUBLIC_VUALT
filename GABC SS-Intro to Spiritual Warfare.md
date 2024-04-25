@@ -1,6 +1,5 @@
 ---
 tags:
-  - c/teaching
   - c/spiritual-warfare
   - c/spiritual-gifts
   - c/glory
@@ -14,7 +13,7 @@ east:
   - "[[GABC SS-Intro too World Views]]"
   - "[[GABC SS-Back to the Beginning]]"
   - "[[GABC SS-Intro To Angles]]"
-west: 
+west:
 ---
 # Review
 N/A (First Lesson)

@@ -1,6 +1,5 @@
 ---
 tags:
-  - c/teaching
   - c/spiritual-warfare
   - c/church
   - c/family
