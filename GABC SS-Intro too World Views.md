@@ -19,6 +19,7 @@ Last week we had a short introduction into spiritual warfare. The major things w
 - Our Enemy Satan
 - The Goal of Satan in this battle is Glory
 - Our Equipment being the [[Armor of God]]
+- Our victory is found in Christ alone
 
 # Today
 Our focus today is on the two major classes of world views. This is more of a side step too the book, but is something that I believe is fully importnat.
