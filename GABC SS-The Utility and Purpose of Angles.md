@@ -16,10 +16,6 @@ east:
   - "[[GABC SS-The Battle Field]]"
 west:
 ---
-
-> [!IMPORTANT] Authors Note
-> It would be advised to combine this lesson and [[GABC SS-Intro To Angles]] as that lesson is short, but has important information for this lesson
-
 # Review
 - We are in a Spiritual War
 - Our Enemy is Satan
@@ -62,7 +58,7 @@ The focus of  all angels ministries is like it is for all things to point to Chr
 [^b3]: [[Matt 4|Matt 4:11]] - This is after [[../30-Spiritual/33-Resources/33.10-People/👼Jesus|👼Jesus]] was in the wilderness and had finished this trial did angels come and provide for him
 [^b4]: [[Rev 15|Rev 15:7]] - Rev angles are given 7 bowls of judgment and later will spill them out. 
    [[Acts 12|Acts 12:20-23]] - Acts an angle is used to kill Herod Aggripa who is claiming the Glory of God
-   [[Ps 103|Ps 103:20]] - This verse specicily talks about how angles do God's word and execute his will.
+   [[Ps 103|Ps 103:20]] - This verse spicily talks about how angles do God's word and execute his will.
 [^b5]: [[Acts 10]] - Angles bring down the sheet of unclean animals within a vision that started the mission to the Gentiles 
 [^b10]: [[Col 1|Col 1:16]] - this verse discuses how all things were made for the sake of Christ this includes angles and demons.
 [^b11]: [[Rev 22|Rev 22:8-9]] - This verse is when John is met by an angle that pushes him to Worship God as a "Fellow Servant"
