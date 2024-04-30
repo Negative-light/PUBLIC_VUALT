@@ -17,7 +17,8 @@ west:
 # Review
 Last week we had a short introduction into spiritual warfare. The major things we covered are
 - Our Enemy Satan
-- The Goal of Satan in this battle is Glory
+- The Goal of Satan in this battle is Gloryvalid
+- 
 - Our Equipment being the [[Armor of God]]
 - Our victory is found in Christ alone
 
