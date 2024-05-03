@@ -9,7 +9,6 @@ south:
   - "[[PUBLIC_VUALT/GABC SS-Intro to Spiritual Warfare|GABC SS-Intro to Spiritual Warfare]]"
   - "[[PUBLIC_VUALT/GABC SS-Intro too World Views|GABC SS-Intro too World Views]]"
   - "[[PUBLIC_VUALT/GABC SS-Back to the Beginning|GABC SS-Back to the Beginning]]"
-  - "[[PUBLIC_VUALT/GABC SS-Intro To Angles|GABC SS-Intro To Angles]]"
   - "[[PUBLIC_VUALT/GABC SS-The Battle Field|GABC SS-The Battle Field]]"
 ---
 This lesson plan is designed around the book "The Battle is the Lords" by Tony Evans.

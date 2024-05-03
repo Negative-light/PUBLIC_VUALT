@@ -12,7 +12,6 @@ south:
 east:
   - "[[PUBLIC_VUALT/GABC SS-Intro too World Views|GABC SS-Intro too World Views]]"
   - "[[PUBLIC_VUALT/GABC SS-Intro to Spiritual Warfare|GABC SS-Intro to Spiritual Warfare]]"
-  - "[[GABC SS-Intro To Angles]]"
 west:
 ---
 # Review
@@ -24,8 +23,6 @@ In the study we have already covered the following:
     - Naturalistic - a worldview that believes there is only the physical world
     - Spiritual - a worldview that believes there is a spiritual world
         - **NOTE**: the level at which a spiritual worldview levels the importance of the spiritual world.
-
-
 # Today
 Today we are going to focus on the start of  the Spiritual war that started.
 
@@ -33,10 +30,10 @@ Today we are going to focus on the start of  the Spiritual war that started.
 
 ### Satan's Position
 
-Satan was at one point an angle and fell from heaven this is accounted for in [[30-Spiritual/BIBLE_CSB_MD/Ezekiel/Ezek 28|Ezek 28]]. 
+Satan was at one point an angel and fell from heaven this is accounted for in [[30-Spiritual/BIBLE_CSB_MD/Ezekiel/Ezek 28|Ezek 28]]. 
 **NOTE**: That this chapter appears too discus a human king of [[📌Tyre]], but starts too discus the nature or exalted position of Satan starting in verse 12.
 
-Based on this passage it is believed that Satan was the "worship pastor" of heaven, literally leading the chior of angles that were called to bring glroy too God continuously
+Based on this passage it is believed that Satan was the "worship pastor" of heaven, literally leading the choir of angles that were called to bring glory too God continuously 
 ### Satan's Fall
 
 [[30-Spiritual/BIBLE_CSB_MD/Isaiah/Isa 14#12|Isa 14:12-15]] describes a angle who came before and desired too position himself *above* [[God]] this is the passage known as the fall of Satan. In Satans fall he also convinced ~1/3 of all the angles [[30-Spiritual/BIBLE_CSB_MD/Revelation/Rev 12#14|Rev 12:14]].
@@ -59,6 +56,6 @@ God does want us too serve him, but not out of fear, he wants us too love him. A
 
 We should be trying too guard and protect God's Glory, that is the basis of what the Christian Life, is made of. Consider King Herod Agrippa who tried too take God's glory in [[../30-Spiritual/BIBLE_CSB_MD/Acts/Acts 12#20|Acts 12:20-23]].
 
-This is accomplished via humbling ourselves before God and acknowledging our position before him, [[../30-Spiritual/BIBLE_CSB_MD/James/James 4#10|James 4:10]] and [[../30-Spiritual/BIBLE_CSB_MD/1 Peter/1 Pet 5#6|1 Pet 5:6]]. This is what fights the premodial sin of Pride.
+This is accomplished via humbling ourselves before God and acknowledging our position before him, [[../30-Spiritual/BIBLE_CSB_MD/James/James 4#10|James 4:10]] and [[../30-Spiritual/BIBLE_CSB_MD/1 Peter/1 Pet 5#6|1 Pet 5:6]]. This is what fights the primordial sin of Pride.
 
 
