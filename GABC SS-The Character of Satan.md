@@ -91,4 +91,4 @@ In reality we must also understand that **ALL POWER BELONGS TO CHRSIT**, this is
 
 [^b4]: [[Matt 10|Matt 10:32]] - This passage has a statement from Jesus about if we acknowledge him before men then he will present us before God.
 # Future
-We are in the future going to talk more specifically on Strategies of Satan and practical counter attacks. Then we will be doing a intro to demonology. To end out this section of the study we will also talk about the overal defeat of Satan.
+We are in the future going to talk more specifically on Strategies of Satan and practical counter attacks. Then we will be doing a intro to demonology. To end out this section of the study we will also talk about the overall defeat of Satan.
