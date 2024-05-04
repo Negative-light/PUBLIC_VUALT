@@ -47,7 +47,7 @@ Throughout scripture we know that angles are known to be army [^b1]. An army is 
 Angles are authorized to act under God and should not be worshiped. But they do show God's authority in any magnificent things they do.
 
 ## Actions
-Angels have various actions that they take that are somewhat activated by us and this is the *practical* side for us of why angels are important. The book describes this as **enlisting angels**.
+Angels have various actions that they take that are somewhat activated by us and this is the *practical* sidfor us of why angels are important. The book describes this as **enlisting angels**.
 
 ### Praise
 Isaiah when he was called to become a prophet was involved in a worship moment in heaven. This praise moment filled Isaiah with the awe that [[God]] naturally brings this produces a transformation in Isaiah, that results in him repenting specifically of being "foul mouthed". This cleaning was then where we see an angel being involved, it is an angel that brings in the coal that cleans Isaiah. Although we are cleaned by the blood of Jesus alone in our santification journey sometimes we may be ministered to by angels to push us onward as we destroy strongholds within out lives. [^b4].
