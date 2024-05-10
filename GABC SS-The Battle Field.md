@@ -5,6 +5,7 @@ tags:
   - c/family
   - c/comunity
   - c/discipleship
+  - c/total-depravity
 note-type: lesson
 north:
   - The Battle is the Lords
@@ -140,17 +141,23 @@ As a church we know that these types of things exist and we may call them by dif
 As an anecdote one of the best ways in my life too fight depression was serving others and taking care of them. 
 
 #### For Partitions
-Partitions are lofty ideas or speculations that are contrary to what God says. The primary way to prevent/destroy a partition is the idea of "Thought Claiming" ^[[[../30-Spiritual/BIBLE_CSB_MD/2 Corinthians/2 Cor 10#5|2 Cor 10:5]]]. This idea sounds easy and honestly when it comes down to it, once it is habit, is rather easy. This is the thing that Evans clams is a major issue in the church we are "Making the Christian life harder than God makes it" [^source2]. Ultimately the time to a complete time of change in ones life requires a change in ones thinking, this is even admitted within the world of phycology [^source1].
+Partitions are lofty ideas or speculations that are contrary to what God says. The primary way to prevent/destroy a partition is the idea of "Thought Claiming" [^b2]. This idea sounds easy and honestly when it comes down to it, once it is habit, is rather easy. This is the thing that Evans clams is a major issue in the church we are "Making the Christian life harder than God makes it" [^source2]. Ultimately the time to a complete time of change in ones life requires a change in ones thinking, this is even admitted within the world of psychology [^source1].
 
 [^source1]: [What Is Behavior Change in Psychology? 5 Models and Theories](https://positivepsychology.com/behavior-change/)
-[^source2]: Tony Evans "The Battle is the Lords" pg 82
+[^source2]: Tony Evans *The Battle is the Lords* pg. 82
+[^b2]: [[2 Cor 10|2 Cor 10:5]] - This is a verse that brings out the idea of "though claiming"
 #### For All Things
-- Get your order from God. This is done by asking for wisdom in faith. ^[[[../30-Spiritual/BIBLE_CSB_MD/James/James 1#5|James 1:5]]].
+- Get your order from God. This is done by asking for wisdom in faith. [^b3]
     - Note that you should focus on *what God says*. Otherwise you risk acting as double minded going the way God and Man both are pulling you.
-- Get close too God. ^[[[../30-Spiritual/BIBLE_CSB_MD/James/James 4#8|James 4:8]]]
-    - As mentioned above, you do not have a issue with the obvious things. Alcoholism, Addiction etc are not the problem they are the symptom.  Ultimately as you get close too God, God comes closer too you and where God resides sin cannot exist.
-- Get the right view of Sin ^[[[../30-Spiritual/BIBLE_CSB_MD/James/James 4#9|James 4:9-10]]]
-    - We you need too see your sin as God sees it and understand our Total depravity. This also results in God coming closer too you. ^[[[../30-Spiritual/BIBLE_CSB_MD/Psalms/Ps 34#18|Ps 34:18]], [[../30-Spiritual/BIBLE_CSB_MD/Psalms/Ps 51#17|Ps 51:17]]]
+- Get close too God [^b4]
+    - As mentioned above, you do not have an issue with the obvious things. An Alcoholism, Addiction etc are not the problem they are the symptom.  Ultimately as you get close to God, God comes closer to you and where God resides sin cannot exist.
+- Get the right view of Sin [^b4]
+    - We you need too see your sin as God sees it and understand our total depravity. This also results in God coming closer too you. [^b5]
 - Get on your knees
     - Specifically it is advised too pray Scripture itself.
-    - This can operate as the sledgehammer too destroy walls
+    - This can operate as the sledgehammer too destroy walls.
+
+[^b3]: [[James 1|James 1:5]] - This is calling us to pray on the Bible
+[^b4]: [[James 4|James 4:8-10]] - This passage talks about those who draw close to God will also have God coming toward you.
+[^b5]: [[Ps 34|Ps 34:18]] - This verse discuses how God is close to those with broke
+  [[Ps 51|Ps 51:17]] - This verse discuses how God is please with the sacrifice of a broken heart.
