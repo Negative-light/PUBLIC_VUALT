@@ -1,7 +1,7 @@
 ---
 tags:
   - c/spiritual-warfare
-  - c/angles
+  - c/angel
   - c/demons
   - c/glory
 note-type: lesson

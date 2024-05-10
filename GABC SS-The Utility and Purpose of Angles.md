@@ -1,7 +1,7 @@
 ---
 tags:
   - c/spiritual-warfare
-  - c/angles
+  - c/angel
 note-type: lesson
 north:
   - The Battle is the Lords

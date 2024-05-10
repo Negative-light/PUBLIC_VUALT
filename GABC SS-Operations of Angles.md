@@ -2,7 +2,7 @@
 tags:
   - c/teaching
   - c/spiritual-warfare
-  - c/angles
+  - c/angel
   - c/repentance
   - c/praise
   - c/worship
