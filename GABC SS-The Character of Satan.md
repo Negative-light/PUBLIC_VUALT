@@ -3,7 +3,7 @@ tags:
   - c/spiritual-warfare
   - c/demons
   - c/humility
-type: lesson
+note-type: lesson
 north:
   - The Battle is the Lords
   - "[[GABC SS-The_Battle_Is_The_Lords]]"
@@ -58,6 +58,8 @@ Throughout scripture Satan is compared to a wolf, a destroy, a trickster all of 
   [[John 8|John 8:44]] - This passage is where Jesus describes Satan as a "murderer from the beginning"
 ## The Power of Satan
 Before we being here it is important to remember that God is sovereign. This means that if Satan is going to do a thing he **must** ask for permission or that God has veto power over Satan at any time. For the sake of looking at Satan's power we will first look at Jesus' temptation specifically the second temptation when Satan offers Jesus all the kingdoms of the world, Satan does have the power to give you things and build you up for selfish desires. These will be used to achieve his Goals of destroying us [^b2a] [^related1]. We also must ackoledge though that Satan is a liar and thus his promises are empty and will result in you being destroyed [^b2b].
+
+Satan by his nature has a increased power than us simply because he is an angel this is not human and is not as limited as we are. This also menas he is by virtue of have existed since the start of the world become much wiser than we even if he is not given wisdom or power from God (note that we can gain wisdom over him through God of course) This being said Satan though he has authority of  the earth he does not have authority over people unless they (or God) give it to him (and this is also not possible for Christians)
 
 [^b2a]: [[Luke 4|Luke 4:6]] - This is the specific reference to Jesus being tempted and Satan offering him "all the kingdoms of the world"
   [[1 John 5|1 John 5:19]] - This passage talks on how all the world is under the power of the "evil one"
