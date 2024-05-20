@@ -117,11 +117,15 @@ On the individual front Satan desires too build a "fortress" in everyone's mind 
 
 This is ultimately how Satan makes Christians a POW. These can be subtle like ("I can't work with Kids") or glaringly obvious ("I can't defeat my __X__ addiction"). This is a byproduct of Satan basically making himself a little house inside your head whispering into your mind continuously lies.
 
+%%
 #### TODO
 Add Brick by Brick paragraph
 Add Building of a habit
 Add in section on God "giving you to sin" up to death
+
+%%
 ### Partitions
+
 In line with this is Satan putting up walls under the goal of making us "double minded"., These specifically are mentioned in [[../30-Spiritual/BIBLE_CSB_MD/2 Corinthians/2 Cor 10#5|2 Cor 10:5]]. Basically making a "Holy" side of your mind and a "Unholy" side of your mind. [^note4]. A clear sign of having a partition is that what you hear on a Sunday Morning (or in your daily bible studies) isn't finding its way into your every day life. This results in becoming a confused warrior that cannot tell who the enemy is.
 
 [^note4]: A Good analogy for this is the land of Mordor which has a fortress called Barad-dûr, and the Black Gate which operates as a wall too prevent the "Good things" from entering the corrupted land of Mordor allowing Sauron
