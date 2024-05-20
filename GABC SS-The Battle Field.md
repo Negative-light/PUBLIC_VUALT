@@ -73,7 +73,6 @@ In [[30-Spiritual/BIBLE_CSB_MD/Genesis/Gen 3|Gen 3]] this is when the serpent sa
 
 ## The Battle Fronts
 Obviously there are differently levels for this battles and we are going to start with the general fronts.
-
 ### The Individual
 All throughout scripture the devils attack is made clearly against a individual. A common one is [[30-Spiritual/BIBLE_CSB_MD/1 Peter/1 Pet 5#8|1 Pet 5:8]]. The goal here is too capture individual Christians such that we cannot operate effectively on other fronts. Failure here may result in you becoming a "POW" too addictions such as porn, alcohol, drugs, gossip or gluttony. Like what 1 Peter says, the goal is too consume the individual. This being said it is important too consider that although this front is over *one* person it shouldn't be fought by *one* person.
 
