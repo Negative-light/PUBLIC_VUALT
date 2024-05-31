@@ -42,7 +42,7 @@ west:
 Today we are going to dive deeper into the topic of angles or angelology. Some things to note tis that angles are 100% spirit and only adopt human forms temporarily.
 ## Angels Ministries
 Angles have a variety of ministries that they do examples include
-- Being Messengers (this is what the word "angle" actually means) [^s1]
+- Being Messengers (this is what the word "angel" actually means) [^s1]
     - This includes providing Guidance [^b5]
 - Being Protectors of God's people [^b1]
 - Being Providers form God [^b3]
@@ -103,4 +103,4 @@ The goal of all these elements is for you to  can be summarized in [[Col 3|Col 3
 
 
 # Future Lessons
-- Angles Activites in the current world
+- Angles Activates in the current world
