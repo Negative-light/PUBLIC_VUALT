@@ -13,8 +13,8 @@ east:
   - "[[GABC SS-Back to the Beginning]]"
   - "[[GABC SS-Intro to Spiritual Warfare]]"
   - "[[GABC SS-The Battle Field]]"
-  - "[[GABC SS-The Utility and Purpose of Angles]]"
-west:
+  - "[[GABC SS-The Utility and Purpose of Angels]]"
+west: 
 ---
 # Review
 - We are in a battle over glory between God and Satan
