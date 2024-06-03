@@ -61,7 +61,8 @@ The focus of  all angels ministries is like it is for all things to point to Chr
 [^b10]: [[Col 1|Col 1:16]] - this verse discuses how all things were made for the sake of Christ this includes angles and demons.
 [^b11]: [[Rev 22|Rev 22:8-9]] - This verse is when John is met by an angle that pushes him to Worship God as a "Fellow Servant"
 ### Spiritual "Ladders"
-Next we will discus Spiritual Ladders, in the book Evans ties this into the call of Nathaniel, which is interesting. But the goal is too connect a few things these The Ladder is used to represent God's blessings on earth.
+Note: reference for Jacobs ladder [[Gen 28|Gen 28:10-22]]
+Next we will discus Spiritual Ladders, in the book Evans ties this into the call of Nathaniel, which is interesting. But the goal is too connect a few things these The Ladder is used to represent God's blessings on earth. 
 
 > One  Satan has done successfully is keep us ignorant of God's promises
 \- Dr. Tony Evans, "The Battle is the Lords", pg 118
