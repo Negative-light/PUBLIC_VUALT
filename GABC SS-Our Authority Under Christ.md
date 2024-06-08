@@ -33,6 +33,24 @@ Another core thing with Authority is that Jesus  paid our debt when he died on t
 
 [^b2]: [[John 19|John 19:30]] - This verse is the last statement of the [[Crucifixion of Jesus]] when he says "It is Finished" the word *Finished* could also mean *Paid in Full*. 
 
+## Our Current Position
 
+> We have powerful Christians living powerless lives because they keep looking to Satan for permission to live as Christians
+\- Tony Evans *The Battle is the Lords* pg 235
+
+We as Christian *must* understand our actual position and the authority we have simply being followers of Jesus. This is huge as many Christians ignore this and get stuck in Sin struggles. We have the authority the right to be sanctified through the [[Holy Spirit]], this being said of course there are some sins we are also commanded to flee from.
+
+### Co-Conquerors
+
+When Jesus defeated Satan the word used there is similar to how a Roman Conqueror would triumph [^b3]. In this he would take the enemy general chain him behind his chariot and ride through the city along with his army thereafter. We are that army for Jesus.
+
+[^b3]: [[Col 2|Col 2:15]] - This  is a verse that highlights Christ's triumph and demonstration of his authority.
+
+## Exercising Authority
+Ok so we have authority we have a position cool. But position only matters based on who you are under. In highschooler I became the First Officer of the local Trail Life toop. In that position i had authority and responabilty. This being said the troop eventually closed. So do I still have that Authority, **NO**. Authority only matters from whom you get it from, as Christians this is from Jesus. Similar to how a police officer puts on a uniform we should put on the clothing of Christ to exercise our authoirty.
+
+## Victory In Christ
+
+In closing we have victory and authority in Christ ultimately to live in the *Promised Land* that is the Christian LIfe. So that one day we can be also with God in paradise.
 
 # Next Week
