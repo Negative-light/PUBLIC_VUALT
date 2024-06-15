@@ -33,6 +33,11 @@ Another core thing with Authority is that Jesus  paid our debt when he died on t
 
 [^b2]: [[John 19|John 19:30]] - This verse is the last statement of the [[Crucifixion of Jesus]] when he says "It is Finished" the word *Finished* could also mean *Paid in Full*. 
 
+### Jesus has all authority
+Jesus furthermore has authority of all things in heaven and on earth via his death burial and resurrection [^b2a]. 
+
+[^b2a]: [[Matt 28|Matt 28:18]] - This verse is a opening statement of Jesus as he presents himself post resurrection to the disciples. Stating that all authority has been given to him on heaven and on earth.
+
 ## Our Current Position
 
 > We have powerful Christians living powerless lives because they keep looking to Satan for permission to live as Christians

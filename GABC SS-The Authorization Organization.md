@@ -28,11 +28,29 @@ One huge thing to consider here is that the church is the principle group that J
 
 The church started when Jesus renamed [[🧑Peter|Simon]] to Peter and stated that on him the church would be founded. This is where the church gets its authority is through the delegation of Jesus. [^b1]
 
-It is important to note that the word used for *rock* in that passage is `petra`
+It is important to note that the word used for *rock* in that passage is `petra` this is not the name that Peter is given, `petros`. Petra is the feminine form of that word and is used to mean a group of stones that fused together to form a slab. That the church is built on the concept that Jesus is the messiah. [^g1] [^g2]
 
 [^b1]: [[Matt 16|Matt 16:13-18]] - In this passage we have Jesus commissioning the church stating that he will build it up on Petra. Based on him acknowledging that Jesus is the messiah from the Old Testament prophecies.  
   **Fun Fact**: This is the first use of the word *ekklesia* [Strongs G1577](https://biblehub.com/greek/1577.htm)
+[^g1]: [Strong's Greek: 4073. πέτρα (petra) -- a (large mass of) rock](https://biblehub.com/greek/4073.htm
+[^g2]: [Strong's Greek: 4074. Πέτρος (Petros) -- "a stone" or "a boulder," Peter, one of the twelve apostles](https://biblehub.com/greek/4074.htm)
 
+## The Church's Utility
+For the individual the items of Spiritual Armor are 100% defensive. The only exception being the sword of the word. But what is interesting about the amor used is that Roman armor was designed to work for a legion. [^b2] This is to say that one Christian by themselves can only defend but as we come together we can be on the offensive. As a matter of fact Christ calls us to be on the offensive. The Gates of Hell was a temple just a few miles up river from where they are in Matt 16. This was a place of authority for Caesar and Roman Gods. Christ is literally calling them to default a local power for evil [^b1].  
+It could be further noted that there are even multiple ways to analyze the "Gates of Hades" not only as the temple up river. For example the gate was usually the court house of the city. This is the authority of the location. For example the Gates of Jerusalem would be the business center/court house house of the city of [[🏙️Jerusalem]]. Hades is the place of death (this is later related to hell) so Jesus is literally calling us to charge the gates of death. I would say this applies both physically and Spiritually. Obviously Jesus already defeated death it is finished. . But swe still fight against it as the fight between the old and new man. 
 
+> Too many believers are living in the sphere of death, even though Jesus has already given us victory over the grave. They do not understand the authority the church has to assault and overpower the gates of Hades.
+\- Tony Evans *The Battle is the Lords* pg. 247
+
+[[Ephes 6|Ephes 6:10-12]] - This is the passage that discuses the [[Armor of God]]
+
+## Exaltation of the Church in Christ
+
+### Believers are Raised with Christ
+Believers are exalted through Christ this is to say that not only do we have authority under Christ but we are also lifted up with said authority if we live under Christ. [^b3]
+
+[^b3]: [[Ephes 2|Ephes 2:6]] - This verse highlightes that we are seated with Christ in the heavens for the sake of God's glory.
+
+## The Ultimate Goal of 
 
 # Next Week
