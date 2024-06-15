@@ -51,6 +51,7 @@ Ok so we have authority we have a position cool. But position only matters based
 
 ## Victory In Christ
 
-In closing we have victory and authority in Christ ultimately to live in the *Promised Land* that is the Christian LIfe. So that one day we can be also with God in paradise.
+In closing we have victory and authority in Christ ultimately to live in the *Promised Land* that is the Christian Life. So that one day we can be also with God in paradise.
 
 # Next Week
+We are going to dive deeper on using our authority.
