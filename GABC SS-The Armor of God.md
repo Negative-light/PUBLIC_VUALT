@@ -51,8 +51,15 @@ The shield of Faith [^b1] we have hit heavily before but in essence the Roman sh
 But faith must be in something, that is for us a s Christians Jesus.
 
 ### The Helmet of Salvation [^b1]
-Obviously the purpose of a helmet is to protect the brain. No different for the helmet of salvation.  
+Obviously the purpose of a helmet is to protect the brain. No different for the helmet of salvation.  Evens even implies that the Helmet is also the "Symbol of Victory" within the Christian life. Our Salvation was the target of Jesus' victory so this does track.
 
+### The Sword Of the Word
+The Sword of the Word of God is the only offensive component to the spiritual arsenal [^b1] that we are given from God. One thing to consider is that the Word is in fact Christ [^b5]. But ironically the Greek word for word used there is not `logos` but `rehma` or that it is the utterance of God's word that is important [^cite1]. 
+
+[^b5]: [[John 1]] - The introduction to this passage is where we see the Jesus is the Word (logos) of God.
+[^cite1]: [Strong's Greek: 4487. ῥῆμα (rhéma) -- a word, by impl. a matter](https://biblehub.com/greek/4487.htm)
 ## Put on Christ
+When we look at the armor of God there is one thing that sticks out. It all points to Christ, it all requires to put on Christ. This is one of those cases where the Bible ironically is highly connected and when you dig you will find something very vauluable. We are not in fact called to put on both Christ and the Armor of God. We are called to put on Christ and by putting on him he becomes our armor.
 
 # Next Week
+For the sake of time I decided to not move forward as the next chapter is on Prayer and through this is a component of our armor I think that there is just too much for a 1hr session.
