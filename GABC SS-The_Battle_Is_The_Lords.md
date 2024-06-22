@@ -20,4 +20,4 @@ The lessons are designed around various topics but we start with a short [[PUBLI
 This unit has us going over [[GABC SS-The Utility and Purpose of Angels|The Utility and Purpose of Angles]] and we analyze the [[GABC SS-Operations of Angles|Operations of Angles]]. This leads us into coming to understand the [[GABC SS-The Character of Satan|The Character of Satan]],  and [[GABC SS-Strategies Satan Uses|his strategies]] and [[GABC SS-Intro to Demonology|his servants]]. We closed this section by asking [[GABC SS-Why is Satan still here|Why Satan is still here]]?
 
 # Application
-To apply all of this we started to understand [[GABC SS-Our Authority Under Christ|Our Authority Under Christ]] and how that authority is [[GABC SS-The Authorization Organization|Organized Under the church]]. 
+To apply all of this we started to understand [[GABC SS-Our Authority Under Christ|Our Authority Under Christ]] and how that authority is [[GABC SS-The Authorization Organization|Organized Under the church]].  We headed into understanding [[GABC SS-The Armor of God| the armor of God]] 
