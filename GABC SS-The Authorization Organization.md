@@ -54,8 +54,6 @@ Believers are exalted through Christ this is to say that not only do we have aut
 ## The Ultimate Goal of the Church
 The ultimate goal of the church is to show the Glory of Christ and ironically it connects to the rainbow. The church is a mystery that God kept secret for a time and now has started to reveal such that his "manifold" wisdom can be shown. That word manifold is actullay a term for colors and means to be diverse, so consider it like a colorful painting or a rainbow, which was used by God to share a promise with [[🧑Noah]]. This is to say that the church is like a painting that God is creating over time and we are each a part of the stroke God is doing for this time today. We exhibit God's glory.
 
-
-
 [^cite1]: [The Wonderful World of Color of God’s Wisdom | The High Calling | Theology of Work](https://www.theologyofwork.org/the-high-calling/wonderful-world-color-gods-wisdom/)
 
 # Next Week
