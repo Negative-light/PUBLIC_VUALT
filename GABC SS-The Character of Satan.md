@@ -66,7 +66,7 @@ Satan by his nature has a increased power than us simply because he is an angel 
 [^related1]: This reminds me of the [[Comparison of Icarus and Jesus]]
 [^b2b]: [[John 8|John 8:44]] - This passage is where Satan is called the "father of lies".
 
-### Satan's Effect on Chrisitans
+### Satan's Effect on Christians
 
 As a Christian we have the [[Holy Spirit]] which empowers us to see through Satan's lies and schemes thus Satan's normal power is somewhat thwarted. But any older Christian will tell you if you are living for God Satan will be opposing you. One of the best method to thwart and rest form the oppression is to Parise God (this is also why it is important to be in [[../Church|Church]])  [^b2c].
 
