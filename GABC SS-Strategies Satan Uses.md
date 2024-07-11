@@ -46,7 +46,7 @@ One way Satan counterfeits God is a corrupted view of Right and wrong. We see th
 Satan often corrupts Christianity. Today it is common to see the belief that "I am a Christian because I Go to Church". This includes prosperity Gospel and many other false teachings. [^b2c1]
 
 > [!NOTE]
-> That here we do use Christian to mean one who believes in Jesus and correct doctrine. The use of this word to mean this is waning in English thus this man need to be changed
+> That here we do use Christian to mean one who believes in Jesus and correct doctrine. The use of this word to mean this is waning in English thus this may need to be changed
 
 [^b2c1]: [[2 Cor 11|2 Cor 11:13-14]] - This passage describe  people who are "false apostles" of false teachers.
 
