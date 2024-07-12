@@ -14,18 +14,13 @@ west:
 # Review
 So far we have covered that we are in a spiritual war for glory and that our victory can be found in Jesus. This war  effects us as individuals, families, churches and as a society. We have talks about how God helps us through angels as well as how to bring those angels into our life. In this war our enemy is organized out and planned.
 
-> [!NOTE]
-> I have added information to [[GABC SS-The Character of Satan]] as seen below:
-> Satan by his nature has a increased power than us simply because he is an angel this is not human and is not as limited as we are. This also menas he is by virtue of have existed since the start of the world become much wiser than we even if he is not given wisdom or power from God (note that we can gain wisdom over him through God of course). This being said Satan though he has authority of  the earth he does not have authority over people unless they (or God) give it to him (and this is also not possible for Christians)
-
-
 ## Short and Simple
-Satan's primary method is deception, we see this in the creation of the world [^b1a] and in the formation of false teachers [^b1b]. This flows into those that follow him and teach for him. That includes but is not limited to false teacher, persecutors and ultimately the Antichrist [^note1a]. Satan hasn't changed form the begging and still devices us in the same way [^b1c]
+Satan's primary method is deception, we see this in the creation of the world [^b1a] and in the formation of false teachers [^b1b]. This flows into those that follow him and teach for him. That includes but is not limited to false teacher, persecutors and ultimately the Antichrist [^note1a]. Satan hasn't changed form the begging and still devices us in the same way [^b1c].
 
 
 [^b1a]: [[Gen 3]] - This chapter has the fall of man and we see Satan for the first time. What does he do, he creates a deception.
-[^b1b]: [[2 Cor 11|2 Cor 11:14]] - This passage talks about how Satan will go as far as looking like a angel of light (or someone good)
-[^note1a]: note: The Book describes the Antichrist as the "crowning achievement" of Satan. :It is interesting but eh
+[^b1b]: [[2 Cor 11|2 Cor 11:14-15]] - This passage talks about how Satan will go as far as looking like a angel of light (or someone good)
+[^note1a]: **note**: The Book describes the Antichrist as the "crowning achievement" of Satan. :It is interesting but eh
 [^b1c]: [[2 Cor 11|2 Cor 11:13]] - This verse Paul expresses concern about the people being deceived like Eve was.
 
 ## Satan's Counterfeits
