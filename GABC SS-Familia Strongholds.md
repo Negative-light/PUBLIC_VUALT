@@ -55,16 +55,31 @@ If you are not in the role that God has called you to Satan has a method to atta
 
 [^b1]: [[Gen 2|Gen 2:24-25]] - this is the definition of marriage based on the scriptures and the first marriage between [[🧑Adam]] and [[🧑Eve]].
 [^b2]: [[Ephes 5|Ephes 5:21-33]] - this is where we get a biblical definition of the man and woman's roll in marriage
-[b3]: [[1 Cor 11|1 Cor 11:3]] - this verse highlights in the middle of a discussion of head coverings the role of a husband
+[b3]: [[1 Cor 11|1 Cor 11:3-10]] - this verse highlights in the middle of a discussion of head coverings the role of a husband
 [^b4]: [[Gen 3]] - this passage is the fall of man and the resulting consequences
 
 ### The Infections within Modern Families
 
-Satan has most decently infected the family, even the first family had massive issues (see [[🧑Cain]] and [[🧑Abel]]). For example Satan will use long lived anger to infect the family  planting seeds of hatred. These sometimes can start as a slight back when children are young, some of this could be on the parents as they should teach children (when they are young) to deal with anger and seek forgivness and deal with problems ASAP as biblically recommended [^b5]. 
+Satan has most decently infected the family, even the first family had massive issues (see [[🧑Cain]] and [[🧑Abel]]). For example Satan will use long lived anger to infect the family  planting seeds of hatred. These sometimes can start as a slight back when children are young, some of this could be on the parents as they should teach children (when they are young) to deal with anger and seek forgiveness and deal with problems ASAP as biblically recommended [^b5]. This anger can take many forms including future abuse, lashing out in sin, no contact, etc. All of these would be easier to solve if we handled our anger sooner rather than later. Note as well that the anger between parents  **will** effect the children and will the longer it lasts. Even if you think it was 100% private... yeah no it isn't the kids will be effected. How do we deal with anger well we forgive and this is like rejecting it. Unresolved anger will be a tape playing in your head over and over you have to release that  and bluntly give it to God. This is easierr said than done asa Satan of course will try to put the tape back in.
+
+Rebellion is another infection on the family. Rebellion could be defined as going against God's established order of authority. For example the man becoming passive would be rebellion. Further the wife trying to force the husband to submit to her is also rebellion. Further more the children trying to lead/control their parents is also a form of rebellion. Note this really applies in all battle fronts. There is a biblical chain of authoirty that we are all called to be under, rebellion for this causes a large amount of damage that can/will least generations [^b3].
+
+Selfishness is a sin that also effects a marriage heavily. Sometimes this is a child that will separate a husband and a wife. Other times there is a need for a husband and wife to sacrifice for each other to fulfill the needs of the other in various areas. Though this is often applied to the marriage bed  really this applies to all areas beyond just the *obvious* target [^b6].
 
 [^b5]: [[Ephes 4|Ephes 4:26-27]] - this passage gives a biblical principle for children 
+[^b6]: [[1 Cor 7|1 Cor 7:1-5]] - this passage is on a husband and wife fulfilling each other's needs although this applies to sex it can apply to so much more.
 
 
 ## Dealing with the Problem
+Ok we now know the problem great. How do we handle the problem.
+
+First obviously we need to get in line. That means man and wife need to line up biblically and then if this is the case they can then help get their children to line back in. [^note1] As parents furthermore you are called to encourage your children to good. I consider this like lining your kid up in the right direction. Much of the suggested correction today is focused on telling a kid what not to do... not what to do that creates massive issues as these children get older because they become directionless and a "ship tossed in the wind". But if children are corrected properly **and** are obedient God will bless them and further them. [^b7]
+
+[^note1]: **Note**: I will not be diving too deep here as most of my audience are not married.
+[^b7]: [[Col 3|Col 3:18-21]] - this is another passage on the order and direction of marriage as well as proper correction of children. 
 
 ## Generational Cycles
+One thing i want to hit on is generational cycles, specifically i will be targeting abuse as this is something i have history/understanding of, but this applies to other areas too. First a generation cycle is a sin that a child inherits from their parents and often causes a great deal of harm. The severity of the cycle may vary, but it will review. It is important as Christians that we break these familial chains doing our best to break these chains. I will also not that this cannot be done in a single generation either. From my estimates it usually takes about three. The first being the parent taking that first step and making an honest attempt at change. they will not be perfect and some harm will still be caused **becuase they do not know better**, but I believe that God does in fact bless this because the child then goes and looks back understanding better the good and the bad and maybe has a understanding of how to avoid the pitfalls their parents landed in. This results in the grandchildren finally being relativly free. There is still some left but these things will be diluted. All of this could be reflected in a Christians sanctification journey.
+
+# Next Week
+We are going to talk about stronghold within the [[../Church|Church]].
