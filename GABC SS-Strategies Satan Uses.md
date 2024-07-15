@@ -14,6 +14,7 @@ west:
 # Review
 So far we have covered that we are in a spiritual war for glory and that our victory can be found in Jesus. This war  effects us as individuals, families, churches and as a society. We have talks about how God helps us through angels as well as how to bring those angels into our life. In this war our enemy is organized out and planned.
 
+# Today
 ## Short and Simple
 Satan's primary method is deception, we see this in the creation of the world [^b1a] and in the formation of false teachers [^b1b]. This flows into those that follow him and teach for him. That includes but is not limited to false teacher, persecutors and ultimately the Antichrist [^note1a]. Satan hasn't changed form the begging and still devices us in the same way [^b1c].
 
