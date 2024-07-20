@@ -98,6 +98,7 @@ The final point is that sometimes we become prideful and see ourselves as the su
 
 [^b8]: [[Rev 3|Rev 3:15-17]] - the church of [[🏙️Laodicea]] being called out for their weath and not relying on God
 # Next Week
+We are going to hit on how we can mark our society for hte better.
 
 # Other
 This is just a collection of things for later.
