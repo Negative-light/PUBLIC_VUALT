@@ -22,4 +22,4 @@ This unit has us going over [[GABC SS-The Utility and Purpose of Angels|The Util
 # Application
 To apply all of this we started to understand [[GABC SS-Our Authority Under Christ|Our Authority Under Christ]] and how that authority is [[GABC SS-The Authorization Organization|Organized Under the church]].  We headed into understanding [[GABC SS-The Armor of God| the armor of God]] and we deep dived specifically into the [[GABC SS-Spear of Prayer|the power of prayer]].
 
-We then talks about strongholds for [[../GABC SS-Personal Strongholds|Individuals]], [[GABC SS-Familia Strongholds|Families]]
+We then talks about strongholds for [[../GABC SS-Personal Strongholds|Individuals]], [[GABC SS-Familia Strongholds|Families]], [[../GABC SS-Eclesial Strongholds|Churches]] and
