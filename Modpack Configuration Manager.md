@@ -1,6 +1,6 @@
 ---
 tags:
-  - programing
+  - programming
   - projects
   - public
 ---
