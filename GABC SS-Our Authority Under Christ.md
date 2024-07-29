@@ -52,7 +52,7 @@ When Jesus defeated Satan the word used there is similar to how a Roman Conquero
 [^b3]: [[Col 2|Col 2:15]] - This  is a verse that highlights Christ's triumph and demonstration of his authority.
 
 ## Exercising Authority
-Ok so we have authority we have a position cool. But position only matters based on who you are under. In highschooler I became the First Officer of the local Trail Life toop. In that position i had authority and responabilty. This being said the troop eventually closed. So do I still have that Authority, **NO**. Authority only matters from whom you get it from, as Christians this is from Jesus. Similar to how a police officer puts on a uniform we should put on the clothing of Christ to exercise our authoirty.
+Ok so we have authority we have a position cool. But position only matters based on who you are under. In highschool I became the First Officer of the local Trail Life toop. In that position i had authority and reasonability. This being said the troop eventually closed. So do I still have that Authority, **NO**. Authority only matters from whom you get it from, as Christians this is from Jesus. Similar to how a police officer puts on a uniform we should put on the clothing of Christ to exercise our authority.
 
 ## Victory In Christ
 
