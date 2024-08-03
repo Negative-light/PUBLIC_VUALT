@@ -6,7 +6,7 @@ tags:
 note-type: lesson
 north:
   - The Battle is the Lords
-  - "[[GABC SS-The_Battle_Is_The_Lords]]"
+  - "[[The_Battle_Is_The_Lords]]"
 south: 
 east:
   - "[[GABC SS-Intro too World Views]]"

@@ -9,13 +9,13 @@ tags:
 note-type: lesson
 north:
   - The Battle is the Lords
-  - "[[GABC SS-The_Battle_Is_The_Lords]]"
+  - "[[The_Battle_Is_The_Lords]]"
 south: 
 east:
   - "[[PUBLIC_VUALT/GABC SS-Intro too World Views|GABC SS-Intro too World Views]]"
   - "[[GABC SS-Back to the Beginning]]"
   - "[[GABC SS-Intro to Spiritual Warfare]]"
-west:
+west: 
 ---
 # Review
 Last week we did a short introduction into angles but here is what we know so far

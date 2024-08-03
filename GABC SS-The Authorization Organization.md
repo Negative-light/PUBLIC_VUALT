@@ -4,10 +4,10 @@ tags:
   - c/spiritual-warfare
 north:
   - The Battle is the Lords
-  - "[[PUBLIC_VUALT/GABC SS-The_Battle_Is_The_Lords|GABC SS-The_Battle_Is_The_Lords]]"
+  - "[[The_Battle_Is_The_Lords|The_Battle_Is_The_Lords]]"
 south: 
 east: 
-west:
+west: 
 ---
 # Review
 This study is over the spiritual war for glory between [[God]] and [[Satan]]. Within this study we have analyzed the different battle fronts that we fight on as well as different tactics that Satan uses. Furthermore we analyzed how angels interact with us in regards to spiritual warfare. Next we analyzed how demons and Satan work as a dark mirror attempting to take glory from God by immobilizing Christians. 

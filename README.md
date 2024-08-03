@@ -6,7 +6,7 @@ I have no clue what this is going to look like and so you will need to understan
 [Stream Schedule](Stream-Schedule.md)
 
 # Bible Studies
-[[GABC SS]]
+[[Sunday School Lessons]]
 # NOTES
 Some of the links here probably doesn't make much sense. It is because this is in a much larger private vault of mine. So please do be aware.
 

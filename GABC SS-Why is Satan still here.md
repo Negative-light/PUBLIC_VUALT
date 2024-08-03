@@ -8,10 +8,10 @@ tags:
   - c/spiritual-warfare
 north:
   - The Battle is the Lords
-  - "[[GABC SS-The_Battle_Is_The_Lords]]"
+  - "[[The_Battle_Is_The_Lords]]"
 south: 
 east: 
-west:
+west: 
 ---
 # Review
 This study has covered the spiritual war for glory between [God](God) and Satan. We have discussed the importance of the right worldview, where Satan tries to attack. Following this we covered angles and demons. But the important thing to remember is that **victory** is found in Jesus.

@@ -5,10 +5,10 @@ tags:
   - c/sanctification
 north:
   - The Battle is the Lords
-  - "[[GABC SS-The_Battle_Is_The_Lords]]"
+  - "[[The_Battle_Is_The_Lords]]"
 south: 
 east: 
-west:
+west: 
 ---
 # Review
 This study has covered the spiritual war between [[God]] and Satan over Glory. We have discussed the different spaces Satan attempt to attack, the units on both God's side and Satan's. Last week we covered how we find victory in [[../30-Spiritual/33-Resources/33.10-People/👼Jesus|👼Jesus]] over Satan

@@ -8,10 +8,10 @@ tags:
 note-type: lesson
 north:
   - The Battle is the Lords
-  - "[[PUBLIC_VUALT/GABC SS-The_Battle_Is_The_Lords|GABC SS-The_Battle_Is_The_Lords]]"
+  - "[[The_Battle_Is_The_Lords|The_Battle_Is_The_Lords]]"
 south: 
 east: 
-west:
+west: 
 ---
 # Review
 In this study we are analyzing the spiritual war for Glory between God and Satan including where it is fought. We have also taken time to analyze how we are given aid through angels and how Satan operates to attack us. It is important to remember as always with this study victory is found in **Christ Alone**.

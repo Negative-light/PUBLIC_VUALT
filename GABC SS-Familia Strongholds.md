@@ -9,7 +9,7 @@ tags:
   - c/abuse
 north:
   - The Battle is the Lords
-  - "[[GABC SS-The_Battle_Is_The_Lords]]"
+  - "[[The_Battle_Is_The_Lords]]"
 ---
 # Review
 We have been studying the Spiritual War between [[God]] and Satan. We understand that Satan's goal is to disable Christians such that we cannot bring glory to God.

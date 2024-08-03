@@ -10,7 +10,7 @@ tags:
   - c/authority
   - c/repentance
 north:
-  - "[[GABC SS-The_Battle_Is_The_Lords]]"
+  - "[[The_Battle_Is_The_Lords]]"
   - The Battle is the Lords
 ---
 # Review

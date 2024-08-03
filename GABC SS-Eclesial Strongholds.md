@@ -7,7 +7,7 @@ tags:
   - c/calling
 north:
   - The Battle is the Lords
-  - "[[PUBLIC_VUALT/GABC SS-The_Battle_Is_The_Lords|GABC SS-The_Battle_Is_The_Lords]]"
+  - "[[The_Battle_Is_The_Lords|The_Battle_Is_The_Lords]]"
 ---
 # Review
 We are in a Study on the Spiritual war for Glory between [[God]] and Satan.

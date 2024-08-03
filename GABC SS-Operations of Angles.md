@@ -9,14 +9,14 @@ tags:
 note-type: lesson
 north:
   - The Battle is the Lords
-  - "[[PUBLIC_VUALT/GABC SS-The_Battle_Is_The_Lords|GABC SS-The_Battle_Is_The_Lords]]"
+  - "[[The_Battle_Is_The_Lords|The_Battle_Is_The_Lords]]"
 south: 
 east:
   - "[[PUBLIC_VUALT/GABC SS-Intro too World Views|GABC SS-Intro too World Views]]"
   - "[[GABC SS-Back to the Beginning]]"
   - "[[GABC SS-Intro to Spiritual Warfare]]"
   - "[[GABC SS-The Battle Field]]"
-west:
+west: 
 ---
 # Review
 - We are in a spiritual war over glory with Satan.

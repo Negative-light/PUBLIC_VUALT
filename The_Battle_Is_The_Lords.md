@@ -3,7 +3,7 @@ tags:
   - c/teaching
   - c/spiritual-warfare
 north:
-  - "[[PUBLIC_VUALT/GABC SS|GABC SS]]"
+  - "[[Sunday School Lessons|Sunday School Lessons]]"
 south:
   - "[[PUBLIC_VUALT/GABC SS-Intro to Spiritual Warfare|GABC SS-Intro to Spiritual Warfare]]"
   - "[[PUBLIC_VUALT/GABC SS-Intro too World Views|GABC SS-Intro too World Views]]"
