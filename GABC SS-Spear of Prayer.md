@@ -54,6 +54,6 @@ I am reaching with the headings now. But I think this works. The word there *Pne
 The greatest part of this is that when you are beaten down and cannot pray or don't even know what you need to pray for the Holy Spirit interciedes for *you* [^b5].
 
 [^b4]: [[1 Cor 2|1 Cor 2:9013]] - This passage shows us what it means to live in the Spiritual realm specifcly being envelpoed in the Holy Spirit.
-[^b5]: [[Rom 8|Rom 8:26-18]]  - in this passage we see that both the Holy Spirit and Jesus intercede for us at the throne of God.
+[^b5]: [[Rom 8|Rom 8:16-18]]  - in this passage we see that both the Holy Spirit and Jesus intercede for us at the throne of God.
 # Next Week
 WE are goign to start looking at executing warfare to break strongholds in the four battle fronts of Spiritual life.
