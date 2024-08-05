@@ -30,9 +30,9 @@ The church started when Jesus renamed [[🧑Peter|Simon]] to Peter and stated th
 
 It is important to note that the word used for *rock* in that passage is `petra` this is not the name that Peter is given, `petros`. Petra is the feminine form of that word and is used to mean a group of stones that fused together to form a slab. That the church is built on the concept that Jesus is the messiah. [^g1] [^g2]
 
-[^b1]: [[Matt 16|Matt 16:13-18]] - In this passage we have Jesus commissioning the church stating that he will build it up on Petra. Based on him acknowledging that Jesus is the messiah from the Old Testament prophecies.  
+[^b1]: [[Matt 16|Matt 16:13-18]] - In this passage we have Jmesus commissioning the church stating that he will build it up on Petra. Based on him acknowledging that Jesus is the messiah from the Old Testament prophecies.  
   **Fun Fact**: This is the first use of the word *ekklesia* [Strongs G1577](https://biblehub.com/greek/1577.htm)
-[^g1]: [Strong's Greek: 4073. πέτρα (petra) -- a (large mass of) rock](https://biblehub.com/greek/4073.htm
+[^g1]: [Strong's Greek: 4073. πέτρα (petra) -- a (large mass of) rock](https://biblehub.com/greek/4073.htm)
 [^g2]: [Strong's Greek: 4074. Πέτρος (Petros) -- "a stone" or "a boulder," Peter, one of the twelve apostles](https://biblehub.com/greek/4074.htm)
 
 ## The Church's Utility
