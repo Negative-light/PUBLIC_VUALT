@@ -10,5 +10,5 @@ north:
   - "[[Sunday School Lessons]]"
 ---
 # Introduction
-We started with a [[Introduction to the Book of Jeremiah]]
+We started with a [[Introduction to the Book of Jeremiah]]. As we looked the the first two visions given to [[🧑Jeremiah]] we see how [[God]] is calling judgment upon the [[Nation of Israel]]
 
