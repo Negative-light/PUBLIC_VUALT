@@ -5,6 +5,7 @@ tags:
   - c/holiness
   - c/apostasy
   - c/idolatry
+  - c/spiritual-warfare
 north:
   - "[[Destruction and Rebuilding a study of the book of Jeremiah]]"
 ---
@@ -29,7 +30,20 @@ The second vision is a pot boiling over form north to south. I am certain there 
 
 [^b3]: [Jer 1:13-16](Jer%201.md) - this is the second vision that Jeremiah sees of a boiling pot talking of the Judgment God is bringing because the nation has run from him. and Into Idolatry
 
-This vision is on how God will be sending [[🏙️Babylon]] to attack from the North. But specifically God is going this because the people have fallen into idolatry and sacrificing to them 
+This vision is on how God will be sending [[🏙️Babylon]] to attack from the North. But specifically God is going this because the people have fallen into idolatry and sacrificing to them.
+
+## God Encouraging Jeremiah
+The final part of this vision is that God is encouraging Jeremiah to stand firm and try his best. The first thing God calls Jeremiah is to not be intimidated or to not fall to the pressure of the culture of the day [^cite3] and become "dismayed" or discouraged by what the people will do.
+From here God says he has made Jeremiah a set of structures. If we roll this into the concept of Jeremiah being call into Spiritual Warfare, he has become a fortress for God within the society, but lets look futher. He is to call out the government, the church and the culture of his time and place [^b2].
+
+[^cite3]: [Strong's Hebrew: 2865. חָתַת (chathath) -- 51 Occurrences](https://biblehub.com/hebrew/strongs_2865.htm)
+
+## Applications
+So of what benefit do we see today from this section. I think this rolls back to first and foremost that God wants us to obey him and to do what he has called us to do, and that what we need is faith.
+Was it Jeremiah who was making himself a fortress? **NO**.
+How then should we expect that we can become a fortress for God in and of ourselves?
+How can we deal with the problems in our culture without having first sought God and we are becoming obedient to **Him**?
+How can we expect for God to give us a vision if we are not obisidnet to follow through and **act on that vision**?
 
 # Next Week
 I am abandoning the *done in 24* goal... that just isn't happening unless we want to split up more, but there is too much to go over and I would like to give this book the time it deserves.
