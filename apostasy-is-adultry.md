@@ -28,4 +28,21 @@ Something I think we shouldn't skip over is that God specifically calls out the 
 [^b3]: [Jer 2:8](Jer%202.md) - here we see God directly call out the spiritual leadership of Israel 
 
 ## God's Judgment
-Now we see God's Judgment because of the People not being loyal and forgetting what *He* has done. ASNd that is that he will charge them 
+Now we see God's Judgment because of the People not being loyal and forgetting what *He* has done. And that is that he will charge them and their grandchildren. I think this is important to remember that of the the problems that our families have take generations to fix. But we also know from other parts of scripture that God will also heal those wounds ***if*** we turn to him. [^b4]
+
+[^b4]: [Jer 2:9](Jer%202.md) - this is where God says he is going to create a legal case against the Nation of Isreal and the grandchildren of the people alive in that Day.
+
+### Our Glory comes from God
+The next bitgt that I think is super important is that the nation of Isreal in abandoning God and turning to idols exchanged their Glory. They lost the glory they had for something useless. We as Christians I think do this often. We obsess over politics or sport or one of a thousand hobbies. Myself included in this because this is honestly easy to do in our culture. But the key here is that  the nation of Isreals glory (and honestly ours) comes form God rather one might be able to say that it is *our relationship* with God. [^b5] And look further we see that God declares that hte heavens should be shocked by this.
+
+[^b5]: [Jer 2:11-12](Jer%202.md) - this passage we see that Israel exchanged their glory for idols leading to that the heavens would be shaken over their idolatry.
+
+### Exchanging God for Emptiness
+This prophecy ends  with God calling the nation of Israel doubly evil because they exchanged God satisfying. This interests me not because of the charge here of double evil but because of this key concept. *That we as Christians have a never ending well* and that when we look to sin *We dig a broken cistern* [^b6]. The cistern they have cannot hold water, which relates to life, joy, hope. We as humans cannot live without water (or coffee... that is more everyone around me) and its the same here wasting good clean water "living water" is fundamental and they were wasting this vial resource. How often do we do this in our spiritual walk? HOW OFTEN do we trade the truth of God for a lie that will never satisfy us? [^b7]
+
+
+[^b6]: [John 7:37-39](John%207.md) - this is a passage that [👼Jesus](../30-Spiritual/33-Resources/33.10-People/%F0%9F%91%BCJesus%7C%F0%9F%91%BCJesus.md) promises that he will provided living water to us. That he is the person mentioned in Jeremiah
+[^b7]: [Jer 2:13](Jer%202.md) - here we have the nation of Isreal being charged wit ha double evil of wating the water and triading their God.
+
+# Next Week
+The Next prophecy
