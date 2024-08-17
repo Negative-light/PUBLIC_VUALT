@@ -8,15 +8,16 @@ tags:
   - c/spiritual-warfare
 north:
   - "[[Destruction and Rebuilding a study of the book of Jeremiah]]"
+note-type: lesson
 ---
 # Review
-Last week we looked at the general overview of the book of [[../30-Spiritual/BIBLE_CSB_MD/Jeremiah/Jeremiah|Jeremiah]] and analyized how [[🧑Jeremiah]] was called by [[God]] to preach of destruction and rebuilding to the [[Nation of Israel]]. We even analyzed how God overcame Jeremiah's excuse of being young commanding him to not be afraid and giving him the inspiration to do things.
+Last week we looked at the general overview of the book of [[../30-Spiritual/BIBLE_CSB_MD/Jeremiah/Jeremiah|Jeremiah]] and analyzed how [[🧑Jeremiah]] was called by [[God]] to preach of destruction and rebuilding to the [[Nation of Israel]]. We even analyzed how God overcame Jeremiah's excuse of being young commanding him to not be afraid and giving him the inspiration to do things.
 
 # Today
 Today we are going to be looking at the first two things that Jeremiah is called to preach. The first is a prophecy on the coming destruction and the first is the accusation of apostasy of the nation of Israel.
 
 ## God is Watching the coming Destruction
-The first vision that Jeremiah is called to preach opens with God asking Jeremiah what he sees which  is a almost tree. Now for us this doesn't iftwhat God says next, that he watches over *his word*. This is because the word for almost tree (shaqed)[^cite1] is similar to the word watch over (shaqad) [^cite2].  This vision is God highlighting that he is "awake" or watching to ensures that what he says is accomplished [^b1].
+The first vision that Jeremiah is called to preach opens with God asking Jeremiah what he sees which  is a almost tree. Now for us this doesn't if what God says next, that he watches over *his word*. This is because the word for almost tree (shaqed)[^cite1] is similar to the word watch over (shaqad) [^cite2].  This vision is God highlighting that he is "awake" or watching to ensures that what he says is accomplished [^b1].
 
 These two verses make me think of a few things. First the best way to make a rule is to make the rule rhyme. Or better put or Rhyming Rules are Remembered Rules. The other side is a tagline. Why does this concept intersect here. Well as we see later God is still working on encouraging Jeremiah [^b2]
 
