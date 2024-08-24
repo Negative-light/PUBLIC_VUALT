@@ -32,9 +32,9 @@ The next verse i think is interesting it kinda describes Israel as an addicts. T
 We follow onto God further calling out the people. Calling them to be shamed, but here we see he double calls out the leadership of the nation. And telling them to return to their "gods" because he has disowned them.
 
 ## Why
-Why and what is important here wwhat are the impacts on our daily lives form this passage. I think the bigest and most clear thing is that God will open us to the punishment of our sins. He will allow us to go so far that our lives are forever ruined by it, IF we choose to do that. I can say from my personal life that God is gracous in this and will hold you back at times slow you donw and if you listen will help you return *quickly*.
+Why and what is important here wwhat are the impacts on our daily lives form this passage. I think the bigest and most clear thing is that God will open us to the punishment of our sins. He will allow us to go so far that our lives are forever ruined by it, IF we choose to do that. I can say from my personal life that God is gracious in this and will hold you back at times slow you donw and if you listen will help you return *quickly*.
 
-Today we have an epidemic of Christians living in sin. And these sins all have permanent consequences. From drugs that damage you body to pronography that warps the mind to the point where I would say most of our young men need to be placed into therapy over it. The world today is out to kill Christians to demolish our testimony.
+Today we have an epidemic of Christians living in sin. And these sins all have permanent consequences. From drugs that damage you body to phonography that warps the mind to the point where I would say most of our young men need to be placed into therapy over it. The world today is out to kill Christians to demolish our testimony.
 
 One other side is that sometimes we have opportunities to help people who are in this state and we **need** to approach these things with care yes, but there is so much that can and will be done if we are faithful to Christ.
 # Next Week
