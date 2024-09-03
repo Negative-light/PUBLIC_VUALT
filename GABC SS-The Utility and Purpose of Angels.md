@@ -71,7 +71,7 @@ Similar too the necessity of the [[Armor of God]] to Spiritual Warfare God's pro
 
 The second blessing is the presence of God. Remember that this ladder goes from earth to heaven, **the throne room of God**. The reason this is important is sometimes we miss God providing, guiding or otherwise answering our prayers because we *do not acknowledge his presence* because we are calloused to his presence.
 
-The third blessing is protection for the *purpose God has for you*. For Jacob this was to form the [[Nation of Israel]] that ultimately culminated in the birth of Jesus.  Similarly for you this is the same. This is  also why the Bible hits on the concept of "Do not Fear", as something we face is this idea that "I cannot do X" this is not necessarily and in some cases is a fear response. Rather remember who you are called to be and the God you serve. [^b6]
+The third blessing is protection for the *purpose God has for you*. For Jacob this was to form the [[../🏙️🏙️Nation of Israel]] that ultimately culminated in the birth of Jesus.  Similarly for you this is the same. This is  also why the Bible hits on the concept of "Do not Fear", as something we face is this idea that "I cannot do X" this is not necessarily and in some cases is a fear response. Rather remember who you are called to be and the God you serve. [^b6]
 
 The final blessing from the ladder is provision from God to do what he has called you to do. This can be blurred if we focus too much on our circumstances and do not focus on God. [^b7] 
 

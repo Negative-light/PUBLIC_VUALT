@@ -8,7 +8,7 @@ tags:
 note-type: lesson
 ---
 # Review
-We are in a study of the book of [Jeremiah](../30-Spiritual/BIBLE_CSB_MD/Jeremiah/Jeremiah%7CJeremiah.md).  And the life of [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md). We studied Jeremiah's call and how [[God]] encouraged him because he was fearful of the [[Nation of Israel]] due to his age. WE then discussed the first prophecy that Jeremiah has for the nation of Israel. That God was watching over the coming destruction of Israel and watches over his word to see it accomplished.
+We are in a study of the book of [Jeremiah](../30-Spiritual/BIBLE_CSB_MD/Jeremiah/Jeremiah%7CJeremiah.md).  And the life of [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md). We studied Jeremiah's call and how [[God]] encouraged him because he was fearful of the [[../🏙️🏙️Nation of Israel]] due to his age. WE then discussed the first prophecy that Jeremiah has for the nation of Israel. That God was watching over the coming destruction of Israel and watches over his word to see it accomplished.
 
 # This Week
 This week we are looking at the first example of Jeremiah comparing the apostasy/idolatry of Israel with Adultery. The concept being that Isreal was loyal to God doing its best to follow and obey Him [^b1]
