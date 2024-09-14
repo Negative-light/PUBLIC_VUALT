@@ -41,3 +41,4 @@ This segment closes with Jeremiah providing some thoughts on repentance. But I t
 [Jer 3:19-25](Jer%203.md)
 
 # Next Week
+We focus on how Repentance is importnat
