@@ -2,7 +2,7 @@
 aliases:
   - God Being Faithful Despite our Wandering
 north:
-  - "[[Destruction and Rebuilding a study of the book of Jeremiah]]"
+  - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 tags:
   - c/love
   - c/repentance

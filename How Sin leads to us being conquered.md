@@ -7,7 +7,7 @@ tags:
   - c/idolatry
   - c/spiritual-warfare
 north:
-  - "[[Destruction and Rebuilding a study of the book of Jeremiah]]"
+  - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 note-type: lesson
 ---
 # Review

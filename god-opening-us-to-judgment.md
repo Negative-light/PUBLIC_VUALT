@@ -7,7 +7,7 @@ tags:
   - c/addiction
   - c/adultery
 north:
-  - "[[Destruction and Rebuilding a study of the book of Jeremiah]]"
+  - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 # Review
 This week we continue our study of the life of [[🧑Jeremiah]]. This study highlights how idolatry and adultery are inherently tied together. How God is watching the destruction of Israel ensuring that HIS word is kept true.

@@ -5,7 +5,7 @@ tags:
   - c/idolatry
   - c/repentance
 north:
-  - "[[Destruction and Rebuilding a study of the book of Jeremiah]]"
+  - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - Rejection of God Creates Division from Him
 ---
