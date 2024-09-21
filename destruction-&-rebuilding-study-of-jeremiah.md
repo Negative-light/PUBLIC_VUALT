@@ -16,4 +16,4 @@ We started with a [Introduction to the Book of Jeremiah](Introduction%20to%20the
 
 We see Jeremiah's primary analogy next in [Apostasy is Adultery](apostasy-is-adultry.md). This opens us into a discussion on [God Opening Us to Judgment](god-opening-us-to-judgment.md) and a further lesson on the [Rejection of God Creates Division from Him](rejection-of-god-creates-division-from-him.md).
 
-We also see how [God is faithful in his love to us](god-being-faithful-despite-our-wandering.md). This love creates a [Repentance that Resists Destruction](repentance-resists-destruction.md)
+We also see how [God is faithful in his love to us](god-being-faithful-despite-our-wandering.md). This love creates a [Repentance that Resists Destruction](repentance-resists-destruction.md). But we must know that when God judges it [can be a sudden judgment](judgement-comes-swiftly.md) but the goal is that it comes and effects our heart
