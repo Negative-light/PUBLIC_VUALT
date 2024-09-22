@@ -1,6 +1,6 @@
 ---
 tags:
-  - c/spiritual-warfare
+  - spiritual/warfare
   - c/armor-of-god
 north:
   - "[[The_Battle_Is_The_Lords|The_Battle_Is_The_Lords]]"

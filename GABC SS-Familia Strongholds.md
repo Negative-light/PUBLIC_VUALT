@@ -1,6 +1,6 @@
 ---
 tags:
-  - c/spiritual-warfare
+  - spiritual/warfare
   - c/stronghold
   - c/family
   - c/marriage

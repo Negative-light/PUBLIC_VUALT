@@ -1,6 +1,6 @@
 ---
 tags:
-  - c/spiritual-warfare
+  - spiritual/warfare
   - c/authority
   - c/sanctification
 north:

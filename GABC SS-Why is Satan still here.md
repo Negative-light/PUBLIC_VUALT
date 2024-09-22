@@ -5,7 +5,7 @@ tags:
   - c/salvation
   - c/end-times
   - c/glory
-  - c/spiritual-warfare
+  - spiritual/warfare
 north:
   - The Battle is the Lords
   - "[[The_Battle_Is_The_Lords]]"

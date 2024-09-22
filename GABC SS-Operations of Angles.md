@@ -1,7 +1,7 @@
 ---
 tags:
   - c/teaching
-  - c/spiritual-warfare
+  - spiritual/warfare
   - c/angel
   - c/repentance
   - c/praise

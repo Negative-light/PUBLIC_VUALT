@@ -5,7 +5,7 @@ tags:
   - c/holiness
   - c/apostasy
   - c/idolatry
-  - c/spiritual-warfare
+  - spiritual/warfare
 north:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 note-type: lesson

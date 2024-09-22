@@ -5,7 +5,7 @@ tags:
   - c/prophecy
   - c/judgment
   - c/blessing
-  - c/spiritual-growth
+  - spiritual/growth
 north:
   - "[[Sunday School Lessons]]"
 aliases:

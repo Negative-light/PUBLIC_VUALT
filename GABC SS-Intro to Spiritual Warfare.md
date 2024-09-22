@@ -1,7 +1,7 @@
 ---
 tags:
-  - c/spiritual-warfare
-  - c/spiritual-gifts
+  - spiritual/warfare
+  - spiritual/gifts
   - c/glory
   - c/sin
   - "#c/sin/sexual"

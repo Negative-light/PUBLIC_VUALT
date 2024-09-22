@@ -1,6 +1,6 @@
 ---
 tags:
-  - c/spirutal-warfare
+  - spiritual/warfare
   - c/prayer
   - c/righteousness
   - c/faith

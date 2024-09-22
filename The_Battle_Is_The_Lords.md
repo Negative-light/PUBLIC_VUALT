@@ -1,7 +1,7 @@
 ---
 tags:
   - c/teaching
-  - c/spiritual-warfare
+  - spiritual/warfare
 north:
   - "[[Sunday School Lessons|Sunday School Lessons]]"
 south:
