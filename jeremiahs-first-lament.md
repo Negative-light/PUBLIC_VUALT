@@ -3,6 +3,7 @@ tags:
   - c/lament
   - c/judgment
   - c/prophecy
+  - c/grace
 aliases:
   - Jeremiah's First Lament
 north:
@@ -27,16 +28,44 @@ Last weeks lesson was focused on [God](God.md) futher providing a chance and cal
 [^coffman]: [Jeremiah 4 - Coffman's Commentaries on the Bible - Bible Commentaries - StudyLight.org](https://www.studylight.org/commentaries/eng/bcc/jeremiah-4.html)
 [^b1]: [Gen 1:2](Gen%201.md)
 [^b2]: [Rev 21:1-8](Rev%2021.md)
-
+[^b3]: [Rom 8:22](Rom%208.md)
 
 This chapter we are studying the first full lament in this passage. This is one of the reasons Jeremiah is known as the weeping Prophet.  Further we see more of HOW God will judge.
 
 ## The Lament
 Jeremiah's Lament is rather basic focusing on the coming charge which is mentioned in the previous study as a possible vision that Jeremiah had [^m1]. This also could highlight that Jeremiah was having the repentant hearth for the sake of his own people [^constables]. 
 
+### Applications
+> [!TIP]
+> Do we feel compasion for those that are being judged? For those around us?
+
 ## Depth of Destruction
 This next section talks about how the people do not know God and how deep the destruction comes [^m2]. This destruction harkens back to creation [^b1] where the world was formless. The destruction coming from Jeremiah's eyes was SO powerful it essentially was a "hard reset" of the world. Which though this didn't happen immediately we do see that later [^b2].  
 
 I will note that verse 22 is actually from God himself we see this from the phrase "They do not know me". This even calls how they were conducting evil as skilled. They were experts in doing that which was wrong. This could be a intentional rejection of God that results in ignorance [^enduring-word]. 
+
+### Applications
+>[!TIP]
+>Have we become "skilled in evil"?
+>Are there places where you see judgment in your own life because of this?
+
+
+## God's Statement
+Here we get right back to prophecy and this one has a interesting nugget. God is highlighting that the punishment **will be temporary** [^m3]. This focuses that God doesn't give up on his covenants [^clarks-commentary] holding back the power He *could* bring and the grace he shows trying to correct his people [^coffman].
+
+### Applications
+>[!TIP]
+>In the places where *you* are being judged, how has God showed grace to you?
+>In places where *others* are in judgment, how can you take part in God's work toward judgment
+
+## Running, Bribing, and Hiding. **IT** will not work
+This final segment is God talking about how the attmepts to hide or bribe or run will not stop the judgment [^m4]. This includes the more comment imagery of judgment being like a woman's labor. This is to focus on how hopeless the situation is [^blue-letter-bible]. This is a unstoping train.
+
+I feel this ties into other prophecies ties into how the world that it groans in child birth [^b3].
+
+### Applications
+>[!TIP]
+>Given that we know we  cannot hide sin from God are there places where we are attempting to hide from God and really just *slightly* delaying the consequences of our sin?
+>
 # Next Week
 Next week we are going to try for all of Chapter 5
