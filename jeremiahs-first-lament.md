@@ -11,9 +11,8 @@ north:
 ---
 # Review
 Last weeks lesson was focused on [God](God.md) futher providing a chance and call for [Israel](../%F0%9F%8F%99%EF%B8%8F%F0%9F%8F%99%EF%B8%8FNation%20of%20Israel.md) to repent and return to Him.
-- This section did highlight htat the time was coming *quickly* and would be *unavoidable*
+- This section did highlight that the time was coming *quickly* and would be *unavoidable*
 - Furthermore there is a break for [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) to call out to God out of being disheartened based on how *people* could reacted
-- 
 
 # This Week
 [^enduring-word]: [Enduring Word Bible Commentary Jeremiah Chapter 4](https://enduringword.com/bible-commentary/jeremiah-4/)
@@ -30,10 +29,10 @@ Last weeks lesson was focused on [God](God.md) futher providing a chance and cal
 [^b2]: [Rev 21:1-8](Rev%2021.md)
 [^b3]: [Rom 8:22](Rom%208.md)
 
-This chapter we are studying the first full lament in this passage. This is one of the reasons Jeremiah is known as the weeping Prophet.  Further we see more of HOW God will judge.
+This chapter we are studying the first full lament in this Jeremiah. This is one of the reasons Jeremiah is known as the weeping Prophet.  Further we see more of HOW God will judge.
 
 ## The Lament
-Jeremiah's Lament is rather basic focusing on the coming charge which is mentioned in the previous study as a possible vision that Jeremiah had [^m1]. This also could highlight that Jeremiah was having the repentant hearth for the sake of his own people [^constables]. 
+Jeremiah's Lament is rather basic focusing on the coming charge which is mentioned in the previous study as a possible vision that Jeremiah had [^m1]. This also could highlight that Jeremiah was having the repentant hearth for the sake of his own people [^constables]. A key is that is sorrows over the destruction despite knowing the depth of the sin of his people, and knowing the grace God has shown.
 
 ### Applications
 > [!TIP]
@@ -59,7 +58,7 @@ Here we get right back to prophecy and this one has a interesting nugget. God is
 >In places where *others* are in judgment, how can you take part in God's work toward judgment
 
 ## Running, Bribing, and Hiding. **IT** will not work
-This final segment is God talking about how the attmepts to hide or bribe or run will not stop the judgment [^m4]. This includes the more comment imagery of judgment being like a woman's labor. This is to focus on how hopeless the situation is [^blue-letter-bible]. This is a unstoping train.
+This final segment is God talking about how the attempts to hide or bribe or run will not stop the judgment [^m4]. This includes the more comment imagery of judgment being like a woman's labor. This is to focus on how hopeless the situation is [^blue-letter-bible]. This is a unstoping train.
 
 I feel this ties into other prophecies ties into how the world that it groans in child birth [^b3].
 
