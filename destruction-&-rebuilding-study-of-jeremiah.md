@@ -19,4 +19,4 @@ We see Jeremiah's primary analogy next in [Apostasy is Adultery](apostasy-is-adu
 
 We also see how [God is faithful in his love to us](god-being-faithful-despite-our-wandering.md). This love creates a [Repentance that Resists Destruction](repentance-resists-destruction.md). But we must know that when God judges it [can be a sudden judgment](judgement-comes-swiftly.md) but the goal is that it comes and effects our heart.
 
-We futher analized [Jeremiah's First Lament](jeremiahs-first-lament.md)
+We futher analized [Jeremiah's First Lament](jeremiahs-first-lament.md). This leads us to Jeremiah [Looking for someone rightous](no-one-rightous-in-isreal.md)
