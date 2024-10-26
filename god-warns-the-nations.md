@@ -7,6 +7,12 @@ tags:
   - c/destruction
   - c/wisdom
   - c/rest
+  - c/stumbling-block
+  - c/hypocrisy
+  - c/obedience
+  - c/heart
+  - c/sanctification
+  - c/discipleship
 ---
 [^enduring-word]: [Enduring Word Bible Commentary Jeremiah Chapter 6](https://enduringword.com/bible-commentary/jeremiah-6/)
 [^matthew-henry]: [Jeremiah 6 Commentary - Matthew Henry Commentary on the Whole Bible (Complete)](https://www.biblestudytools.com/commentaries/matthew-henry-complete/jeremiah/6.html)
@@ -45,8 +51,14 @@ The ultimate level of this is that if our heart is not aligned with what we are 
 - Is your heart aligned with what you are doing?
 - How has your actions of not obeying from the heart lead effected those around you?
 
-### God Lets Israel Fail
-Our last verse is a interesting on
+## God Lets Israel Fail
+Our last verse is a interesting one. God places stumbling blocks in front of the people of Israel. There are several interpretations of what these are, why they exist etc. There is pride [^enduring-word], to reveal hypocrisy [^matthew-henry], to break complacency [^matthew-poole]. I think I aligned most with the revelation of hypocrisy. Or as a tool to reveal the heart of the people. What we  cannot deny is that God is judging the people.
+
+### Applications
+- Is God placing stumbling blocks in your life?
+- How can you help others to
+    - See the stumbling blocks in their life
+    - Correct their actions such that they can walk in obedience
 
 
 
