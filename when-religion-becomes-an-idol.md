@@ -62,8 +62,15 @@ The focus is that religion had become an Idol for the nation of Israel. This nat
 [^b3]: [Josh 18](Josh%2018.md)
 
 ### God Commands Jeremiah
-The next bit Jeremiah is commanded to not pray for Israel anymore that they might be redeemed [^m3]. Something that multiple commentaries highlighted was the "queen of heaven" which was an assemilated piece of culture into Israel [^garner-howes]. This I personally think would be something related to having a "wife of God" p
+The next bit Jeremiah is commanded to not pray for Israel anymore that they might be redeemed [^m3]. Something that multiple commentaries highlighted was the "queen of heaven" which was an assimilated piece of culture into Israel [^garner-howes]. This I personally think would be something related to having a "wife of God" character via syncretism (this is something i would like to research further). No matter the method this directly shows how far the people had wandered.
 ## What God Truly Desires
+So God desires us to obey him [^m4]. This brings home the concept of the sacrifices being in vain. That problem is a huge one for Israel. Something important for we as Christians to remember is that we are not saved via our evidence (works) [^b4] rather it is via [Faith](../30-Spiritual/33-Resources/33.20-Words/33.21-English/Faith.md). Christian faith though will naturally create the desire to obey God in the fullness of what he has called us to do [^b5]. True faith will resist ritualism and when the heart is no longer in the action it is wise to "shake things up".
+
+[^b4]: [Ephes 2:8-9](Ephes%202.md)
+[^b5]: [James 1](James%201.md)
 
 
+### The God of Paitence
+The last section is God commanding Jeremiah to still reach out to Israel despite knowing their heart will not change [^m5]. God still wanted to change the hearts of the people (I would say for the sake of the few that would change) even if the end result wouldn't change. Do you not see the patience of our God. His never ending love.
 # Next Week
+Ok next week will be on Jeremiah 8.
