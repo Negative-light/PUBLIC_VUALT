@@ -28,6 +28,7 @@ Last week in our study of the writings of [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md
 [^m2]: [Jer 8:4-7](Jer%208.md)
 [^m3]: [Jer 8:8-12](Jer%208.md)
 [^m4]: [Jer 8:13](Jer%208.md)
+
 This chapter has some interesting turns in it. We see that the leadership of [Israel](../%F0%9F%8F%99%EF%B8%8F%F0%9F%8F%99%EF%B8%8FNation%20of%20Israel.md) is called out for idolatry.
 
 ## Desecration of the Dead.
@@ -65,10 +66,16 @@ Here we see the continuation of Jeremiah's prophecy to the nation, that the peop
 ### Applications
 DO we have a responsibility to help our leaders line up to what scripture says?
 
-Do we allow are leadershiup to be truthful in leading us?
+Do we allow are leadership to be truthful in leading us?
 
 ## Absolute Desolation
+Our final verse though connected to how the leadership is treated really talks about the full and absolute destruction of Israel [^m4]. This means God is removing all of the blessings that He has given them throughout his time. God is depriving them of his greatness because they have rejected him [^matthew-pool]. As Christians this also applies, sin removes the fruit that shows in our life as Christians. Fruit  is a blessing from God something that is both nurousing (good for the body) and delightful (good for the soul). In the Christian walk our fruits bless us and those around us.
 
+### Applications
+Have you seen this phenominon in youir life?
+
+What are things keeping you from growing as a Christian?
 
 
 # Next Week
+We will be finsihing Jeremiah 8.
