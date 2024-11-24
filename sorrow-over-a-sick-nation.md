@@ -23,6 +23,8 @@ Last week we looked at how [God](God.md) woulld destory the leadership of Israel
 [^enduring-word]: [Enduring Word Bible Commentary Jeremiah Chapter 8](https://enduringword.com/bible-commentary/jeremiah-8/)
 [^m1]: [Jer 8:13-17](Jer%208.md)
 [^m2]: [Jer 8:18-22](Jer%208.md)
+
+
 Today we see that [Israel](%F0%9F%8F%99%EF%B8%8F%F0%9F%8F%99%EF%B8%8FNation%20of%20Israel.md) is very much aware of their sin and know some of what they should do. This leads into [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) lamenting
 ## The People Know and Will be Judged
 This section shows Israel knows what they are doing. Seeking security in cities and knowing what God is doing [^m1]. We even see a callback to when God sent the fiery serpents [^b1] the concept of serpents as a form of judgment is a deep symbology [^guzik]. Despite this the people are very focused on a false hope that will not come [^matthew-henry]. Personally this intention sin I think made judgment worse and I think this is why after this we see God bring in serpents after removing the blessing of clean water (this is also symbolic I beleve)
