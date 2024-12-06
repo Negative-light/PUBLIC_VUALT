@@ -51,6 +51,6 @@ How can when we seek only what pleases us even as Christians can we land into ju
 What are methods to prevent you from falling to this point?
 
 ## The Judgment
-This lsast bit is God making clear the judgment that is coming [^m4]. This call to a communal morning but it is morning of those that are not seeking God [^matthew-poole]
+This lsast bit is God making clear the judgment that is coming [^m4]. This call to a communal morning but it is morning of those that are not seeking God [^matthew-poole].
 # Next Week
 We start in Jer 10.
