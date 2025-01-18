@@ -27,8 +27,32 @@ Last time we saw [God](God.md) pronounce judgment on a now helpless [Israel](../
 [^m4]: [Jer 12:14-17](Jer%2012.md)
 
 ## Jeremiah Brings up the Problem of Evil
-Our opening section Jeremiah basically presents the philosophical problem of Evil. [^m1]
+Our opening section Jeremiah basically presents the philosophical problem of Evil. [^m1] He sees that there are evil people and GOd lets them be remain. Looks back at how God has handled him and questions how long his nation will suffer under the unrightousness of the nation.
+
+### Applications
+This passage shows us several things.
+1. It is fine to be distressed over the evil of a nation [^ellicott]
+2. When questioning God it is important to balance reverence for him [^guzik]
+3. IT is important to have God in you
+    -  In Verse two Jeremiah mentions that people will speak of God, *but* he is "not on their conscience".
 
 ## God Describes The Problems With Israel
+In response to Jeremiah god describes the people of Israel in their evil. Followed by Him stating that he has abandoned his "bride" [^m2].  An interesting view that I am seeing in commentaries is that verses 5-6 are calling Jeremiah to understand and build the leadership and endurance skills needed for the future [^garner-howes] [^enduring-word].  Furthermore in these verses God does bring back up that the people of [🏙️Anathoth](%F0%9F%8F%99%EF%B8%8FAnathoth.md) were plotting to kill Jeremiah. 
+
+### Applications
+Although we can look at our nation I find it interesting that something we could all see more of is that God calls us to perservere through the evil of our times *and* the corresponding judgment and to not loose our heart and soul. We are to have God on our lips and in our mind.
 
 ## God Describes the Problem with Israel's Leaders
+This next section God focuses on the leadership of Israel. [^m3] I will note that some commentaries believe this is a metaphor for the leaders of [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md). [^john-gill]  
+
+### Applications
+Overall we cannot decree that this is something that happens though. For us given that we are going to be looking for a new pastor I beleve it is importnat to thing of howwhy this happened. This is not the first nor will it be the last time we hear this type of call out.
+
+## God Calls the Nation to Repentance
+The final bit we see though is that God still wants Israel and will bring her back to him but is using the outside nations to lead to repentance [^m4].  But as Matthew henry highlights the last verse shows that we shouldn't just take this for grated [^matthew-henry]. 
+
+### Applications
+Today we have an opportunity (and every day) to pleace GOd back int oaour consciene and become better beleivers. Are you willing?
+
+# Next Week
+Jeremiah 13
