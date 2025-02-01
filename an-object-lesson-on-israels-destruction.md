@@ -32,7 +32,7 @@ Our first section has two obejcts lessons using underwear (yes) and wine jars to
     - If you are a Chritian you are under the New Covenant. You have htat type of relationship with God that Israel had. Have you thrown it out for the sake of sin? For the sake of your our success?
     - Are you filled with the Holy Spirit or are you filling yourself with sin? Is your mind quick to think of evil things to do?
 ## God's Correction
-Our next section is similar to other areas of Jeremiah, God is going435 to judge Judah and is pleading with them to repent and change [^m2]. The biggest call here is to be humble and know who God is. Why? because otherwise we see the destruction God will bring. Within this God does call out the king and queen of Israel and the whole people lose what gives them pride. We see God shaming Israeal in the next section if you bible slipts like mine.
+Our next section is similar to other areas of Jeremiah, God is going to judge Judah and is pleading with them to repent and change [^m2]. The biggest call here is to be humble and know who God is. Why? because otherwise we see the destruction God will bring. Within this God does call out the king and queen of Israel and the whole people lose what gives them pride. We see God shaming Israeal in the next section if you bible slipts like mine.
 
 We also see a return to caling out the "lustful neighing" of Israel here at the end.
 
