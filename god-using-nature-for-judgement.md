@@ -1,6 +1,7 @@
 ---
 tags:
   - c/judgment
+  - c/repentance
 north:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
@@ -31,7 +32,7 @@ This week we are focusing on a prophecy/lament on a drought that God will be sen
 ## Setting The Scene
 The start here we see God spell out a terrible drought [^m1]. This punishment is so bad that even the leadership of the nation is ending servants (probably long distances) to get water. This is obviously terrible for a agrarian nation. Note that this isn't a prophecy either [^enduring-word].
 
-Something to see here. Water and life are tied together. we may not always think of it this way because we live in abundance heck if a BC Israelite came to the modern day they might consider it shameful how much we "waste" water. This drought was not considered just phyciall  it was a lack of life. A lack of the necessities (you will die in ~3 days with no fluids)
+Something to see here. Water and life are tied together. we may not always think of it this way because we live in abundance heck if a BC Israelite came to the modern day they might consider it shameful how much we "waste" water. This drought was not considered just physically  it was a lack of life. A lack of the necessities (you will die in ~3 days with no fluids)
 
 A key application too is that not only did this effect the people but the world around them [^enduring-word].
 
@@ -40,7 +41,7 @@ A key application too is that not only did this effect the people but the world 
 2. As Christians we are called to run the race toward Christ. Although there is a case to be made that there are natural times where God will place us in a drought (consider Elijah), there are obviously times we are in a drought
 
 ## Remember the God of your Youth
-This next section is feel like a prayer from Jeremiah calling out to God to remember Isarel to have mercy and show *His* will [^m2]. The proeblme is that the peoples repentace wouldn't be genuine and that is neccesary for God to revoke the judgment [^matthew-henry]. I think the question ask is also good to ask not only for a nation as a whole but for ones self
+This next section feels like a prayer from Jeremiah calling out to God to remember Israel to have mercy and show *His* will [^m2]. The proeblme is that the peoples repentance wouldn't be genuine and that is neccesary for God to revoke the judgment [^matthew-henry]. I think the question ask is also good to ask not only for a nation as a whole but for ones self
 The name Hope of Israel is also used to show the presnece of God as the protector of the nation, the hero if you will [^ellicott]. The proble mof course being in the following bit, 
 ### Applications
 Something important t apply is the first part of the prayer. Rather than just acknowledge their sin they ask God to act for the sake of his name. Do you have the faith to ask God to act for the will of the Kingdom? Do you understand that this could mean you loose everything, or not. This is a surrender of control
@@ -56,4 +57,4 @@ You can only serve one master. Who are you choosing.
 
 
 # Next Week
-We be talking about the Devil form DA BIBLE specifically the next bit of chapter 14.
+We are gonna be looking into the false teachers of the day.
