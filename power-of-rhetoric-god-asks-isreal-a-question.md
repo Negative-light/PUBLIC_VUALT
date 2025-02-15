@@ -45,6 +45,7 @@ Here we have God now calling out to Israel in a prophecy starting with rhetorica
 The point here is that the problem we have here is a "fate worse than death" if we are disobedient to God [^2]. Do you live a life abandoned from God.
 
 # Next Week
+We are gonna to look at the burned of the prophet. This is inspried some by a sermon I found [^2] that I suggest you look at.
 
 [^1]: [Jer 14:5-9](Jer%2014.md)
 
