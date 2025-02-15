@@ -21,9 +21,9 @@ The final call is to consider if God is a "resident alien" in our life.
 [^garner-howes]: [Jeremiah 14 - Garner-Howes Baptist Commentary - Bible Commentaries - StudyLight.org](https://www.studylight.org/commentaries/eng/ghb/jeremiah-14.html)
 [^matthew-poole]: [Jeremiah 14 Matthew Poole's Commentary](https://biblehub.com/commentaries/poole/jeremiah/14.htm)
 [^ellicott]: [Jeremiah 14 Ellicott's Commentary for English Readers](https://biblehub.com/commentaries/ellicott/jeremiah/14.htm)
-[^john-gill]: [Jeremiah 14 Commentary - John Gill's Exposition of the Bible](https://www.biblestudytools.com/commentaries/gills-exposition-of-the-bible/jeremiah-14/)
 [^matthew-henry]: [Jeremiah 14 Commentary - Matthew Henry Commentary on the Whole Bible (Complete)](https://www.biblestudytools.com/commentaries/matthew-henry-complete/jeremiah/14.html)
-[^enduring-word]: [Enduring Word Bible Commentary Jeremiah Chapter 14](https://enduringword.com/bible-commentary/jeremiah-14/)
+
+\newpage
 # This Week
 This week we see many false prophets have been countering the message of judgment saying that it will not happen. God calls for these people to be judged
 
@@ -33,11 +33,11 @@ This week we see many false prophets have been countering the message of judgmen
 This weeks lesson starts with God calling Jeremiah to not pray for mercy on Israel (Judah). Jeremiah instead mentions that other "prophets" are saying there will not have sword or famine and there will only be peace (during a drought too) God then spells out punishment for the prophets [^m1]. Remember that God also did the same type of command earlier to Jeremiah [^b1] [^matthew-poole]. This means that Israel has reach the point they have committed the "sin that leads to death" [^b2] [^guzik]. 
 
 
-Something in here to consider is that God is Ignoring their service and scrafice. As Christians this looks like God ignoring or ending your ability to serve becasue of sins you are living in.
+Something in here to consider is that God is Ignoring their service and sacrifice. 
+As Christians this looks like God ignoring or ending your ability to serve because of sins you are living in.
 
-On the topic of False prophets they are clearly lying to "tickle the ears" of the people and the government leaders [^matthew-poole]. They are tehn getting a "worse" judgment of having no one to bury them, meaning that their family would be completly gone. They will have no legacy.
-
-
+On the topic of False prophets they are clearly lying to "tickle the ears" of the people and the government leaders [^matthew-poole]. 
+They are then getting a "worse" judgment of having no one to bury them, meaning that their family would be completely gone. They will have no legacy.
 
 [^b1]: [Jer 7:16-19](jer%207.md) and [Jer 11:14](Jer%2011.md)
 [^b2]: [1 John 5:14-16](1%20John%205.md)
@@ -55,3 +55,7 @@ We have several applications here but I think we should focus on the topic of fa
         1. This isn't just the Pastor it applies to all teachers. Remember that a teacher is judged more heavily for what they have taught.
 2. The people had complete moral decay
     1. Do you believe that God will bring in bad leaders for bodies that need to be judged?
+
+\newpage
+# Next Week
+We are gonna be hitting on the next chapter of Israel.
