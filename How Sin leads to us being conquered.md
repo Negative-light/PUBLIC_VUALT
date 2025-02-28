@@ -11,7 +11,7 @@ north:
 note-type: lesson
 ---
 # Review
-Last week we looked at the general overview of the book of [[../30-Spiritual/BIBLE_CSB_MD/Jeremiah/Jeremiah|Jeremiah]] and analyzed how [[🧑Jeremiah]] was called by [[God]] to preach of destruction and rebuilding to the [[../🏙️🏙️Nation of Israel]]. We even analyzed how God overcame Jeremiah's excuse of being young commanding him to not be afraid and giving him the inspiration to do things.
+Last week we looked at the general overview of the book of [[../30-Spiritual/BIBLE_CSB_MD/Jeremiah/Jeremiah|Jeremiah]] and analyzed how [[🧑Jeremiah]] was called by [[God]] to preach of destruction and rebuilding to the [[../p-nation-of-israel]]. We even analyzed how God overcame Jeremiah's excuse of being young commanding him to not be afraid and giving him the inspiration to do things.
 
 # Today
 Today we are going to be looking at the first two things that Jeremiah is called to preach. The first is a prophecy on the coming destruction and the first is the accusation of apostasy of the nation of Israel.

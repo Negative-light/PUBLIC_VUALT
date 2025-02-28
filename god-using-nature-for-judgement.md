@@ -16,7 +16,7 @@ aliases:
 [^enduring-word]: [Enduring Word Bible Commentary Jeremiah Chapter 14](https://enduringword.com/bible-commentary/jeremiah-14/)
 # Last Week
 
-Last week we looked at some object lessons that [God](God.md) had [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) showing how [Israel](../%F0%9F%8F%99%EF%B8%8F%F0%9F%8F%99%EF%B8%8FNation%20of%20Israel.md) has lsot the closeness of her relationship with God. This leads into describing how unchanged Israel would be. This taught us that we should allow God ot change us by renewing our mind.
+Last week we looked at some object lessons that [God](God.md) had [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) showing how [Israel](../p-nation-of-israel.md) has lsot the closeness of her relationship with God. This leads into describing how unchanged Israel would be. This taught us that we should allow God ot change us by renewing our mind.
 
 ## Side Note
 A thought I had from a sermon on Exodus 14 is that Rebellion requres surender to something. This term comes form the word used for how Israel pressed against the Pharoh while fleeing. That rebellion requires that they surender to God.

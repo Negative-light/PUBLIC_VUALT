@@ -9,7 +9,7 @@ tags:
   - c/blessing
 ---
 # Review
-The Previous studies we have focused on the prophecies of [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md). We have been highlighting this concept that Adultery and Apostasy are directly connected. Furthermore we have further discussed how God is faithful to [Israel](../%F0%9F%8F%99%EF%B8%8F%F0%9F%8F%99%EF%B8%8FNation%20of%20Israel.md) even when they wander.
+The Previous studies we have focused on the prophecies of [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md). We have been highlighting this concept that Adultery and Apostasy are directly connected. Furthermore we have further discussed how God is faithful to [Israel](../p-nation-of-israel.md) even when they wander.
 
 A key thing to consider as we study is that Israel relates to how the christian life works too.
 

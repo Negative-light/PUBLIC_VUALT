@@ -10,7 +10,7 @@ north:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 # Review
-Last weeks lesson was focused on [God](God.md) futher providing a chance and call for [Israel](../%F0%9F%8F%99%EF%B8%8F%F0%9F%8F%99%EF%B8%8FNation%20of%20Israel.md) to repent and return to Him.
+Last weeks lesson was focused on [God](God.md) futher providing a chance and call for [Israel](../p-nation-of-israel.md) to repent and return to Him.
 - This section did highlight that the time was coming *quickly* and would be *unavoidable*
 - Furthermore there is a break for [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) to call out to God out of being disheartened based on how *people* could reacted
 

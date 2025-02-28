@@ -12,7 +12,7 @@ north:
 # Review
 This week we continue our study of the life of [[🧑Jeremiah]]. This study highlights how idolatry and adultery are inherently tied together. How God is watching the destruction of Israel ensuring that HIS word is kept true.
 # This Week
-This week we see that God is releasing the [[../🏙️🏙️Nation of Israel]] into their own sinfulness and calling out how racid their sin has become
+This week we see that God is releasing the [[../p-nation-of-israel]] into their own sinfulness and calling out how racid their sin has become
 
 ## You are already Punished
 The first section here is talking about where Israel is *currently* in.  This is all related to the Northern Kingdom. [^cite1] First they are already enslaved by [[📌Assyria]]  they were enslaved by them. And they ere were even areas that were known for their cowardice that were over them [^cite2].  This was a caution to not loot to [[📌Egypt]] or Assyria for help. Ironically this ties back to the broken cisterns from the previous lesson, God is calling Israel to not take the dirty river water of the other nations rather than seeking the living water of God. We then see God highlight how he freed Israel and they become nothing, he planted them and bless them and they became corrupt and evil[^b1]

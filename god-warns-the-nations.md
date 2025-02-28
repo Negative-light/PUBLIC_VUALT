@@ -22,7 +22,7 @@ tags:
 [^garner-howes]: [Jeremiah 6 - Garner-Howes Baptist Commentary - Bible Commentaries - StudyLight.org](https://www.studylight.org/commentaries/eng/ghb/jeremiah-6.html)
 [^guzik]: [Study Guide for Jeremiah 6 by David Guzik](https://www.blueletterbible.org/comm/guzik_david/study-guide/jeremiah/jeremiah-6.cfm)
 # Review
-Last week we highlighted how [God](God.md) called [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) to destroy [Israel](../%F0%9F%8F%99%EF%B8%8F%F0%9F%8F%99%EF%B8%8FNation%20of%20Israel.md). Why? Israel was refusing to listen to correction. The good thing is that we know our God is gracious and will help us in the process of repentance. 
+Last week we highlighted how [God](God.md) called [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) to destroy [Israel](../p-nation-of-israel.md). Why? Israel was refusing to listen to correction. The good thing is that we know our God is gracious and will help us in the process of repentance. 
 
 # This Week
 [^m1]: [Jer 6:16-21](Jer%206.md)

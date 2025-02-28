@@ -3,7 +3,7 @@ tags:
   - spiritual/warfare
   - c/comunity
   - c/society
-  - politics
+  - history/politics
   - c/law
   - c/culture
   - c/leadership
@@ -71,7 +71,7 @@ See Satan is going to control a society through all levels of its structure. Ins
 > Maybe bring up the problem of poverty and how poverty cycles are really really hard to solve and although there are ways to solve it the biggest issue is institutional corruption
 
 ## What are we to do?
-The goal of the church should be to attack the institutional *corruption* within. A few thoughts here is that truth is the best disinfectant. An example of how the church can do this is [🧑Moses](🧑Moses) helping call the [🏙️🏙️Nation of Israel](../🏙️🏙️Nation%20of%20Israel.md) out of [📌Egypt](📌Egypt).
+The goal of the church should be to attack the institutional *corruption* within. A few thoughts here is that truth is the best disinfectant. An example of how the church can do this is [🧑Moses](🧑Moses) helping call the [p-nation-of-israel](../p-nation-of-israel.md) out of [📌Egypt](📌Egypt).
 
 ### Where did we go wrong?
 We have a long history of revival/awakening in America but it has honestly been a long time. If you count the "Jesus Freak" revival the last one we had was in 1960 [^cite1]. Within this time the church has become well stagnant and acting in a "we are powerless" mentality. 

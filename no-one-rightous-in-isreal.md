@@ -12,7 +12,7 @@ north:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 # Review
-Last Weeks lesson we focused on the lament of the weeping prophet [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) and the coming judgment and statements from [God](God.md) on [Israel](../%F0%9F%8F%99%EF%B8%8F%F0%9F%8F%99%EF%B8%8FNation%20of%20Israel.md).
+Last Weeks lesson we focused on the lament of the weeping prophet [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) and the coming judgment and statements from [God](God.md) on [Israel](../p-nation-of-israel.md).
 
 # This Week
 [^enduring-word]: [Enduring Word Bible Commentary Jeremiah Chapter 5](https://enduringword.com/bible-commentary/jeremiah-5/)

@@ -14,7 +14,7 @@ aliases:
   - A Plot to Kill Jeremiah
 ---
 # Last Week
-Last week we looked at a request of [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) for [God](God.md) to have judgment on both [Israel](%F0%9F%8F%99%EF%B8%8F%F0%9F%8F%99%EF%B8%8FNation%20of%20Israel.md) and those that are coming against that nation. Understanding this shows us how important it is for *us* to ask God for discipline so that we might become better believers
+Last week we looked at a request of [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) for [God](God.md) to have judgment on both [Israel](../p-nation-of-israel.md) and those that are coming against that nation. Understanding this shows us how important it is for *us* to ask God for discipline so that we might become better believers
 
 # This Week
 [^guzik]: [Study Guide for Jeremiah 11 by David Guzik](https://www.blueletterbible.org/comm/guzik_david/study-guide/jeremiah/jeremiah-11.cfm)

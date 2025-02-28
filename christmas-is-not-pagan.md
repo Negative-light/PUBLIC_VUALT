@@ -68,7 +68,7 @@ The final idea is that it comes down the the meaning of a symbol and not the sym
 Now I think we should take a moment and look at our modern Christmas traditions and ask if we are off track. This is always wise because it is easy to fall off the narrow way.
 
 ### Christmas as  Materialism
-Has Christmas become over materialistic. IN the non-Christian world I think that is a easy *yes*. I think for us, this is something that we need to analyze and watch our hearts. It is about our motive. So I think it is important to ask *Why*? behind all these things similar to the purpose of the feasts in [Israel](%F0%9F%8F%99%EF%B8%8F%F0%9F%8F%99%EF%B8%8FNation%20of%20Israel.md)'s times.
+Has Christmas become over materialistic. IN the non-Christian world I think that is a easy *yes*. I think for us, this is something that we need to analyze and watch our hearts. It is about our motive. So I think it is important to ask *Why*? behind all these things similar to the purpose of the feasts in [Israel](../p-nation-of-israel.md)'s times.
 
 ### Christmas as Monotony
 Another problem that honestly does infect the Church is that we have made Christmas monotonous. Ironically for our church today we are breaking that and we should do that more as most things become monotonous when we do not consume intentionally or act with reason.
