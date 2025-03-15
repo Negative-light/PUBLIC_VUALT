@@ -7,6 +7,7 @@ tags:
   - history
 north:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
+aliases: Jeremiah Mercy in Being a Sign
 ---
 
 

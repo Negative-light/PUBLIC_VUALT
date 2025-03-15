@@ -13,6 +13,7 @@ north:
   - "[[Sunday School Lessons]]"
 aliases:
   - Destructiong and Rebuilding a Study of the book of Jeremiah
+note-type: map of content
 ---
 # Introduction
 We started with a [Introduction to the Book of Jeremiah](Introduction%20to%20the%20Book%20of%20Jeremiah.md). As we looked the the first two visions given to [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) we see how [God](God.md) is calling judgment upon the [p-nation-of-israel](../p-nation-of-israel.md) we then did [How Sin leads to us being conquered](How%20Sin%20leads%20to%20us%20being%20conquered.md) ending that first chapter of Jeremiah.
