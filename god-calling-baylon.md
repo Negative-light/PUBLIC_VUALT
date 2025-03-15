@@ -9,7 +9,7 @@ aliases:
   - God Calling Babylon
 ---
 # Review
-We have been walking through Jeremiah, this study on the words of [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) and how [God](God.md) is calling for the destruction of [Israel](%F0%9F%8F%99%EF%B8%8F%F0%9F%8F%99%EF%B8%8FNation%20of%20Israe.md). Last week we saw how God was seeking a single righteous person in Israel but couldn'
+We have been walking through Jeremiah, this study on the words of [p-jeremiah](../p-jeremiah.md) and how [God](God.md) is calling for the destruction of [Israel](%F0%9F%8F%99%EF%B8%8F%F0%9F%8F%99%EF%B8%8FNation%20of%20Israe.md). Last week we saw how God was seeking a single righteous person in Israel but couldn'
 t.
 
 # This Week

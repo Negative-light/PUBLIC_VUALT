@@ -25,7 +25,7 @@ Last week we looked at how [God](God.md) woulld destory the leadership of Israel
 [^m2]: [Jer 8:18-22](Jer%208.md)
 
 
-Today we see that [Israel](../p-nation-of-israel.md) is very much aware of their sin and know some of what they should do. This leads into [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) lamenting
+Today we see that [Israel](../p-nation-of-israel.md) is very much aware of their sin and know some of what they should do. This leads into [p-jeremiah](../p-jeremiah.md) lamenting
 ## The People Know and Will be Judged
 This section shows Israel knows what they are doing. Seeking security in cities and knowing what God is doing [^m1]. We even see a callback to when God sent the fiery serpents [^b1] the concept of serpents as a form of judgment is a deep symbology [^guzik]. Despite this the people are very focused on a false hope that will not come [^matthew-henry]. Personally this intention sin I think made judgment worse and I think this is why after this we see God bring in serpents after removing the blessing of clean water (this is also symbolic I beleve)
 

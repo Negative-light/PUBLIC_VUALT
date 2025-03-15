@@ -11,7 +11,7 @@ aliases:
   - Jeremiah on the Problem of Evil
 ---
 # Last Week
-Last time we saw [God](God.md) pronounce judgment on a now helpless [Israel](../p-nation-of-israel.md) pronouncing judgment. We then see [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md)'s home town turn on him. This shows us ways people react to God's judgment and is an important reminder to be willing to see God's judgment. Ironically todays lesson follows that theme.
+Last time we saw [God](God.md) pronounce judgment on a now helpless [Israel](../p-nation-of-israel.md) pronouncing judgment. We then see [p-jeremiah](../p-jeremiah.md)'s home town turn on him. This shows us ways people react to God's judgment and is an important reminder to be willing to see God's judgment. Ironically todays lesson follows that theme.
 
 # This Week
 [^guzik]: [Study Guide for Jeremiah 12 by David Guzik](https://www.blueletterbible.org/comm/guzik_david/study-guide/jeremiah/jeremiah-12.cfm)

@@ -12,7 +12,7 @@ aliases: Jeremiah Mercy in Being a Sign
 
 
 # Last Week
-Last week we focused on the pain that comes from being a prophet through the eyes of [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) who [God](God.md) also calls to repent for the sake of returning to him. This cam with a promise that God would establish him before [Israel](p-nation-of-israel.md)
+Last week we focused on the pain that comes from being a prophet through the eyes of [p-jeremiah](../p-jeremiah.md) who [God](God.md) also calls to repent for the sake of returning to him. This cam with a promise that God would establish him before [Israel](p-nation-of-israel.md)
 
 Furthermore we discussed how to share the Gospel at work. How we should be doing those things that open doors such that other will listen to the Gospel.
 

@@ -10,7 +10,7 @@ aliases:
   - The Burden of Being a Judgment Prophet
 ---
 # Last Week
-Last week we hit on the rhetorical questions [[God]] gives to [[p-nation-of-israel|Israel]]. This is focused on the fate worse than death that God is depting for the nation through [[🧑Jeremiah]]. The desicration of ones body is like Hell.
+Last week we hit on the rhetorical questions [[God]] gives to [[p-nation-of-israel|Israel]]. This is focused on the fate worse than death that God is depting for the nation through [[../p-jeremiah]]. The desicration of ones body is like Hell.
 # This Week
 This week we are going to see what the burden of the message of judgment *should* carry on someone. Jeremiah is in great pain.
 

@@ -32,4 +32,4 @@ This next section makes it clear *how much* the speed of the coming judgment wil
 ## Closing Thoughts
 This passage kinda makes me think of a hurricane. Back when Hurricane Ida came through our area this is the first time I ever experience a true Hurricane and the first time I experienced the eye of a storm. Overall this passage follows that structure, though the eye is more focused on the morning an d calling out to God. I feel like this is something we *should* do as Christians. When we go through a storm and there is a moment to breath we should call out to God, we should seek him. Why? Because the eye of the storm is **not** then end of the storm. that is not the time to start rebuilding because what you rebuild will be knocked down again. Rather it is the time to secure what you do have left ensuring that more damage cannot happen.
 # Next Week
-We are going to analyze [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md)'s response to seeing this coming judgment and see how that applies to Christians 
+We are going to analyze [p-jeremiah](../p-jeremiah.md)'s response to seeing this coming judgment and see how that applies to Christians 

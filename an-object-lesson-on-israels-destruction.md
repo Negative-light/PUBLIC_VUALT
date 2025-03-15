@@ -9,7 +9,7 @@ aliases:
   - An Object Lesson on Israel's Destruction
 ---
 # Last Week
-Last week we explored the problem of evil with [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md). This flowed into [God](God.md) desciribing some of the problems of the people in [Israel](../p-nation-of-israel.md) and her leadership. 
+Last week we explored the problem of evil with [p-jeremiah](../p-jeremiah.md). This flowed into [God](God.md) desciribing some of the problems of the people in [Israel](../p-nation-of-israel.md) and her leadership. 
 
 # This Week
 [^guzik]: [Study Guide for Jeremiah 13 by David Guzik](https://www.blueletterbible.org/comm/guzik_david/study-guide/jeremiah/jeremiah-13.cfm)

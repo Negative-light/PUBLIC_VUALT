@@ -12,7 +12,7 @@ north:
 # Review
 Last weeks lesson was focused on [God](God.md) futher providing a chance and call for [Israel](../p-nation-of-israel.md) to repent and return to Him.
 - This section did highlight that the time was coming *quickly* and would be *unavoidable*
-- Furthermore there is a break for [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) to call out to God out of being disheartened based on how *people* could reacted
+- Furthermore there is a break for [p-jeremiah](../p-jeremiah.md) to call out to God out of being disheartened based on how *people* could reacted
 
 # This Week
 [^enduring-word]: [Enduring Word Bible Commentary Jeremiah Chapter 4](https://enduringword.com/bible-commentary/jeremiah-4/)

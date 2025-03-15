@@ -10,7 +10,7 @@ north:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 # Review
-This week we continue our study of the life of [[🧑Jeremiah]]. This study highlights how idolatry and adultery are inherently tied together. How God is watching the destruction of Israel ensuring that HIS word is kept true.
+This week we continue our study of the life of [[../p-jeremiah]]. This study highlights how idolatry and adultery are inherently tied together. How God is watching the destruction of Israel ensuring that HIS word is kept true.
 # This Week
 This week we see that God is releasing the [[../p-nation-of-israel]] into their own sinfulness and calling out how racid their sin has become
 

@@ -13,7 +13,7 @@ aliases:
   - "God Punishes False Prophets: The Weight of Bad Leaders"
 ---
 # Last Week
-Last week we looked at a drought ravaging [Israel](../p-nation-of-israel.md) which  [God](God.md) uses as a symbol for how Israel is spiritually without life. The focus here is God calling the people to repent even  [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) was begging for mercy upon his nation.
+Last week we looked at a drought ravaging [Israel](../p-nation-of-israel.md) which  [God](God.md) uses as a symbol for how Israel is spiritually without life. The focus here is God calling the people to repent even  [p-jeremiah](../p-jeremiah.md) was begging for mercy upon his nation.
 
 The final call is to consider if God is a "resident alien" in our life.
 

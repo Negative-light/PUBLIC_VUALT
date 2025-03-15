@@ -20,7 +20,7 @@ north:
 [^enduring-word]: [Enduring Word Bible Commentary Jeremiah Chapter 7](https://enduringword.com/bible-commentary/jeremiah-7/)
 
 # Last Week
-Last week we looked at how [God](God.md) was sifting [Israel](../p-nation-of-israel.md) callign them to mourn for the sins they had committed and followed. We also see [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) becomes the "sifter" or blacksmith of the nation testing their actions.
+Last week we looked at how [God](God.md) was sifting [Israel](../p-nation-of-israel.md) callign them to mourn for the sins they had committed and followed. We also see [p-jeremiah](../p-jeremiah.md) becomes the "sifter" or blacksmith of the nation testing their actions.
 # This Week
 [^m1]: [Jer 7:1-10](Jer%207.md)
 [^m2]: [Jer 7:12-15](Jer%207.md)

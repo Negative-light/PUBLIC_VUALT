@@ -24,7 +24,7 @@ Ok last couple of Bible studies we have been talking about Christmas, the variou
 [^m1]: [Jer 10:17-22](Jer%2010.md)
 [^m2]: [Jer 10:23-25](Jer%2010.md)
 
-This week we are going to see [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) seeks judgment over [Israel](../p-nation-of-israel.md). 
+This week we are going to see [p-jeremiah](../p-jeremiah.md) seeks judgment over [Israel](../p-nation-of-israel.md). 
 
 ## Israel being Exiled
 This first passage [God](God.md) calls for the exile of Israel because of their idolatry and Jeremiah beginning a lament over not having a "home" [^m1]. The things is that even is thie warning God is still seeking for the people to repent but that it is overall a urgent request. Now I think it is important that we see God desires people to feel this judgment, why ... so they will call back to Him and seek repentant. 

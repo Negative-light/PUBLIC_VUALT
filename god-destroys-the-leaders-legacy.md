@@ -16,7 +16,7 @@ aliases:
   - God Destory's the Leaders Legacy
 ---
 # Last Week
-Last week in our study of the writings of [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) we explored how Israel idolized religion extracting from it this false beliefs that they were safe because they followed through with the actions around the Jewish faith. [God](God.md) highlights that this will not work citing how he judged [🏙️Shilo](%F0%9F%8F%99%EF%B8%8FShilo.md) even if it was his resting place. Finally we see that God desires people to live in faithful obedience and still is patient with us allowing time to repent.
+Last week in our study of the writings of [p-jeremiah](../p-jeremiah.md) we explored how Israel idolized religion extracting from it this false beliefs that they were safe because they followed through with the actions around the Jewish faith. [God](God.md) highlights that this will not work citing how he judged [🏙️Shilo](%F0%9F%8F%99%EF%B8%8FShilo.md) even if it was his resting place. Finally we see that God desires people to live in faithful obedience and still is patient with us allowing time to repent.
 
 # This Week
 [^guzik]: [Study Guide for Jeremiah 8 by David Guzik](https://www.blueletterbible.org/comm/guzik_david/study-guide/jeremiah/jeremiah-8.cfm)

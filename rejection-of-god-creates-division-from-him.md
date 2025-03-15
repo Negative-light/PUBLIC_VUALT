@@ -10,7 +10,7 @@ aliases:
   - Rejection of God Creates Division from Him
 ---
 # Review
-We are looking at the book from the prophet [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md). This study highlights the sin of the southern kingdom of the [p-nation-of-israel](../p-nation-of-israel.md). Who have abandoned [God](God.md) and have gone to false god's and have come to rely on neighboring nations for protection. Withing this study we have noticed this trend in Jeremiah that 
+We are looking at the book from the prophet [p-jeremiah](../p-jeremiah.md). This study highlights the sin of the southern kingdom of the [p-nation-of-israel](../p-nation-of-israel.md). Who have abandoned [God](God.md) and have gone to false god's and have come to rely on neighboring nations for protection. Withing this study we have noticed this trend in Jeremiah that 
 
 # This Week
 This we continue the same ideas of God calling the people to repentance.

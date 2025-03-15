@@ -10,7 +10,7 @@ tags:
   - c/divorce
 ---
 # Review
-We are studying the prophecies of [[🧑Jeremiah]] to the southern kingdom of [Israel](../p-nation-of-israel.md). This book highlights how they have abandoned [God](God.md) for idols. this book uses adultery to highlight that point the most [^connection1].
+We are studying the prophecies of [[../p-jeremiah]] to the southern kingdom of [Israel](../p-nation-of-israel.md). This book highlights how they have abandoned [God](God.md) for idols. this book uses adultery to highlight that point the most [^connection1].
 
 [^connection1]: This reminds me of [apostasy-is-adultry](apostasy-is-adultry.md), and [The Relationship of Divorce and Adulatory](../30-Spiritual/31-Ideas/The%20Relationship%20of%20Divorce%20and%20Adulatory.md)
 

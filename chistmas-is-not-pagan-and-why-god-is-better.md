@@ -49,7 +49,7 @@ The next section discuses how [God](God.md) is great and powerful [^m2]. We se a
 How does knowing that there is a God give you comfort?
 
 ## Judgment of the Idolaters
-Now we see God give [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) a clear message that the people who serve these idols because God is the true and first creator and fully of glory [^m3]. Apparently in Aramaic the first verse here may actually be a proverb [^guzik]. The focus here of course being that GOd is the one who created the stuff that these false gods are made of. Other key things I think to consider is in verse 14 where we see everyone being called foolish or stupid similar to verses that call out that all are unrighteous [^b2].
+Now we see God give [p-jeremiah](../p-jeremiah.md) a clear message that the people who serve these idols because God is the true and first creator and fully of glory [^m3]. Apparently in Aramaic the first verse here may actually be a proverb [^guzik]. The focus here of course being that GOd is the one who created the stuff that these false gods are made of. Other key things I think to consider is in verse 14 where we see everyone being called foolish or stupid similar to verses that call out that all are unrighteous [^b2].
 
 Something that is of interest to me is that God being the creator often speaks in poetry this interest is something that even other noticed. [[🧑CS Lewis]] and [[🧑JRR Tolkien]] both have in their books for Narnia and Middle Earth.
 

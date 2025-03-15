@@ -11,7 +11,7 @@ north:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 # Last Week
-We discussed the lament of [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) over the unrepentantly foolish nature of [Israell](../p-nation-of-israel.md) refusing healing balm when it is right there. This ties into the grief of [God](God.md) and how [Jesus](../30-Spiritual/33-Resources/33.10-People/%F0%9F%91%BCJesus.md) is the healing balm we need as individuals and as a nation.
+We discussed the lament of [p-jeremiah](../p-jeremiah.md) over the unrepentantly foolish nature of [Israell](../p-nation-of-israel.md) refusing healing balm when it is right there. This ties into the grief of [God](God.md) and how [Jesus](../30-Spiritual/33-Resources/33.10-People/%F0%9F%91%BCJesus.md) is the healing balm we need as individuals and as a nation.
 # This Week
 [^guzik]: [Study Guide for Jeremiah 9 by David Guzik](https://www.blueletterbible.org/comm/guzik_david/study-guide/jeremiah/jeremiah-9.cfm)
 [^garner-howes]: [Jeremiah 9 - Garner-Howes Baptist Commentary - Bible Commentaries - StudyLight.org](https://www.studylight.org/commentaries/eng/ghb/jeremiah-9.html)

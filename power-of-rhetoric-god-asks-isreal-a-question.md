@@ -10,7 +10,7 @@ aliases:
   - The Power of Rehtoric God Asks Israel a Question
 ---
 # Last Week
-Last week we looked at the false teachers [Israel](../p-nation-of-israel.md) that they will not be judged by [God](God.md). [🧑Jeremiah](%F0%9F%A7%91Jeremiah.md) specifically calls out how to handle this situation. This brought us to question a few things
+Last week we looked at the false teachers [Israel](../p-nation-of-israel.md) that they will not be judged by [God](God.md). [p-jeremiah](../p-jeremiah.md) specifically calls out how to handle this situation. This brought us to question a few things
 1. Do we listen to people who convict us?
 2. Do we correct those who lead us when what they say denies the word of God
 
