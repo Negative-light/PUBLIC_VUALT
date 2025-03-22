@@ -6,6 +6,7 @@ tags:
   - c/repentance
   - c/sin
   - c/heart
+  - c/persecution
 north:
   - "[[PUBLIC_VUALT/destruction-&-rebuilding-study-of-jeremiah|destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
@@ -33,7 +34,7 @@ Here we get to the part i opened with. Jeremiah is given a message that opens wi
 
 The clear purpose of this is that God is contrasting those who trust others and those that Trust God, making it clear who is better off [^ellicott]. Mind that there is some imagry here that depends on what tree God is talking about, which coudl be the *arar* or Sodom Apple [^enduring-word] which can survive and be green out in the desert but produces a toxic and disguising fruit [^5] 
 
-![Sodom Apple Tree](https://www.daveadamson.tv/wp-content/uploads/2016/11/Israel_July16_DSCF5356-2-232x300.jpg) ![Sodom Apple Fruit](https://www.daveadamson.tv/wp-content/uploads/2016/11/Israel_July16_DSCF5346-300x300.jpg)
+[Sodom Apple Tree](https://www.daveadamson.tv/wp-content/uploads/2016/11/Israel_July16_DSCF5356-2-232x300.jpg) [Sodom Apple Fruit](https://www.daveadamson.tv/wp-content/uploads/2016/11/Israel_July16_DSCF5346-300x300.jpg)
 
 Similar to how the Sodom apple is a good looking fruit that is both empty and toxic our life without God beocmes like this.
 
@@ -46,27 +47,38 @@ I like the way Matthew Henry puts this
 \- Matthew Henry [^matthew-henry]
 
 
+This is a simple truth that is often forgoten. How often do we do things just because we feel it is the right thing to do. We "follow" our heart. But the thing is that we shouldn't do that. As a Christian hopefully your heart does desire good things, but good things are not the *right* thing. 
+
+For this I am going to pull in an example of fleeing sin. Although fleeing sin is a good thing, you **must** do it as a Christian. But we as Christians shouldn't just flee sin we should follow Jeremiah here in a moment, we must run to God for running to God is the great thing. This is how we avoid the emptiness of life. We can chase after good things like work, popularity, a family but it is all a "broken cistern".
+
+## Seek the Shelter of the King
+This final bit is Jeremiah's plea for God to heal and lead him protecting him from persecution [^7]. One element of interested is Jeremiah does make claims of himself to God, I don't think acknowledging  what you have done before God is a bad thing, but remember that you are focusing between you and God. The thing is that Jeremiah was trying to be truthful with God authentic and fully obedient.
+
+This is something we should desire to become as Christians to have a relationship that is good and healthy with God. Acknowledging the pains of being a prophet but leaving the judgment to God [^enduring-word]. 
+
+
+## Questions
+- What are tell tail signs of Christians who are living the Psalm 1 abundant life that God promises to those who trust him? How does this counter the "desert bush" from Jeremiah 17?
+- What are good habits that Christians *should* build to avoid the deception of the heart?
+- What are ways to build a character like Jeremiah to quickly turn to God?
+
+
+# Next Week
+We are going to finish up Jeremiah 17.
 
 
 
 [^1]: [Ps 1](Ps%201.md)
-
-[^guzik]: [Study Guide for Jeremiah 17 by David Guzik](https://www.blueletterbible.org/comm/guzik_david/study-guide/jeremiah/jeremiah-17.cfm)
 [^garner-howes]: [Jeremiah 17 - Garner-Howes Baptist Commentary - Bible Commentaries - StudyLight.org](https://www.studylight.org/commentaries/eng/ghb/jeremiah-17.html)
 [^matthew-poole]: [Jeremiah 17 Matthew Poole's Commentary](https://biblehub.com/commentaries/poole/jeremiah/17.htm)
 [^ellicott]: [Jeremiah 17 Ellicott's Commentary for English Readers](https://biblehub.com/commentaries/ellicott/jeremiah/17.htm)
-[^john-gill]: [Jeremiah 17 Commentary - John Gill's Exposition of the Bible](https://www.biblestudytools.com/commentaries/gills-exposition-of-the-bible/jeremiah-17/)
+
 [^matthew-henry]: [Jeremiah 17 Commentary - Matthew Henry Commentary on the Whole Bible (Complete)](https://www.biblestudytools.com/commentaries/matthew-henry-complete/jeremiah/17.html)
 [^enduring-word]: [Enduring Word Bible Commentary Jeremiah Chapter 17](https://enduringword.com/bible-commentary/jeremiah-17/)
 [^john-calvin]: [Jeremiah 17 Calvin's Commentaries](https://biblehub.com/commentaries/calvin/jeremiah/17.htm#:~:text=He%20shews%20here%20what%20we,evil%2C%20as%20Jeremiah%20shews%2C%20prevailed)
-
-
 [^2]: [Jer 17:1-4](Jer%2017.md)
-
 [^3]: [Deut 11](Deut%2011.md), [Exod 13](Exod%2013.md), [Prov 3](Prov%203.md), [Prov 6](Prov%206.md), [Prov 7](Prov%207.md)
-
 [^4]: [Strongs H8058](Strongs%20H8058.md)
-
 [^5]: [The one image that radically transformed my faith \| Dave Adamson](https://www.daveadamson.tv/the-one-image-that-changed-my-faith/#:~:text=But%20when%20I%20opened%20the,because%20I%20would%20go%20blind)
-
 [^6]: [Jer 17:9-13](Jer%2017.md)
+[^7]: [Jer 17:14-18](Jer%2017.md)
