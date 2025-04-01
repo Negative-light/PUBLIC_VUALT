@@ -29,7 +29,7 @@ t.
 This week we see God call [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) to being her assault building weapons of war. This also functions as a warning to Israel.
 
 ## The Call to Israel
-Israel is called to run and protect from cover because God is going to destroy [🏙️Jerusalem](%F0%9F%8F%99%EF%B8%8FJerusalem.md) [^m1]. Here we see God use the shepherd/flock analogy for the armies that would surround Jerusalem [^john-gill].  Oddly this analogy also could be used as the church standing or charging against the "gates of hell" that we see [🧑Peter](%F0%9F%A7%91Peter.md) [^b1].
+Israel is called to run and protect from cover because God is going to destroy [city-jerusalem](../city-jerusalem.md) [^m1]. Here we see God use the shepherd/flock analogy for the armies that would surround Jerusalem [^john-gill].  Oddly this analogy also could be used as the church standing or charging against the "gates of hell" that we see [🧑Peter](%F0%9F%A7%91Peter.md) [^b1].
 
 ## The Call to Babylon
 

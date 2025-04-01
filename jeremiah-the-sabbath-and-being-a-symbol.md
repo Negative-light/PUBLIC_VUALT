@@ -16,7 +16,7 @@ Last week we focused on the heart and how a corrupt heart is like a tree planted
 This week is actually going to be a lot more discussion focused because the focus is our action. The section of Jeremiah we are covering [God](God.md)  is calling the [Southern Kingdom](Southern%20Kingdom.md) to be obedient to the covenants and obey the [Sabbath](Sabbath.md) which is one thing that visibly makes Israel Gods [^1].
 
 ## God's Call to Jeremiah
-God calls [🧑 Jeremiah](p-jeremiah.md) to preach tis message at the gates of [🏙️Jerusalem](%F0%9F%8F%99%EF%B8%8FJerusalem.md). This message is a clear and concise call to follow the Sabbath rest rather than working on that day. This includes a promise of blessings and a true king. The threat comes at the end that Jerusalem would be destroyed (which is the final result when [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) invades). The gate that God has Jeremiah go to is the busiest  gate which remember that Gates also functioned as the courthouse/business center of a city [^enduring-word] [^matthew-henry]. 
+God calls [🧑 Jeremiah](p-jeremiah.md) to preach tis message at the gates of [city-jerusalem](../city-jerusalem.md). This message is a clear and concise call to follow the Sabbath rest rather than working on that day. This includes a promise of blessings and a true king. The threat comes at the end that Jerusalem would be destroyed (which is the final result when [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) invades). The gate that God has Jeremiah go to is the busiest  gate which remember that Gates also functioned as the courthouse/business center of a city [^enduring-word] [^matthew-henry]. 
 
 ## Why Was the Sabbath Important
 So here we hit the prompt I gave before class.

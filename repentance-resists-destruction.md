@@ -32,7 +32,7 @@ Something I think is important here is that the people have pride in God and God
 
 Something to consider is that we see a call to now waver here. Really this is a call to not doubt God to seek him faithfully. As Christians we know that a doubter will be like a ship tossed in the wind [^b4]. The same for the call to wisdom is for true repentance. We as Christians cannot fully repent. We can start that process but it is God who gives us the [Faith](Faith.md) to seek him.
 ### A Further Call to Soften the Heart
-The next segment is really is a call for the people of [🏙️Jerusalem](%F0%9F%8F%99%EF%B8%8FJerusalem.md) to repent by softening the heart to God. From breaking up ground that is hardened and difficult to plow and evading thrones [^enduring-word] [^c1]. 
+The next segment is really is a call for the people of [city-jerusalem](../city-jerusalem.md) to repent by softening the heart to God. From breaking up ground that is hardened and difficult to plow and evading thrones [^enduring-word] [^c1]. 
 This also is to see k a change in the heart rather than the flesh ie a circumcision of the heart [^b2]. We know that this is a source of pride for the Jewish people as later we see the Jedizers also impressing that one must be *physically* circumsied to be saved [^b3].
 
 # Next Week

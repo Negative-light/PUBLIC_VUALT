@@ -17,7 +17,7 @@ exportFontSize: 10
 We have decided to go through the book of [Jeremiah](30-Spiritual/BIBLE_CSB_MD/Jeremiah/Jeremiah%7CJeremiah.md) for the remainder of this year. I personally have the goal of finishing the book by the end of the year, but we will see how it goes and it may just take longer.
 
 ## Introduction
-So what is the book of Jeremiah about. Well it is the story of the prophet [p-jeremiah](p-jeremiah.md) who works in the area around [🏙️Jerusalem](%F0%9F%8F%99%EF%B8%8FJerusalem.md). He specifically prophesied about the [Kingdom of Judah](Kingdom%20of%20Judah.md) being taken over by [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) if the people didn't turn from idolatry. [^cite1]
+So what is the book of Jeremiah about. Well it is the story of the prophet [p-jeremiah](p-jeremiah.md) who works in the area around [city-jerusalem](../city-jerusalem.md). He specifically prophesied about the [Kingdom of Judah](Kingdom%20of%20Judah.md) being taken over by [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) if the people didn't turn from idolatry. [^cite1]
 
 
 This book is a collection of Jeremiah's sermons, poems and essays rather than just a simple book of prophecy. Thus it will appear to be a assortment of writings... that is because that is what it is. [^cite1]

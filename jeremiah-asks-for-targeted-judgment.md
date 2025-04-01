@@ -33,7 +33,7 @@ Now of course we hop into Jeremiah's lament which starts with a call to a woe be
 
 Of course here we also see the "shepherds" being stupid and not seeking God. Sadly these false prophets [^john-gill] are not anything new, nor have they faded away. Today false teachers have sadly sunk in as wolves in sheeps clothing and despite being warned we easily fall for them.
 
-This section comes with a image of [🏙️Jerusalem](%F0%9F%8F%99%EF%B8%8FJerusalem.md) becoming a trash heap and desolated area, which becomes true. 
+This section comes with a image of [city-jerusalem](../city-jerusalem.md) becoming a trash heap and desolated area, which becomes true. 
 
 [^b1]: [Phil 4:13](Phil%204.md)
 [^b2]: [2 Cor 12:7](2%20Cor%2012.md)

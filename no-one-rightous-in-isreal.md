@@ -28,7 +28,7 @@ Last Weeks lesson we focused on the lament of the weeping prophet [p-jeremiah](.
 [^b1]: [Lev 26:22](Lev%2026.md)
 
 ## A Search For Righteousness
-The fist part of this chapter is this search for righteous people throughout [🏙️Jerusalem](%F0%9F%8F%99%EF%B8%8FJerusalem.md). This shows up that the people are fully unrighteous on all levels ultimately leading to God calling for their judgment [^m1]. This is possibly related them having plenty and thus not seeking God, at least according to Ellicott [^ellicott]. Others pull from the punishment section to highlight that this deviance shows ingratitude to God [^david-guzik].
+The fist part of this chapter is this search for righteous people throughout [city-jerusalem](../city-jerusalem.md). This shows up that the people are fully unrighteous on all levels ultimately leading to God calling for their judgment [^m1]. This is possibly related them having plenty and thus not seeking God, at least according to Ellicott [^ellicott]. Others pull from the punishment section to highlight that this deviance shows ingratitude to God [^david-guzik].
 
 ### Applications
 
