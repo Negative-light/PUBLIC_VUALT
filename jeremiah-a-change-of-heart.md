@@ -28,7 +28,12 @@ Here we see the consequence being abandonment of God has he "turns his back" [^e
 ## Jeremiah's Change of Heart
 The story that Jeremiah tells before this leads to the leadership desiring to kill Jeremiah and we see Jeremiah call for the persecution upon the nation because of this [^2]. Now the nature of this persecution was fit of a planned attack similar to what happened with [Jesus](%F0%9F%91%BCJesus.md) (and possibly the inspiration of it) [^matthew-henry]. According to the Enduring Word commentary this was likely a slander based attack used to discredit Jeremiah, to use a character assassination rather than a physical one [^enduring-word].
 
-What caught my eye in preparation for this week was Jeremiah's plea to God that these people be judged. Now this felt like a change of heart thought Jeremiah has previously called for judgment [^3], and in previous attempt Jeremiah rather goes to God to complain about his persecution rather than agreeing with God on the judgment 
+What caught my eye in preparation for this week was Jeremiah's plea to God that these people be judged. Now this felt like a change of heart thought Jeremiah has previously called for judgment [^3], and in previous attempt Jeremiah rather goes to God to complain about his persecution rather than agreeing with God on the judgment to come and asking for it come [^4].
+
+I think this shows how Jeremiah has come closer to God and seen the heart of Israel more and more. He fully submits to God's will and follows what he is called to do.
+
+## Applications
+Being close to God should be a nominal thing in our life. Such that if someone were to hear "so and so abandoned the church" it would be the talk of the town. The person would be scoffed out of the room. Do we consider making OGd that important on our life.
 
 # Next Week
 We will actually return to the concept as God being the God who shapes us. The imagery of God as a master potter shaping us into a vessel of great use and great beauty. 
@@ -45,3 +50,5 @@ We will actually return to the concept as God being the God who shapes us. The i
 [^2]: [Jer 18:18-23](Jer%2018.md)
 
 [^3]: [Jer 10](Jer%2010.md)
+
+[^4]: [[Jer 12]]
