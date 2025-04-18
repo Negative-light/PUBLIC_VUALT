@@ -13,7 +13,7 @@ north:
 We are in a Study on the Spiritual war for Glory between [[God]] and Satan.
 As of late we have discussed the strongholds we find within ourselves and how we must submit to Christ and also *resist* Satan. 
 Next we analyzed how Satan is attacking the family and how it is important to place Christ at the center of the faimly and encourage unity and following roles  defined in the Bible. 
-As always it is important to remember our victory is *already* won in [[30-Spiritual/33-Resources/33.10-People/👼Jesus|👼Jesus]].
+As always it is important to remember our victory is *already* won in [[../30-Spiritual/33-Resources/33.10-People/jesus|👼Jesus]].
 
 # Today
 Today we look at strongholds that have formed within the [[Church]].
@@ -32,7 +32,7 @@ Most of us know that our church has some serous problems. Not only locally with 
 The question is not *what is the problem* I don't think, most of us can see the problems. Most of us look at it and it hurts. You will never guess the Answer?
 
 Should I pull a YouTuber here and not say the obvious for like 10 minutes?
-No! It's [[30-Spiritual/33-Resources/33.10-People/👼Jesus|👼Jesus]] 
+No! It's [[../30-Spiritual/33-Resources/33.10-People/jesus|👼Jesus]] 
 
 But it isn't just Jesus. Sure it is Jesus but it is about understanding the Christ that we follow. Most of us look at the Jesus of the Gospels. A meek carpenter turned wandering Rabbi teaching of the fulfillment of the Law through his death. Sure this is a *part* of the Christ we server, but we must understand what happens at the end of the Gospels and the start of the book of Acts. What happened then? 
 

@@ -36,7 +36,7 @@ The last section I think is a somewhat end time prophecy mostly due to the latte
 [^b4]: [Jer 3:14-18](Jer%203.md)
 
 ## A thought on Repentance
-This segment closes with Jeremiah providing some thoughts on repentance. But I think the important part we see here is that God will heal unfaithfulness. All to often we see this call, Get right then come to God. God says the opposite, come to me and I will make you right. God knows what we go through. This is why [👼Jesus](%F0%9F%91%BCJesus.md) is called to have sympathized with us because God knows the difficulty of life and how hard it is to truly repent [^b5]
+This segment closes with Jeremiah providing some thoughts on repentance. But I think the important part we see here is that God will heal unfaithfulness. All to often we see this call, Get right then come to God. God says the opposite, come to me and I will make you right. God knows what we go through. This is why [jesus](../30-Spiritual/33-Resources/33.10-People/jesus.md) is called to have sympathized with us because God knows the difficulty of life and how hard it is to truly repent [^b5]
 
 [Jer 3:19-25](Jer%203.md)
 

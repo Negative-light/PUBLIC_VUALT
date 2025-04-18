@@ -12,7 +12,7 @@ west:
 # Review
 We are in a study over spiritual warfare. That is the battle between [[God]] and Satan over glory. We have come to understand that Satan wants to disable Christians such that we cannot bring glory to God.
 After analyzing both angles and demons we started to study our authority that God gives us culminating in last weeks study of the [[Armor of God]].
-The most important point of our study though is that victory is found in [[../30-Spiritual/33-Resources/33.10-People/👼Jesus|👼Jesus]], we already in fact have victory in him and just need to live out our life understanding this despite the deceptions of Satan telling us otherwise.
+The most important point of our study though is that victory is found in [[../30-Spiritual/33-Resources/33.10-People/jesus|👼Jesus]], we already in fact have victory in him and just need to live out our life understanding this despite the deceptions of Satan telling us otherwise.
 
 # Today
 Today we are going to talk about prayer, there are multiple analogies that relates prayer to the armor of God. First being the Spear analogy that relates prayer to the Roman spear specifically the `pilum` which was long javelin that was designed to be used as a piercing weapon that was useful in forcing the enemy to abandon or use a significantly weakened shield[^cite1] . The alternative analogy is the "communications" system which highlights that prayer is used as a primary way of getting orders and making requests for support. There is a third introduce that I think is important that is that prayer is a way of life or discipline  that lines you up and "how you get dressed" in spiritual warfare. We will be using all there of these as I think they all have validity, but all break down.
