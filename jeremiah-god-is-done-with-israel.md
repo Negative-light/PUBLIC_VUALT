@@ -28,6 +28,7 @@ I think that the clay jar is far more important than we think. Given that this i
 A second application is just how dark the times of Israel were. In the first part God says that He "...never entertained the thought" of child sacrifice. This type of ritual is honestly the sign that the time of judgment comes soon. A nation must stray very far from God to get to this point [^matthew-henry] so much so that it is not even mentioned in the downfall of a nation in Romans 1 [^7]. We must seek God to change our hearts and the heart of our nation because even now we live in a world in which having children is disrespected. A people who do not reproduce will die.
 
 Taking into full context of previous chapters I think this is important to compare that God desire to work with us before we have been "fired" understanding that God is sovereign and can still destroy us [^john-calvin]. 
+
 # Next Week
 We might do all of 20 not sure yet
 
