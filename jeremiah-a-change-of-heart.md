@@ -44,7 +44,7 @@ We will actually return to the concept as God being the God who shapes us. The i
 [^ellicott]: [Jeremiah 18 Ellicott's Commentary for English Readers](https://biblehub.com/commentaries/ellicott/jeremiah/18.htm)
 [^matthew-henry]: [Jeremiah 18 Commentary - Matthew Henry Commentary on the Whole Bible (Complete)](https://www.biblestudytools.com/commentaries/matthew-henry-complete/jeremiah/18.html)
 [^enduring-word]: [Enduring Word Bible Commentary Jeremiah Chapter 18](https://enduringword.com/bible-commentary/jeremiah-18/)
-[^john-calvin]: [Jeremiah 18 Calvin's Commentaries](https://biblehub.com/commentaries/calvin/jeremiah/18.htm#:~:text=He%20shews%20here%20what%20we,evil%2C%20as%20Jeremiah%20shews%2C%20prevailed)
+[^john-calvin]: [Jeremiah 18 Calvin's Commentaries](https://biblehub.com/commentaries/calvin/jeremiah/18.htm)
 [^2]: [Jer 18:18-23](Jer%2018.md)
 [^3]: [Jer 10](Jer%2010.md)
 [^4]: [[Jer 12]]
