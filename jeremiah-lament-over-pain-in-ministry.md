@@ -7,6 +7,9 @@ tags:
   - c/faith
 north:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
+note-type: output
+aliases:
+  - Lament Over Pain in Ministry
 ---
 [^garner-howes]: [Jeremiah 20 - Garner-Howes Baptist Commentary - Bible Commentaries - StudyLight.org](https://www.studylight.org/commentaries/eng/ghb/jeremiah-20.html)
 [^matthew-poole]: [Jeremiah 20 Matthew Poole's Commentary](https://biblehub.com/commentaries/poole/jeremiah/20.htm)

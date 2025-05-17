@@ -8,6 +8,7 @@ tags:
   - c/repentance
   - c/adultery
   - c/divorce
+note-type: output
 ---
 # Review
 We are studying the prophecies of [[../p-jeremiah]] to the southern kingdom of [Israel](../p-nation-of-israel.md). This book highlights how they have abandoned [God](God.md) for idols. this book uses adultery to highlight that point the most [^connection1].
