@@ -23,6 +23,17 @@ The focus for us in looking at that is as the leaders in our life what does this
 This week [Jeremiah](../p-jeremiah.md) bring forward a charge against false leader but includes within it a prophecy on [Jesus](../30-Spiritual/33-Resources/33.10-People/jesus.md). 
 
 ## Woe Upon the bad Shepherds
-This first section targets the shepherds (leaders) who refused to cover and take care of the people [^1]. The primary charge here is that they are not intentionally harming but rather were neglectful
+This first section targets the shepherds (leaders) who refused to cover and take care of the people [^1]. The primary charge here is that they are not intentionally harming but rather were neglectful. Negligent in duty causing them to be scattered. But this ends with a promose to raise new leaders after the coming exisle.
+
+
+## The Coming Branch
+The next section cover the raising of a branch of [David](%F0%9F%A7%91David.md) a continuation on the [Davidic Covenant](Davidic%20Covenant.md). This includes a name for Christ (Yahweh-zidenu). This is supposed to be something so powerful that how God himself is described would change [^2]
+
+## Applications
+
+How do we handle the fact that this church could be charged with neglect?
+What is God calling you to do to lead in this body? How can you help undo the effects of neglect?
 
 [^1]: [Jer 23:1-4](Jer%2023.md)
+
+[^2]: [Jer 23:5-7](Jer%2023.md)
