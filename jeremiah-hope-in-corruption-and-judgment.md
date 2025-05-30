@@ -25,15 +25,26 @@ This week [Jeremiah](../p-jeremiah.md) bring forward a charge against false lead
 ## Woe Upon the bad Shepherds
 This first section targets the shepherds (leaders) who refused to cover and take care of the people [^1]. The primary charge here is that they are not intentionally harming but rather were neglectful. Negligent in duty causing them to be scattered. But this ends with a promose to raise new leaders after the coming exisle.
 
+Now I will say that these are probably the political rulers [^matthew-poole] [^ellicott] (though having recently read on the life of [King Solomon](%F0%9F%A7%91King%20Solomon.md) I would say that the kings were just as much spiritual) but this applies to the current leaders. Now the job of a shpherd is to bring together the people to live a life that glorifies God (and is abundant) [^garner-howes] but these leaders scatter the people. As far as history I will note that Eliicott theorizes this is addresing the theocracy formed under Ezra and Nehemiah [^ellicott]
 
+Given that the charge here is scattering due to neglect how can this happen not just at church but in general?
 ## The Coming Branch
 The next section cover the raising of a branch of [David](%F0%9F%A7%91David.md) a continuation on the [Davidic Covenant](Davidic%20Covenant.md). This includes a name for Christ (Yahweh-zidenu). This is supposed to be something so powerful that how God himself is described would change [^2]
+
+Apparently there is an idea that this could talk of Zerubbabel but in general most commentaries greatly disagree even calling the idea preverse [^john-calvin]. Of course we also shouldn't miss that this also talks of a fully functional king and not a puppet king over a vassal state [^enduring-word]
 
 ## Applications
 
 How do we handle the fact that this church could be charged with neglect?
+    - Check-in with those under us
+    - Gather feedback
+        - PROVIDE THE FEEDBACK
+    - Accountability
 What is God calling you to do to lead in this body? How can you help undo the effects of neglect?
 
-[^1]: [Jer 23:1-4](Jer%2023.md)
+How can we feed the flock?
 
+What does this tell us about how God can handle those over us? What is the application in association to the concept of church hurt?
+
+[^1]: [Jer 23:1-4](Jer%2023.md)
 [^2]: [Jer 23:5-7](Jer%2023.md)
