@@ -1,5 +1,5 @@
 ---
-note-type: lesson
+noteType: lesson
 tags:
   - c/great-commission
   - c/church

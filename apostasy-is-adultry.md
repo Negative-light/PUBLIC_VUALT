@@ -5,7 +5,7 @@ tags:
   - c/adultery
   - c/idolatry
   - c/loyalty
-note-type: lesson
+noteType: lesson
 ---
 # Review
 We are in a study of the book of [Jeremiah](../30-Spiritual/BIBLE_CSB_MD/Jeremiah/Jeremiah%7CJeremiah.md).  And the life of [p-jeremiah](../p-jeremiah.md). We studied Jeremiah's call and how [[God]] encouraged him because he was fearful of the [[../p-nation-of-israel]] due to his age. WE then discussed the first prophecy that Jeremiah has for the nation of Israel. That God was watching over the coming destruction of Israel and watches over his word to see it accomplished.

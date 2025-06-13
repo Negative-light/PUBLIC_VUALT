@@ -8,7 +8,7 @@ tags:
   - spiritual/warfare
 north:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
-note-type: lesson
+noteType: lesson
 ---
 # Review
 Last week we looked at the general overview of the book of [[../30-Spiritual/BIBLE_CSB_MD/Jeremiah/Jeremiah|Jeremiah]] and analyzed how [[../p-jeremiah]] was called by [[God]] to preach of destruction and rebuilding to the [[../p-nation-of-israel]]. We even analyzed how God overcame Jeremiah's excuse of being young commanding him to not be afraid and giving him the inspiration to do things.

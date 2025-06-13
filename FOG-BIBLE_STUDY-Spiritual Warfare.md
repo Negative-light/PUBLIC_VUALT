@@ -8,7 +8,7 @@ tags:
   - c/armor-of-god
   - c/fear
   - c/salvation
-note-type: lesson
+noteType: lesson
 scripture:
   - "[[Josh 1]]"
   - "[[Ephes 6]]"

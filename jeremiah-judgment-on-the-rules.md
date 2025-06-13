@@ -9,7 +9,7 @@ north:
   - "[[PUBLIC_VUALT/destruction-&-rebuilding-study-of-jeremiah|destruction-&-rebuilding-study-of-jeremiah]]"
   - "[[../Clippings/2025-05-24-who-was-king-jehoahaz-in-the-bible|2025-05-24-who-was-king-jehoahaz-in-the-bible]]"
   - "[[../Clippings/AI/2025-05-24-jeremiah-22-study-overview_CHATGPT|2025-05-24-jeremiah-22-study-overview_CHATGPT]]"
-note-type: output
+noteType: output
 ---
 [^garner-howes]: [Jeremiah 22 - Garner-Howes Baptist Commentary - Bible Commentaries - StudyLight.org](https://www.studylight.org/commentaries/eng/ghb/jeremiah-22.html)
 [^matthew-poole]: [Jeremiah 22 Matthew Poole's Commentary](https://biblehub.com/commentaries/poole/jeremiah/22.htm)

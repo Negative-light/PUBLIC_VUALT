@@ -2,7 +2,7 @@
 tags:
   - spiritual/warfare
   - c/angel
-note-type: lesson
+noteType: lesson
 north:
   - The Battle is the Lords
   - "[[The_Battle_Is_The_Lords]]"
@@ -12,7 +12,7 @@ east:
   - "[[GABC SS-Back to the Beginning]]"
   - "[[GABC SS-Intro to Spiritual Warfare]]"
   - "[[GABC SS-The Battle Field]]"
-west: 
+west:
 ---
 # Review
 - We are in a Spiritual War

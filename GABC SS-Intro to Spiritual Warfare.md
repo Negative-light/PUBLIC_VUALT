@@ -5,7 +5,7 @@ tags:
   - c/glory
   - c/sin
   - "#c/sin/sexual"
-note-type: lesson
+noteType: lesson
 north:
   - The Battle is the Lords
 south: 

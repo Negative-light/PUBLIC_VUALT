@@ -3,13 +3,13 @@ tags:
   - spiritual/warfare
   - c/sin
   - c/temptation
-note-type: lesson
+noteType: lesson
 north:
   - The Battle is the Lords
   - "[[The_Battle_Is_The_Lords]]"
 south: 
 east: 
-west: 
+west:
 ---
 # Review
 So far we have covered that we are in a spiritual war for glory and that our victory can be found in Jesus. This war  effects us as individuals, families, churches and as a society. We have talks about how God helps us through angels as well as how to bring those angels into our life. In this war our enemy is organized out and planned.

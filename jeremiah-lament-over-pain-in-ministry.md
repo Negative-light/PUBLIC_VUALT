@@ -7,7 +7,7 @@ tags:
   - c/faith
 north:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
-note-type: output
+noteType: output
 aliases:
   - Lament Over Pain in Ministry
 ---

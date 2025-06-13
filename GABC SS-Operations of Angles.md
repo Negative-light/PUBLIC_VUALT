@@ -6,7 +6,7 @@ tags:
   - c/repentance
   - c/praise
   - c/worship
-note-type: lesson
+noteType: lesson
 north:
   - The Battle is the Lords
   - "[[The_Battle_Is_The_Lords|The_Battle_Is_The_Lords]]"
@@ -16,7 +16,7 @@ east:
   - "[[GABC SS-Back to the Beginning]]"
   - "[[GABC SS-Intro to Spiritual Warfare]]"
   - "[[GABC SS-The Battle Field]]"
-west: 
+west:
 ---
 # Review
 - We are in a spiritual war over glory with Satan.

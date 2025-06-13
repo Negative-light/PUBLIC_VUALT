@@ -1,7 +1,7 @@
 ---
 tags:
   - public
-note-type: publication
+noteType: publication
 ---
 
 Tuesday:

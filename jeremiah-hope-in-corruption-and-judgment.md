@@ -5,7 +5,7 @@ tags:
 north:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
   - "[[../Clippings/AI/2025-05-30-jeremiah-23-bible-study_CHATGPT|2025-05-30-jeremiah-23-bible-study_CHATGPT]]"
-note-type: output
+noteType: output
 ---
 [^garner-howes]: [Jeremiah 23 - Garner-Howes Baptist Commentary - Bible Commentaries - StudyLight.org](https://www.studylight.org/commentaries/eng/ghb/jeremiah-23.html)
 [^matthew-poole]: [Jeremiah 23 Matthew Poole's Commentary](https://biblehub.com/commentaries/poole/jeremiah/23.htm)

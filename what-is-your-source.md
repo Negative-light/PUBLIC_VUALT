@@ -7,7 +7,7 @@ tags:
   - c/wisdom
 aliases:
   - What is Your Source?
-note-type: output
+noteType: output
 ---
 [^b1]: [Deut 32:28-33](Deut%2032.md) - this passage contains statements from [🧑Moses](%F0%9F%A7%91Moses.md) about how [God](God.md) is greater than the world
 [^b2]: [John 15:5](John%2015.md) - this verse we see that the vine of Christians is [jesus](../30-Spiritual/33-Resources/33.10-People/jesus.md)7:24-25](Matt%207.md) - this passage shows us that the words of Jesus (ie [The Bible](../30-Spiritual/33-Resources/The%20Bible.md)) are a foundational rock for us to build upon

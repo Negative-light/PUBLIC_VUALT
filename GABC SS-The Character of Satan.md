@@ -3,7 +3,7 @@ tags:
   - spiritual/warfare
   - c/demons
   - c/humility
-note-type: lesson
+noteType: lesson
 north:
   - The Battle is the Lords
   - "[[The_Battle_Is_The_Lords]]"
@@ -14,7 +14,7 @@ east:
   - "[[GABC SS-Intro to Spiritual Warfare]]"
   - "[[GABC SS-The Battle Field]]"
   - "[[GABC SS-The Utility and Purpose of Angels]]"
-west: 
+west:
 ---
 # Review
 - We are in a battle over glory between God and Satan

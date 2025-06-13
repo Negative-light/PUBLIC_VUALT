@@ -4,7 +4,7 @@ tags:
   - c/worldviews
   - c/sin
   - c/righteousness
-note-type: lesson
+noteType: lesson
 north:
   - The Battle is the Lords
   - "[[The_Battle_Is_The_Lords]]"
@@ -12,7 +12,7 @@ south:
 east:
   - "[[GABC SS-Intro to Spiritual Warfare|GABC SS-Intro to Spiritual Warfare]]"
   - "[[GABC SS-Back to the Beginning|GABC SS-Back to the Beginning]]"
-west: 
+west:
 ---
 # Review
 Last week we had a short introduction into spiritual warfare. The major things we covered are
