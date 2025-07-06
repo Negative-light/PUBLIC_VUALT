@@ -9,7 +9,8 @@ tags:
 north:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 noteType: output
-includeTitlePage: true
+title:
+  - "Jeremiah: The Season for Correction"
 ---
 [^garner-howes]: [Jeremiah 25 - Garner-Howes Baptist Commentary - Bible Commentaries - StudyLight.org](https://www.studylight.org/commentaries/eng/ghb/jeremiah-25.html)
 [^matthew-poole]: [Jeremiah 25 Matthew Poole's Commentary](https://biblehub.com/commentaries/poole/jeremiah/25.htm)
