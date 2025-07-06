@@ -31,6 +31,9 @@ Ok so this week we are actually going back in time slightly to just at the start
 Ok so this chapter gives us some important context that it happens in the 4th year of Jehoiakim (aka Jeconiah) and the 1st year of Nebuchadnezzar. Mind that this was the first year that Nebuchadnezzar was the sole ruler of Babylon, he was actually crowned king before this but was ruling with his father [^john-calvin] This would have been around 605 BC where Babylon would defeat Egypt. This would remove the primary seat of power from [[📌Assyria|Assyria]] and make it Babylon. This would be like a major upset in a national election, everyone is now wondering how the world is going to work moving forward [^thomas-constable]. 
 
 Furthermore we have to note that at least three prophets were active during this time [[🧑Uriah|Uriah]], [[🧑Zephaniah son of Cush|Zephaniah]] and [[🧑Habakkuk|Habakkuk]]. 
+
+[[link with spaces in name|alias]]
+
 ## A Reminder of Jeremiah's Ministry
 Our first section Jeremiah gives a not of his ministry from the reign of [[🧑Josiah|Josiah]] to the modern day this included covering that he continually preached repentance [^1] In this section we get a clear highlight that God was given more than enough opportunities for the people to repent but they refused to obey time and time again for 23 years. This was 23 years of attempted revival. 23 years of having street preachers give a message of repentance without fail, but with no one turning to God. This significance also would have shown *why* the punishment was so high because 23years of refusal means there is no excuse for having no attempt to repent [^matthew-henry] [^thomas-constable]. 
 
@@ -50,7 +53,7 @@ But in this we even see God's grace because we see for the first time the 70 yea
 
 A second element is to understand the significance of this time figure. It was make up for the land Sabbaths that Judah weren't following every 7 years for ~490 years [^garner-howes] [^4]. This is also a symbolized number for the "highest measure of completeness" [^ellicott]. 
 
-Another note is that God's sovereignty is being shown here in that someone who doesn't know God and may even hate him is being actively used for God's purposes [^john-gill]. This ties in to a whole free will paradox which may be a fruitful discusion and I maybe we can dive into that outselves.
+Another note is that God's sovereignty is being shown here in that someone who doesn't know God and may even hate him is being actively used for God's purposes [^john-gill]. This ties in to a whole free will paradox which may be a fruitful discussion and I maybe we can dive into that ourselves.
 
 ### Judgment to Babylon
 Now this doesn't not mean that God is going to ignore his "servant" Babylon who is also a desperately wicked nation and God would still judge them. The idea of God using the wicked as a tool of judgment is even mentioned in the New Testament where [[🧑Paul|Paul]] requests the Corinthians to pray a man over to Satan for incest [^5]. In both cases God uses a known evil to judge but doesn't ignore the fact that the evil entity will be judged.
@@ -69,6 +72,7 @@ The focus of this study for us is that we are the current and future leaders of 
     - What are systems or structures within our church that God is using to teach us and the evil we are facing today at this church? What are lessons we can corporately learn from this season? What are lessons we could individually take from this season?
 - *Prepare for the Return*: Part of this hear is that God wants Judah to remember her former glory. God wants the people to remember it so that when the opportunity to return to that Glory happens there is palatable desire to return to it. There is a desire to worship God like we used to. Now this does not mean that the future glory will be the same as the former.
     - For our church this means that we should remember the "good old days" and it is our responsibility to carry on that memory as our elders pass, but we must also understand the the future of our church may not *directly* map to the past.
+
 # Next Week
 We are going to study the cup of God's wrath in Jeremiah 25:15-29.
 
