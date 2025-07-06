@@ -9,6 +9,7 @@ tags:
 north:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 noteType: output
+includeTitlePage: true
 ---
 [^garner-howes]: [Jeremiah 25 - Garner-Howes Baptist Commentary - Bible Commentaries - StudyLight.org](https://www.studylight.org/commentaries/eng/ghb/jeremiah-25.html)
 [^matthew-poole]: [Jeremiah 25 Matthew Poole's Commentary](https://biblehub.com/commentaries/poole/jeremiah/25.htm)
@@ -31,8 +32,6 @@ Ok so this week we are actually going back in time slightly to just at the start
 Ok so this chapter gives us some important context that it happens in the 4th year of Jehoiakim (aka Jeconiah) and the 1st year of Nebuchadnezzar. Mind that this was the first year that Nebuchadnezzar was the sole ruler of Babylon, he was actually crowned king before this but was ruling with his father [^john-calvin] This would have been around 605 BC where Babylon would defeat Egypt. This would remove the primary seat of power from [[📌Assyria|Assyria]] and make it Babylon. This would be like a major upset in a national election, everyone is now wondering how the world is going to work moving forward [^thomas-constable]. 
 
 Furthermore we have to note that at least three prophets were active during this time [[🧑Uriah|Uriah]], [[🧑Zephaniah son of Cush|Zephaniah]] and [[🧑Habakkuk|Habakkuk]]. 
-
-[[link with spaces in name|alias]]
 
 ## A Reminder of Jeremiah's Ministry
 Our first section Jeremiah gives a not of his ministry from the reign of [[🧑Josiah|Josiah]] to the modern day this included covering that he continually preached repentance [^1] In this section we get a clear highlight that God was given more than enough opportunities for the people to repent but they refused to obey time and time again for 23 years. This was 23 years of attempted revival. 23 years of having street preachers give a message of repentance without fail, but with no one turning to God. This significance also would have shown *why* the punishment was so high because 23years of refusal means there is no excuse for having no attempt to repent [^matthew-henry] [^thomas-constable]. 
