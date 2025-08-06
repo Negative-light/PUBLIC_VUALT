@@ -14,10 +14,10 @@ exportFontSize: 10
 **No Review this is a new lesson plan**
 
 # Today
-We have decided to go through the book of [Jeremiah](30-Spiritual/BIBLE_CSB_MD/Jeremiah/Jeremiah%7CJeremiah.md) for the remainder of this year. I personally have the goal of finishing the book by the end of the year, but we will see how it goes and it may just take longer.
+We have decided to go through the book of [[../30-Spiritual/BIBLE_CSB_MD/Jeremiah/Jeremiah|Jeremiah]] for the remainder of this year. I personally have the goal of finishing the book by the end of the year, but we will see how it goes and it may just take longer.
 
 ## Introduction
-So what is the book of Jeremiah about. Well it is the story of the prophet [p-jeremiah](p-jeremiah.md) who works in the area around [city-jerusalem](../city-jerusalem.md). He specifically prophesied about the [Kingdom of Judah](Kingdom%20of%20Judah.md) being taken over by [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) if the people didn't turn from idolatry. [^cite1]
+So what is the book of Jeremiah about. Well it is the story of the prophet [[../p-jeremiah|Jeremiah]] who works in the area around [[../city-jerusalem|Jerusalem]]. He specifically prophesied about the [[Southern Kingdom|Kingdom of Judah]] being taken over by [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) if the people didn't turn from idolatry. [^cite1]
 
 
 This book is a collection of Jeremiah's sermons, poems and essays rather than just a simple book of prophecy. Thus it will appear to be a assortment of writings... that is because that is what it is. [^cite1]
@@ -34,7 +34,7 @@ The first 24 chapters consist of Jeremiah calling the people to return the the c
 
 
 #### A Future of Pain and Fortune
-From chapters 25 to chapter 46 Jeremiah is focused on the coming punishment of Babylon conquering the people and them going into exile *because* they wouldn't repent. During this section Jeremiah is focused on expounding on words of [🧑Moses](%F0%9F%A7%91Moses.md) and how [God](God.md) will write a new work on their hearts through the [Messiah](30-Spiritual/33-Resources/33.10-People/%F0%9F%91%BCJesus%7C%F0%9F%91%BCJesus.md). [^cite1].
+From chapters 25 to chapter 46 Jeremiah is focused on the coming punishment of Babylon conquering the people and them going into exile *because* they wouldn't repent. During this section Jeremiah is focused on expounding on words of [🧑Moses](%F0%9F%A7%91Moses.md) and how [God](God.md) will write a new work on their hearts through the [[../30-Spiritual/33-Resources/33.10-People/jesus|Messiah]] [^cite1].
 
 #### God the Avenger
 The final section of the book is on how God uses Babylon to judge a variety of nations not just Israel but spends a significant amount of time on how God will also judge Babylon comparing the lofty nation to the [Tower of Babel](Tower%20of%20Babel.md).
@@ -67,7 +67,7 @@ I think it is exceedingly important that young Christians live with a mission or
 
 [^b6]: [Jer 1:9-10](Jer%201.md) - this is the end of God's call to Jeremiah where God gives him a mission statement.
 
-[^note2]: **Note** - The one that particularly comes to mind is the call of [🧑Isaiah](%F0%9F%A7%91Isaiah.md) in [Isa 1](30-Spiritual/BIBLE_CSB_MD/Isaiah/Isa%201%7CIsa%201.md)
+[^note2]: **Note** - The one that particularly comes to mind is the call of [🧑Isaiah](%F0%9F%A7%91Isaiah.md) in [[../30-Spiritual/BIBLE_CSB_MD/Isaiah/Isa 1|Isa 1]]
 
 # Next Week
 We are going to hop into the prophecies of Jeremiah.
