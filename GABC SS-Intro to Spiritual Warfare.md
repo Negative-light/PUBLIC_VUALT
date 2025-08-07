@@ -12,7 +12,6 @@ south:
 east:
   - "[[GABC SS-Intro too World Views]]"
   - "[[GABC SS-Back to the Beginning]]"
-  - "[[GABC SS-Intro To Angles]]"
 west:
 ---
 # Review
