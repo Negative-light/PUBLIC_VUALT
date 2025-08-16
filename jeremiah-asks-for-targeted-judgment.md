@@ -5,7 +5,7 @@ tags:
   - c/sovregnty
   - c/lament
   - c/repentance
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - Jeremiah Asks for Targeted Judgment

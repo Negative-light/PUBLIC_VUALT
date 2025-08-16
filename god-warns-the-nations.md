@@ -1,5 +1,5 @@
 ---
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - God Warns the Nations

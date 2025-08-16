@@ -4,7 +4,7 @@ tags:
   - c/judgment
   - c/calling
   - c/persecution
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - The Burden of Being a Judgment Prophet

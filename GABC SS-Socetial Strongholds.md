@@ -9,7 +9,7 @@ tags:
   - c/leadership
   - c/authority
   - c/repentance
-north:
+parent:
   - "[[The_Battle_Is_The_Lords]]"
   - The Battle is the Lords
 ---

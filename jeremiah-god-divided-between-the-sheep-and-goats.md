@@ -4,7 +4,7 @@ tags:
   - c/salvation
   - c/sanctification
   - c/backsliding
-north:
+parent:
   - "[[PUBLIC_VUALT/destruction-&-rebuilding-study-of-jeremiah|destruction-&-rebuilding-study-of-jeremiah]]"
 noteType: output
 ---

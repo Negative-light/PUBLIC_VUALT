@@ -5,9 +5,9 @@ tags:
   - c/sanctification
   - c/judgment
   - c/obedience
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
-aliases: 
+aliases:
 includeTags: true
 exportFontSize: 10
 ---

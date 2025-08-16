@@ -5,7 +5,7 @@ tags:
   - c/joy
   - c/depression
   - history
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 aliases: Jeremiah Mercy in Being a Sign
 ---

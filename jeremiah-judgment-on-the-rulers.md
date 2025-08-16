@@ -5,7 +5,7 @@ tags:
   - c/legacy
   - c/justice
   - c/righteousness
-north:
+parent:
   - "[[PUBLIC_VUALT/destruction-&-rebuilding-study-of-jeremiah|destruction-&-rebuilding-study-of-jeremiah]]"
   - "[[../Clippings/2025-05-24-who-was-king-jehoahaz-in-the-bible|2025-05-24-who-was-king-jehoahaz-in-the-bible]]"
   - "[[../Clippings/AI/2025-05-24-jeremiah-22-study-overview_CHATGPT|2025-05-24-jeremiah-22-study-overview_CHATGPT]]"

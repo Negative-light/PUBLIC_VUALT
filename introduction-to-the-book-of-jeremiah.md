@@ -3,7 +3,7 @@ tags:
   - c/prophecy
   - c/abortion
   - c/calling
-north:
+parent:
   - "[[PUBLIC_VUALT/destruction-&-rebuilding-study-of-jeremiah|destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - Introduction to the Book of Jeremiah

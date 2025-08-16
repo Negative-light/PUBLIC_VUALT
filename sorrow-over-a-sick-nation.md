@@ -6,7 +6,7 @@ tags:
   - c/lament
   - c/destruction
   - c/intentionality
-north:
+parent:
   - "[[PUBLIC_VUALT/destruction-&-rebuilding-study-of-jeremiah|destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - Sorrow Over A Sick Nation

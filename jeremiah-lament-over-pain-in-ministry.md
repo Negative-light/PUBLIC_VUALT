@@ -5,7 +5,7 @@ tags:
   - c/betrayal
   - c/testing
   - c/faith
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 noteType: output
 aliases:

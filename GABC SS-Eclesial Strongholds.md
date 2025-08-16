@@ -5,7 +5,7 @@ tags:
   - c/obedience
   - c/love
   - c/calling
-north:
+parent:
   - The Battle is the Lords
   - "[[The_Battle_Is_The_Lords|The_Battle_Is_The_Lords]]"
 ---

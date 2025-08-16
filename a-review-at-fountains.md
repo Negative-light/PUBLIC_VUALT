@@ -6,8 +6,8 @@ tags:
   - c/deception
   - c/wisdom
   - c/law
-aliases: 
-north:
+aliases:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 # Last Week

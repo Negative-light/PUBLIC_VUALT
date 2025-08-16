@@ -2,12 +2,12 @@
 tags:
   - c/prayer
   - spiritual/warfare
-north:
+parent:
   - The Battle is the Lords
   - "[[The_Battle_Is_The_Lords|The_Battle_Is_The_Lords]]"
-south: 
-east: 
-west: 
+child:
+sibling:
+rival:
 ---
 # Review
 We are in a study over spiritual warfare. That is the battle between [[God]] and Satan over glory. We have come to understand that Satan wants to disable Christians such that we cannot bring glory to God.

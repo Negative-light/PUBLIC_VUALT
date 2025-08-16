@@ -5,7 +5,7 @@ tags:
   - c/paganism
   - c/faith
   - c/judgment
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - Chirstmas is Not Pagan and Why God is Better

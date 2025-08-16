@@ -5,14 +5,14 @@ tags:
   - c/sin
   - c/righteousness
 noteType: lesson
-north:
+parent:
   - The Battle is the Lords
   - "[[The_Battle_Is_The_Lords]]"
-south: 
-east:
+child:
+sibling:
   - "[[GABC SS-Intro to Spiritual Warfare|GABC SS-Intro to Spiritual Warfare]]"
   - "[[GABC SS-Back to the Beginning|GABC SS-Back to the Beginning]]"
-west:
+rival:
 ---
 # Review
 Last week we had a short introduction into spiritual warfare. The major things we covered are

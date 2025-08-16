@@ -3,7 +3,7 @@ tags:
   - c/faith
   - c/fear
   - c/persecution
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 title:
   - "Jeremiah: Two Responses to Persecution"

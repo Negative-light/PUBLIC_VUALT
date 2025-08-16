@@ -2,9 +2,9 @@
 tags:
   - c/teaching
   - spiritual/warfare
-north:
+parent:
   - "[[Sunday School Lessons|Sunday School Lessons]]"
-south:
+child:
   - "[[PUBLIC_VUALT/GABC SS-Intro to Spiritual Warfare|GABC SS-Intro to Spiritual Warfare]]"
   - "[[PUBLIC_VUALT/GABC SS-Intro too World Views|GABC SS-Intro too World Views]]"
   - "[[PUBLIC_VUALT/GABC SS-Back to the Beginning|GABC SS-Back to the Beginning]]"

@@ -6,12 +6,12 @@ tags:
   - c/end-times
   - c/glory
   - spiritual/warfare
-north:
+parent:
   - The Battle is the Lords
   - "[[The_Battle_Is_The_Lords]]"
-south: 
-east: 
-west: 
+child:
+sibling:
+rival:
 ---
 # Review
 This study has covered the spiritual war for glory between [God](God) and Satan. We have discussed the importance of the right worldview, where Satan tries to attack. Following this we covered angles and demons. But the important thing to remember is that **victory** is found in Jesus.

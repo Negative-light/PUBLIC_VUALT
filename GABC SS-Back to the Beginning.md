@@ -5,14 +5,14 @@ tags:
   - c/demons
   - c/glory
 noteType: lesson
-north:
+parent:
   - The Battle is the Lords
   - "[[The_Battle_Is_The_Lords]]"
-south: 
-east:
+child:
+sibling:
   - "[[PUBLIC_VUALT/GABC SS-Intro too World Views|GABC SS-Intro too World Views]]"
   - "[[PUBLIC_VUALT/GABC SS-Intro to Spiritual Warfare|GABC SS-Intro to Spiritual Warfare]]"
-west:
+rival:
 ---
 # Review
 In the study we have already covered the following:

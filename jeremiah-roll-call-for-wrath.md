@@ -2,7 +2,7 @@
 tags:
   - c/judgment
   - c/god/wrath
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 title:
   - "Jeremiah: Roll Call for Wrath"

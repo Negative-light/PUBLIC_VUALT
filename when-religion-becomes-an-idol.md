@@ -8,7 +8,7 @@ tags:
   - c/rascism
 aliases:
   - When Religion Becomes an Idol
-north:
+parent:
   - "[[PUBLIC_VUALT/destruction-&-rebuilding-study-of-jeremiah|destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 [^guzik]: [Study Guide for Jeremiah 7 by David Guzik](https://www.blueletterbible.org/comm/guzik_david/study-guide/jeremiah/jeremiah-7.cfm)

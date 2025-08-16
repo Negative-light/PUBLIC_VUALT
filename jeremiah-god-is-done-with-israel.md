@@ -3,7 +3,7 @@ tags:
   - c/judgment
   - c/destruction
   - c/idolatry
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - God is Done with Israel

@@ -1,7 +1,7 @@
 ---
 aliases:
   - God Being Faithful Despite our Wandering
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 tags:
   - c/love

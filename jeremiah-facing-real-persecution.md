@@ -4,7 +4,7 @@ tags:
   - c/judgment
   - c/prophecy
   - c/false-teachers
-north:
+parent:
   - "[[PUBLIC_VUALT/destruction-&-rebuilding-study-of-jeremiah|destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - Facing Real Perscution

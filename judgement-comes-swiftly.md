@@ -3,7 +3,7 @@ aliases:
   - Judgment Comes Swiftly
 tags:
   - c/judgment
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 # Review

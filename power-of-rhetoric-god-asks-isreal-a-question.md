@@ -4,7 +4,7 @@ tags:
   - c/rhetoric
   - c/speaking
   - c/repentance
-north:
+parent:
   - "[[PUBLIC_VUALT/destruction-&-rebuilding-study-of-jeremiah|destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - The Power of Rehtoric God Asks Israel a Question

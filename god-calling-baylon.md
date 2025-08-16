@@ -3,7 +3,7 @@ tags:
   - c/calling
   - c/correction
   - c/repentance
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - God Calling Babylon

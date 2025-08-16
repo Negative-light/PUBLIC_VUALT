@@ -8,9 +8,9 @@ tags:
   - c/redemption
   - c/god/protection
   - c/god/promises
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
-aliases: 
+aliases:
 title:
   - Jeremiah on Addictions and Redemption
 includeTags: true

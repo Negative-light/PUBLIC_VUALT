@@ -9,7 +9,7 @@ tags:
   - c/religion
   - c/repentance
   - c/lament
-north:
+parent:
   - "[[Sunday School Lessons]]"
 aliases:
   - Destructiong and Rebuilding a Study of the book of Jeremiah

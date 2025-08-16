@@ -4,7 +4,7 @@ tags:
   - c/judgment
   - c/sin
   - c/destruction
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - Jeremiah's Change of Heart

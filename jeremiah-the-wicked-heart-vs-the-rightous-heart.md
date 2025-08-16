@@ -7,7 +7,7 @@ tags:
   - c/sin
   - c/heart
   - c/persecution
-north:
+parent:
   - "[[PUBLIC_VUALT/destruction-&-rebuilding-study-of-jeremiah|destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - The Wicked Heart vs the Righteous Heart

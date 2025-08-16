@@ -4,17 +4,17 @@ tags:
   - c/demons
   - c/humility
 noteType: lesson
-north:
+parent:
   - The Battle is the Lords
   - "[[The_Battle_Is_The_Lords]]"
-south: 
-east:
+child:
+sibling:
   - "[[GABC SS-Intro too World Views]]"
   - "[[GABC SS-Back to the Beginning]]"
   - "[[GABC SS-Intro to Spiritual Warfare]]"
   - "[[GABC SS-The Battle Field]]"
   - "[[GABC SS-The Utility and Purpose of Angels]]"
-west:
+rival:
 ---
 # Review
 - We are in a battle over glory between God and Satan

@@ -2,7 +2,7 @@
 tags:
   - c/judgment
   - c/false-teachers
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
   - "[[../Clippings/AI/2025-05-30-jeremiah-23-bible-study_CHATGPT|2025-05-30-jeremiah-23-bible-study_CHATGPT]]"
 noteType: output

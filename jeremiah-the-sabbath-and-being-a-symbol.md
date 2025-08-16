@@ -3,9 +3,9 @@ tags:
   - c/obedience
   - c/blessing
   - c/symbolism
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
-aliases: 
+aliases:
 includeTags: true
 exportFontSize: 10
 ---

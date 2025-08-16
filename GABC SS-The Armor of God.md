@@ -2,12 +2,12 @@
 tags:
   - spiritual/warfare
   - c/armor-of-god
-north:
+parent:
   - "[[The_Battle_Is_The_Lords|The_Battle_Is_The_Lords]]"
   - The Battle is the Lords
-south: 
-east: 
-west: 
+child:
+sibling:
+rival:
 ---
 # Review
 This study we have been talking about the root cause of evil in the world. This is the spiritual war between [[God]] and [[Satan]] in which Satan is attempting to take the glory from God.

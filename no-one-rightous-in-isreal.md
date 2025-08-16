@@ -8,7 +8,7 @@ tags:
   - c/redemption
 aliases:
   - No One Righteous In Israel
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 # Review

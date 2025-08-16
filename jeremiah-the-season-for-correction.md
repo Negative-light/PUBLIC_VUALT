@@ -6,7 +6,7 @@ tags:
   - c/mercy
   - c/salvation
   - c/discipline
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 noteType: output
 title:

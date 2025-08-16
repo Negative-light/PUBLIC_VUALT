@@ -1,7 +1,7 @@
 ---
 aliases:
   - Repentance Resists Destruction
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 tags:
   - c/repentance

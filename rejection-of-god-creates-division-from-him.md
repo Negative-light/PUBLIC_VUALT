@@ -4,7 +4,7 @@ tags:
   - c/sin/greed
   - c/idolatry
   - c/repentance
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - Rejection of God Creates Division from Him

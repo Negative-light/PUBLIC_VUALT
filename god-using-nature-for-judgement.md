@@ -2,7 +2,7 @@
 tags:
   - c/judgment
   - c/repentance
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - God using Nature for Judgment

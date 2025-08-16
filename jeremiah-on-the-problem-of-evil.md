@@ -5,7 +5,7 @@ tags:
   - c/repentance
   - c/redemption
   - c/the-problem-of-evil
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - Jeremiah on the Problem of Evil

@@ -3,7 +3,7 @@ tags:
   - c/covenant
   - c/judgment
   - c/sin/sexual
-north:
+parent:
   - "[[PUBLIC_VUALT/destruction-&-rebuilding-study-of-jeremiah|destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - An Object Lesson on Israel's Destruction

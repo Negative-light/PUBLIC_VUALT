@@ -7,7 +7,7 @@ tags:
   - c/adultery
   - c/sin
   - c/idolatry
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 [^garner-howes]: [Jeremiah 23 - Garner-Howes Baptist Commentary - Bible Commentaries - StudyLight.org](https://www.studylight.org/commentaries/eng/ghb/jeremiah-23.html)

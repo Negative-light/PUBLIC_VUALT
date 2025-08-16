@@ -14,7 +14,7 @@ tags:
   - c/joy
 aliases:
   - Christmas is Not Pagan
-north:
+parent:
   - "[[../Clippings/2024-12-21-2.-christmas-is-not-pagan-(history)|2024-12-21-2.-christmas-is-not-pagan-(history)]]"
   - "[[../Clippings/2024-12-21-1.-christmas-is-not-pagan-(scripture)|2024-12-21-1.-christmas-is-not-pagan-(scripture)]]"
   - "[[../Clippings/2024-12-21-top-ten-christmas-traditions-(&-their-origin-stories)|2024-12-21-top-ten-christmas-traditions-(&-their-origin-stories)]]"

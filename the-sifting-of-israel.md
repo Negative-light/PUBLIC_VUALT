@@ -8,7 +8,7 @@ tags:
   - c/calling
 aliases:
   - The Sifting of Israel
-north:
+parent:
   - "[[PUBLIC_VUALT/destruction-&-rebuilding-study-of-jeremiah|destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 [^enduring-word]: [Enduring Word Bible Commentary Jeremiah Chapter 6](https://enduringword.com/bible-commentary/jeremiah-6/)

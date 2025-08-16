@@ -7,7 +7,7 @@ tags:
   - c/legacy
   - c/lament
   - c/accountability
-north:
+parent:
   - "[[PUBLIC_VUALT/destruction-&-rebuilding-study-of-jeremiah|destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - "God Punishes False Prophets: The Weight of Bad Leaders"

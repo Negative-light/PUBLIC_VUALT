@@ -6,7 +6,7 @@ tags:
   - c/sin
   - c/addiction
   - c/adultery
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 # Review

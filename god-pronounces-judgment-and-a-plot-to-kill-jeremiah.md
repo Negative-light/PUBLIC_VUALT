@@ -7,7 +7,7 @@ tags:
   - c/sanctification
   - c/sovregnty
   - c/addiction
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - God Pronounces Judgment and a Plot to Kill Jereamiah

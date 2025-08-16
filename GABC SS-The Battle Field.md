@@ -7,15 +7,15 @@ tags:
   - c/discipleship
   - c/total-depravity
 noteType: lesson
-north:
+parent:
   - The Battle is the Lords
   - "[[The_Battle_Is_The_Lords]]"
-south: 
-east:
+child:
+sibling:
   - "[[PUBLIC_VUALT/GABC SS-Intro too World Views|GABC SS-Intro too World Views]]"
   - "[[GABC SS-Back to the Beginning]]"
   - "[[GABC SS-Intro to Spiritual Warfare]]"
-west:
+rival:
 ---
 # Review
 Last week we did a short introduction into angles but here is what we know so far

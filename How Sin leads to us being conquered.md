@@ -6,7 +6,7 @@ tags:
   - c/apostasy
   - c/idolatry
   - spiritual/warfare
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 noteType: lesson
 ---

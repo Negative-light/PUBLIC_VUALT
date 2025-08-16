@@ -6,7 +6,7 @@ tags:
   - c/grace
 aliases:
   - Jeremiah's First Lament
-north:
+parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 # Review

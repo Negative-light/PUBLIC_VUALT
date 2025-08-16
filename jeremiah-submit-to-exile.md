@@ -2,7 +2,7 @@
 tags:
   - c/judgment
   - c/prophecy
-north:
+parent:
   - "[[PUBLIC_VUALT/destruction-&-rebuilding-study-of-jeremiah|destruction-&-rebuilding-study-of-jeremiah]]"
 title:
   - "Jeremiah: Submit To Exile"

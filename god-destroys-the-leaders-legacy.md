@@ -10,7 +10,7 @@ tags:
   - c/deception
   - c/destruction
   - c/legacy
-north:
+parent:
   - "[[PUBLIC_VUALT/destruction-&-rebuilding-study-of-jeremiah|destruction-&-rebuilding-study-of-jeremiah]]"
 aliases:
   - God Destory's the Leaders Legacy

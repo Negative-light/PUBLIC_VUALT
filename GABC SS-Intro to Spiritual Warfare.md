@@ -6,13 +6,13 @@ tags:
   - c/sin
   - "#c/sin/sexual"
 noteType: lesson
-north:
+parent:
   - The Battle is the Lords
-south: 
-east:
+child:
+sibling:
   - "[[GABC SS-Intro too World Views]]"
   - "[[GABC SS-Back to the Beginning]]"
-west:
+rival:
 ---
 # Review
 N/A (First Lesson)
