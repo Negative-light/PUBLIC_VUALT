@@ -11,9 +11,9 @@ tags:
 noteType: output
 ---
 # Review
-We are studying the prophecies of [[../p-jeremiah]] to the southern kingdom of [Israel](../p-nation-of-israel.md). This book highlights how they have abandoned [God](God.md) for idols. this book uses adultery to highlight that point the most [^connection1].
+We are studying the prophecies of [[../p-jeremiah|Jeremiah]] to the southern kingdom of [Israel](../p-nation-of-israel.md). This book highlights how they have abandoned [God](God.md) for idols. this book uses adultery to highlight that point the most [^connection1].
 
-[^connection1]: This reminds me of [apostasy-is-adultry](apostasy-is-adultry.md), and [The Relationship of Divorce and Adulatory](../30-Spiritual/31-Ideas/The%20Relationship%20of%20Divorce%20and%20Adulatory.md)
+[^connection1]: This reminds me of [[apostasy-is-adultry|Apostasy is Adultery]], and [[../The Relationship of Divorce and Adulatory|The Relationship of Divorce and Adulatory]]
 
 # This Week
 This week I wanted to take a step back and look at how Goid is still faithful despite the unfaithfulness of Israel. This is because of his unfailing [Love](../30-Spiritual/33-Resources/33.20-Words/33.21-English/love.md).

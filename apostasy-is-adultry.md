@@ -8,7 +8,7 @@ tags:
 noteType: lesson
 ---
 # Review
-We are in a study of the book of [Jeremiah](../30-Spiritual/BIBLE_CSB_MD/Jeremiah/Jeremiah%7CJeremiah.md).  And the life of [p-jeremiah](../p-jeremiah.md). We studied Jeremiah's call and how [[God]] encouraged him because he was fearful of the [[../p-nation-of-israel]] due to his age. WE then discussed the first prophecy that Jeremiah has for the nation of Israel. That God was watching over the coming destruction of Israel and watches over his word to see it accomplished.
+We are in a study of the book of [Jeremiah](../30-Spiritual/BIBLE_CSB_MD/Jeremiah/Jeremiah%7CJeremiah.md).  And the life of [p-jeremiah](../p-jeremiah.md). We studied Jeremiah's call and how [[God]] encouraged him because he was fearful of the [[../p-nation-of-israel|Israel]] due to his age. WE then discussed the first prophecy that Jeremiah has for the nation of Israel. That God was watching over the coming destruction of Israel and watches over his word to see it accomplished.
 
 # This Week
 This week we are looking at the first example of Jeremiah comparing the apostasy/idolatry of Israel with Adultery. The concept being that Isreal was loyal to God doing its best to follow and obey Him [^b1]
@@ -41,7 +41,7 @@ The next bitgt that I think is super important is that the nation of Isreal in a
 This prophecy ends  with God calling the nation of Israel doubly evil because they exchanged God satisfying. This interests me not because of the charge here of double evil but because of this key concept. *That we as Christians have a never ending well* and that when we look to sin *We dig a broken cistern* [^b6]. The cistern they have cannot hold water, which relates to life, joy, hope. We as humans cannot live without water (or coffee... that is more everyone around me) and its the same here wasting good clean water "living water" is fundamental and they were wasting this vial resource. How often do we do this in our spiritual walk? HOW OFTEN do we trade the truth of God for a lie that will never satisfy us? [^b7]
 
 
-[^b6]: [John 7:37-39](John%207.md) - this is a passage that [👼Jesus](../30-Spiritual/33-Resources/33.10-People/%F0%9F%91%BCJesus%7C%F0%9F%91%BCJesus.md) promises that he will provided living water to us. That he is the person mentioned in Jeremiah
+[^b6]: [John 7:37-39](John%207.md) - this is a passage that [[../people/biblical/jesus|Jesus]] promises that he will provided living water to us. That he is the person mentioned in Jeremiah
 [^b7]: [Jer 2:13](Jer%202.md) - here we have the nation of Isreal being charged wit ha double evil of wating the water and triading their God.
 
 # Next Week
