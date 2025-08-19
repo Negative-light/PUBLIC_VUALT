@@ -16,7 +16,7 @@ We are studying the prophecies of [[../p-jeremiah|Jeremiah]] to the southern kin
 [^connection1]: This reminds me of [[apostasy-is-adultry|Apostasy is Adultery]], and [[../The Relationship of Divorce and Adulatory|The Relationship of Divorce and Adulatory]]
 
 # This Week
-This week I wanted to take a step back and look at how Goid is still faithful despite the unfaithfulness of Israel. This is because of his unfailing [Love](../30-Spiritual/33-Resources/33.20-Words/33.21-English/love.md).
+This week I wanted to take a step back and look at how Goid is still faithful despite the unfaithfulness of Israel. This is because of his unfailing [Love](love.md).
 
 ## Setting the Scene
 Most of chapter three covers this theme that God has divorced the people because they were unfaithful to him. This even calls out that someone cannot remarry a woman if they have given her a divorce and she remarries another [^b2]. This here is a call to self reflect [^b1].
@@ -37,7 +37,7 @@ The last section I think is a somewhat end time prophecy mostly due to the latte
 [^b4]: [Jer 3:14-18](Jer%203.md)
 
 ## A thought on Repentance
-This segment closes with Jeremiah providing some thoughts on repentance. But I think the important part we see here is that God will heal unfaithfulness. All to often we see this call, Get right then come to God. God says the opposite, come to me and I will make you right. God knows what we go through. This is why [jesus](../30-Spiritual/33-Resources/33.10-People/jesus.md) is called to have sympathized with us because God knows the difficulty of life and how hard it is to truly repent [^b5]
+This segment closes with Jeremiah providing some thoughts on repentance. But I think the important part we see here is that God will heal unfaithfulness. All to often we see this call, Get right then come to God. God says the opposite, come to me and I will make you right. God knows what we go through. This is why [jesus](33.10-People/jesus.md) is called to have sympathized with us because God knows the difficulty of life and how hard it is to truly repent [^b5]
 
 [Jer 3:19-25](Jer%203.md)
 

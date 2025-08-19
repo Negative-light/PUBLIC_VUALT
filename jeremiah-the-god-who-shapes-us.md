@@ -26,7 +26,7 @@ For us as we walk through life God will make us and remake us as a potter does a
 Now the important part is the lesson part of the object lesson [^2]. The purpose is that God shapes Israel as he wills shifting and changing things as He sees fit. Now obviously God is going to break the nation because he needs to restart due to the "clay" of Israel being unrepentant. This is how God handles us. And he has that right because He created us [^matthew-poole]. Mind that God desires for us to live a life that produces great honor, and has a vision for whoo we are to become [^enduring-word].
 
 
-Although God does bring about these sense that he is about to toss away the clay of Israel but we seem the inkling and a truth nugget of how God handles those who repent. He is faithful and provides a chance to return to the original glory with which the nation was once called [^ellicott]. The nation and people eventually give rise to [Jesus](../30-Spiritual/33-Resources/33.10-People/jesus.md) and the redemptive work of the cross with which we celebrate soon enough [^5]. The purpose is not hidden and maybe was more obvious for the people of that time.
+Although God does bring about these sense that he is about to toss away the clay of Israel but we seem the inkling and a truth nugget of how God handles those who repent. He is faithful and provides a chance to return to the original glory with which the nation was once called [^ellicott]. The nation and people eventually give rise to [Jesus](33.10-People/jesus.md) and the redemptive work of the cross with which we celebrate soon enough [^5]. The purpose is not hidden and maybe was more obvious for the people of that time.
 ## Applications
 
 ### Living Life to See What God will Show you

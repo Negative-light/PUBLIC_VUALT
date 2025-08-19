@@ -34,7 +34,7 @@ The first 24 chapters consist of Jeremiah calling the people to return the the c
 
 
 #### A Future of Pain and Fortune
-From chapters 25 to chapter 46 Jeremiah is focused on the coming punishment of Babylon conquering the people and them going into exile *because* they wouldn't repent. During this section Jeremiah is focused on expounding on words of [🧑Moses](%F0%9F%A7%91Moses.md) and how [God](God.md) will write a new work on their hearts through the [[../30-Spiritual/33-Resources/33.10-People/jesus|Messiah]] [^cite1].
+From chapters 25 to chapter 46 Jeremiah is focused on the coming punishment of Babylon conquering the people and them going into exile *because* they wouldn't repent. During this section Jeremiah is focused on expounding on words of [🧑Moses](%F0%9F%A7%91Moses.md) and how [God](God.md) will write a new work on their hearts through the [[33.10-People/jesus|Messiah]] [^cite1].
 
 #### God the Avenger
 The final section of the book is on how God uses Babylon to judge a variety of nations not just Israel but spends a significant amount of time on how God will also judge Babylon comparing the lofty nation to the [Tower of Babel](Tower%20of%20Babel.md).

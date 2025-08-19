@@ -18,9 +18,9 @@ Ok this week we will be closing out a study on Spiritual Warfare we understand a
 We understand that this battle is between [God](God) and Satan. We understand that Satan is really just trying to claim up the glory of God. 
 We understand that a major part of Spiritual Warfare is authority and that all authority comes from God.
 
-In the last few weeks we have study the armor of God and the power of prayer and that we need to put on [jesus](../30-Spiritual/33-Resources/33.10-People/jesus.md) every day. 
+In the last few weeks we have study the armor of God and the power of prayer and that we need to put on [jesus](33.10-People/jesus.md) every day. 
 Further we discussed how to defeat strongholds in your personal life via thought claiming and accountability.
-Strongholds in the family can similarly be defeated by proper submission to the right authority and  [love](../30-Spiritual/33-Resources/33.20-Words/33.21-English/love.md).
+Strongholds in the family can similarly be defeated by proper submission to the right authority and  [love](love.md).
 Last week we looked into the strongholds that form in the church and the examples of the [7 Churches of Revelation](7_Churches_of_Revelation).
 
 # Today

@@ -36,7 +36,7 @@ In our fist section we see God warns the nations and that even sacrifice is not 
 This starts with a call for Israel to look at "ancient paths" that if taken will result in rest. This is rejected by Israel. The call here really is to return to Godly wisdom [^enduring-word].
 
 
-Looking into the New Testament [Jesus](../30-Spiritual/33-Resources/33.10-People/jesus.md) is described as the source of our rest and the Lord of the Sabbath [^b1]. Furthermore Jesus offers us rest for our souls [^b2]. Israel highlights how we by our sinful nature will not accept the true rest of God, desiring to attach to ritualistic rest rather than the continual refreshing that is offered from Christ.
+Looking into the New Testament [Jesus](33.10-People/jesus.md) is described as the source of our rest and the Lord of the Sabbath [^b1]. Furthermore Jesus offers us rest for our souls [^b2]. Israel highlights how we by our sinful nature will not accept the true rest of God, desiring to attach to ritualistic rest rather than the continual refreshing that is offered from Christ.
 ### Application
 - Have you rejected rest from God? 
 - Are there places you have rejected the "ancient path" of God?

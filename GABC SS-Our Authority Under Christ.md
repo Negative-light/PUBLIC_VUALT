@@ -11,7 +11,7 @@ sibling:
 rival:
 ---
 # Review
-This study has covered the spiritual war between [[God]] and Satan over Glory. We have discussed the different spaces Satan attempt to attack, the units on both God's side and Satan's. Last week we covered how we find victory in [[../30-Spiritual/33-Resources/33.10-People/jesus|👼Jesus]] over Satan
+This study has covered the spiritual war between [[God]] and Satan over Glory. We have discussed the different spaces Satan attempt to attack, the units on both God's side and Satan's. Last week we covered how we find victory in [[33.10-People/jesus|👼Jesus]] over Satan
 
 # Today
 This week we start the practical application for this study, primarily we are going to understand *authority* as this is a principle element to spiritual warfare [^note1]. We are going to focus more on the practical things and as always with this study I suggest you read the accompanying book.

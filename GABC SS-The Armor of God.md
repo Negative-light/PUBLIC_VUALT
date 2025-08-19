@@ -12,7 +12,7 @@ rival:
 # Review
 This study we have been talking about the root cause of evil in the world. This is the spiritual war between [[God]] and [[Satan]] in which Satan is attempting to take the glory from God.
 Within this war Satan is attempting to make us all prisoners of war. Key structures that he uses is Fortresses of a deep seated thought that leads a believer to hopelessness and the lofty idea or partition which is a division between the "holy" and "unholy" side of peoples life.
-We have furthermore covered the victory we have in [[../30-Spiritual/33-Resources/33.10-People/jesus|👼Jesus]] as co-conquerors and the nature of our need to be in a local physical body (ie church).
+We have furthermore covered the victory we have in [[33.10-People/jesus|👼Jesus]] as co-conquerors and the nature of our need to be in a local physical body (ie church).
 
 # Today
 Todays study is targeting the [[Armor of God]] and doing a deep dive into it.
