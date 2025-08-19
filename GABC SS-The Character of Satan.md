@@ -45,7 +45,7 @@ rival:
 
 # Today
 
-Today we are going to look into Satan and his Character. this can be best summarized in his name which means "adversary" or "opposer" [^cite1] and "accuser" or "slanderer" [^cite2]. This really shows that his character is to accuse us before God but remember that [[33.10-People/jesus|👼Jesus]] protects us [^b1]. Satan does have other names that may be worth further study in the future but for this study we will not be focusing on that today.
+Today we are going to look into Satan and his Character. this can be best summarized in his name which means "adversary" or "opposer" [^cite1] and "accuser" or "slanderer" [^cite2]. This really shows that his character is to accuse us before God but remember that [[jesus|👼Jesus]] protects us [^b1]. Satan does have other names that may be worth further study in the future but for this study we will not be focusing on that today.
 
 [^cite1]: [Strong's Greek: 4567. Σατανᾶς (Satanas) -- 36 Occurrences](https://biblehub.com/greek/strongs_4567.htm)
 [^cite2]: [Strong's Greek: 1228. διάβολος (diabolos) -- slanderous, accusing falsely](https://biblehub.com/greek/1228.htm)

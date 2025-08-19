@@ -23,7 +23,7 @@ As we start up we see the idea of the people trying to bring a case against God,
 ### God's Attempts to Reach out
 The first thing God does against the people is attack the children of the people. But this was 'in vain'. This in vain idea really is that God desired for them to repent, and they did not [^b2].
 
-Next God sent prophets which they killed. I find this interesting because [jesus](33.10-People/jesus.md) later uses this to charge the people [^b3]. But these people had not only killed God's prophets they killed them like a Lion [^b2].
+Next God sent prophets which they killed. I find this interesting because [jesus](jesus.md) later uses this to charge the people [^b3]. But these people had not only killed God's prophets they killed them like a Lion [^b2].
 
 [^b2]: [Jer 2:30](Jer%202.md) - This verse we see God's two attempts to reach out to the people who then reject him.
 [^b3]: [Matt 23:29-31](Matt%2023.md) - here we see Jesus' charge against the [Pharisees](Pharisees.md)

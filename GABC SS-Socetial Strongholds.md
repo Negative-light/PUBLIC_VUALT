@@ -18,7 +18,7 @@ Ok this week we will be closing out a study on Spiritual Warfare we understand a
 We understand that this battle is between [God](God) and Satan. We understand that Satan is really just trying to claim up the glory of God. 
 We understand that a major part of Spiritual Warfare is authority and that all authority comes from God.
 
-In the last few weeks we have study the armor of God and the power of prayer and that we need to put on [jesus](33.10-People/jesus.md) every day. 
+In the last few weeks we have study the armor of God and the power of prayer and that we need to put on [jesus](jesus.md) every day. 
 Further we discussed how to defeat strongholds in your personal life via thought claiming and accountability.
 Strongholds in the family can similarly be defeated by proper submission to the right authority and  [love](love.md).
 Last week we looked into the strongholds that form in the church and the examples of the [7 Churches of Revelation](7_Churches_of_Revelation).
@@ -101,9 +101,9 @@ Overall this is the umtimate call and idea. The church is not obeying Christ in 
 
 ## How to submit to Jesus
 So i think the biggest thing we need in the US is Awakening, but Awakening always comes along with Revival. Ironically we have the ingredients for Revival.
-1. Prayer - Scripture is dotted with times where prayer lead the nation in the right direction. A key example would be in [Nehemiah](../30-Spiritual/BIBLE_CSB_MD/Nehemiah/Nehemiah.md).
+1. Prayer - Scripture is dotted with times where prayer lead the nation in the right direction. A key example would be in [Nehemiah](../Nehemiah/Nehemiah.md).
 2. Showcase Jesus - we are called to make it clear what the victory of Jesus is. Honestly we don't meet this one well
 3. Live in Unity - this is a major issue in the US we are called al thoughout the NT on Being unified, but if we are the power of Christ is no longer just reflected by us it is amplified.
 
 # Next Week
-Next week we will start a study on the book of [Jeremiah](../30-Spiritual/BIBLE_CSB_MD/Jeremiah/Jeremiah.md).
+Next week we will start a study on the book of [Jeremiah](../Jeremiah/Jeremiah.md).

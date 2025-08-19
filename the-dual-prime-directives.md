@@ -18,7 +18,7 @@ The human directive can be found in Genesis and is the common call to [🧑Adam]
 [^1]: [Gen 1:28](Gen%201.md): This is the verse that holds the "human directive" to be fruitful and multiply
 
 ## The Great Commission
-We find the Great Commission in the last moments [[33.10-People/jesus|👼Jesus]] spent with his disciples where he told them to "go and make disciples" [^2]. Or go and multiply the number of followers of Christ. Now how we share the [[../Gospel|Gospel]] is explained further in the New Testament and a key of that is to be fruitful. Now unlike the Human directive this fruitfulness was not to produce things of beauty of create physical fruit but to create the fruit of the spirit [^3]
+We find the Great Commission in the last moments [[jesus|👼Jesus]] spent with his disciples where he told them to "go and make disciples" [^2]. Or go and multiply the number of followers of Christ. Now how we share the [[../Gospel|Gospel]] is explained further in the New Testament and a key of that is to be fruitful. Now unlike the Human directive this fruitfulness was not to produce things of beauty of create physical fruit but to create the fruit of the spirit [^3]
 
 [^2]: [[Matt 28|Matt 28:19]]: This verse is Jesus giving out the great commission. **Note**: the great commission is back by Jesus having authority now over heaven and earth similar to how humans once did before the fall, we had authority under [[God]], but we gave that over.
 [^3]: [[Gal 5|Gal 5:22-23]]: Here we see the fruit that the [[Holy Spirit]] produces in a Christians life. This is the greatest witness we can have.

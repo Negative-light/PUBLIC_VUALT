@@ -43,7 +43,7 @@ We also know that it is super important for person who is freed of demons to be 
 
 
 [^note2]: Note: This is based on those that are called to have a deeper  understanding of demonology and are called to be more direct in dealing with demons. These people are *very* rare and one should not take the gifting of this lightly. The primary gift i am aware of is being a Seer which means you are far more sensitive to the spiritual world. This being said before you go deeper I **strongly** suggest having time to pray, fast and get close with [[God]] and be 100% on what that calling will look like.
-[^b1]: [[Luke 8|Luke 8:26-39]] - This passage is on the man who was possessed by a demon and healed by [[33.10-People/jesus|👼Jesus]]
+[^b1]: [[Luke 8|Luke 8:26-39]] - This passage is on the man who was possessed by a demon and healed by [[jesus|👼Jesus]]
 
 ## What do they do?
 Demons are servants of Satan and are frequently called "unclean spirits" in the Bible. Similar to how angels do functions for the operations of God, demons assist in executing the [[GABC SS-Strategies Satan Uses| strategies of Satan]]. A key part being corrupting the truth and seeding false teachers in the church [^b1a]. If they are not affecting the church they will attack the society by attacking individuals sexuality, this is usually the primary direction for corruption of societies [^b1b].

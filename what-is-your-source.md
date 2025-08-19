@@ -10,7 +10,7 @@ aliases:
 noteType: output
 ---
 [^b1]: [Deut 32:28-33](Deut%2032.md) - this passage contains statements from [🧑Moses](%F0%9F%A7%91Moses.md) about how [God](God.md) is greater than the world
-[^b2]: [John 15:5](John%2015.md) - this verse we see that the vine of Christians is [jesus](33.10-People/jesus.md)7:24-25](Matt%207.md) - this passage shows us that the words of Jesus (ie [The Bible](The%20Bible.md)) are a foundational rock for us to build upon
+[^b2]: [John 15:5](John%2015.md) - this verse we see that the vine of Christians is [jesus](jesus.md)7:24-25](Matt%207.md) - this passage shows us that the words of Jesus (ie [The Bible](The%20Bible.md)) are a foundational rock for us to build upon
 [^b4]: [1 Cor 3:9-14](1%20Cor%203.md) - here we see that we as Christians are the building of Christ. Furthermore we see that Jesus is a pure foundation that we should be attached to.
 [^b5]: [James 15-6:](James%201.md) - here we see that God will give us wisdom in abundance in [Faith](Faith.md)
 [^b6]: [Gal 6:22-23](Gal%206.md) - here we see what the [Fruit of the Spirit](Fruit%20of%20the%20Spirit.md) is

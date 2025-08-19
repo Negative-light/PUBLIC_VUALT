@@ -24,7 +24,7 @@ Purpose: The purpose of this lesson is to introduce everyone to the book and to 
 
 Main topic. Spiritual Warfare is real and we are to understand that battle as it effects all areas of our lives.
 
-Key Scriptures come from [[30-Spiritual/BIBLE_CSB_MD/Ephesians/Ephes 6|Ephes 6]], [[30-Spiritual/BIBLE_CSB_MD/Daniel/Dan 4|Dan 4]], [[James 4]], [[30-Spiritual/BIBLE_CSB_MD/Isaiah/Isa 48|Isa 48]],[[30-Spiritual/BIBLE_CSB_MD/Colossians/Col 1|Col 1]], [[30-Spiritual/BIBLE_CSB_MD/1 Timothy/1 Tim 4|1 Tim 4]],
+Key Scriptures come from [[Ephesians/Ephes 6|Ephes 6]], [[Daniel/Dan 4|Dan 4]], [[James 4]], [[Isaiah/Isa 48|Isa 48]],[[Colossians/Col 1|Col 1]], [[1 Timothy/1 Tim 4|1 Tim 4]],
 
 ## Evidence of the Battle
 The overall essence of this study is to really consider that there is the invisible spiritual realm that has a direct impact on the physical world. The Physical world does have some clear evidence of the conflict that occurs. Including divorce, war, abuse, addiction and so on. Currently about 50% of all marriages end in divorce [^cite1] additionally there is a growing trend of there being fewer marriages and relationships [^cite2].

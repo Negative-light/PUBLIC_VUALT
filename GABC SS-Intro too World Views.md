@@ -34,7 +34,7 @@ This is the view that there is only the natural world. More of a it is only real
 
 The results of this are things like [[agnosticism]], [[atheism]] and on the extreme [[anti-theism]]
 
-![[30-Spiritual/BIBLE_CSB_MD/Romans/Rom 1#22|Romans 1:23-25]]
+![[Romans/Rom 1#22|Romans 1:23-25]]
 
 
 ## Spiritual Worldview
@@ -46,7 +46,7 @@ First we must acknowledge a basis of Spiritual Warfare.
 
 Your worldview shapes all of your decision making and thus it has massive implications. Therefore we are commanded in several areas of things we need too do to different ourselves in the battle for the mind.
 
-[[30-Spiritual/BIBLE_CSB_MD/Romans/Rom 12#2|Romans 12:2]] tells us how to be transformed by the [[Holy Spirit]] through the renewing or remaking of the mind. That word renew is [[Strongs G342]], which at it not only a complete embodied change but also a change for the better [^1]
+[[Romans/Rom 12#2|Romans 12:2]] tells us how to be transformed by the [[Holy Spirit]] through the renewing or remaking of the mind. That word renew is [[Strongs G342]], which at it not only a complete embodied change but also a change for the better [^1]
 
 I like this quote from the book
 

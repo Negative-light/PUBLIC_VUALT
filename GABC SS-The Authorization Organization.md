@@ -11,7 +11,7 @@ rival:
 ---
 # Review
 This study is over the spiritual war for glory between [[God]] and [[Satan]]. Within this study we have analyzed the different battle fronts that we fight on as well as different tactics that Satan uses. Furthermore we analyzed how angels interact with us in regards to spiritual warfare. Next we analyzed how demons and Satan work as a dark mirror attempting to take glory from God by immobilizing Christians. 
-Last week we looked into the authority we get from [[33.10-People/jesus|👼Jesus]]. This authority comes from Jesus and is delegated to each of us to further the kingdom as much as possible. But within this we also say that Jesus destroyed [[Satan's Weapon of Death]] and Paid our debts. Furthermore we have become co-conquerors with Jesus as our commander conquering the world for the glory of Christ. We can therefore live in the victory of Jesus toward the righteous life of a believer and acknowledge that we have delegated authority from Christ.
+Last week we looked into the authority we get from [[jesus|👼Jesus]]. This authority comes from Jesus and is delegated to each of us to further the kingdom as much as possible. But within this we also say that Jesus destroyed [[Satan's Weapon of Death]] and Paid our debts. Furthermore we have become co-conquerors with Jesus as our commander conquering the world for the glory of Christ. We can therefore live in the victory of Jesus toward the righteous life of a believer and acknowledge that we have delegated authority from Christ.
 
 # Today
 This week we are focusing on how to practically use our authority and how that intersects with the [[../Church|Church]] and the resulting responsibilities from it.

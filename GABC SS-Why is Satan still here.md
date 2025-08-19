@@ -40,7 +40,7 @@ For the next bit we go back to the fall of man and look at the early sins of Cai
 Satan had 5 I will statements that happened when he dedicated himself to overthrow God (and thus was thrown out of heaven) [^b3] but God gives two I wills regarding Satan. First God said I will come to the earth as a man through Eve, second God said that despite Satan bruising his heal He will crush Satan's head [^b4].
 
 [^b3]: [[Isa 14|Isa 14:13-14]] - This passage has the 5 I will statements of Satan.
-[^b4]: [[Gen 3|Gen 3:15]] - This passage holds the prophecy that [[33.10-People/jesus|👼Jesus]]ould come and destroy Satan.
+[^b4]: [[Gen 3|Gen 3:15]] - This passage holds the prophecy that [[jesus|👼Jesus]]ould come and destroy Satan.
 
 ### Satan's Attempts
 Satan obviously doesn't like the fact that he is already defeated so he tried to thwart God's plan. We see that God was pleased by the sacrifice of Abel and not with  Cain [^b5], Satan took advantage of this by planting the idea of murder in Cain this theoretically would stop God's plan [^b6]. But Satan didn't compensate for the soon to be Seth who is the ancestor to all of us today (as he was the ancestor of Noah).

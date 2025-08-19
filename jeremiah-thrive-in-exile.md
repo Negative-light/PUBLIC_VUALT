@@ -75,4 +75,4 @@ We are going to finish this chapter.
 
 [^3]: [[Jer 29|Jer 29:8-9]]
 
-[^4]: [[30-Spiritual/BIBLE_CSB_MD/Jeremiah/Jer 29|Jer 29:10-14]]
+[^4]: [[Jeremiah/Jer 29|Jer 29:10-14]]
