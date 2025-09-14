@@ -11,7 +11,7 @@ noteType: lesson
 We are in a study of the book of [[../Jeremiah/Jeremiah|Jeremiah]].  And the life of [p-jeremiah](../p-jeremiah.md). We studied Jeremiah's call and how [[God]] encouraged him because he was fearful of the [[../p-nation-of-israel|Israel]] due to his age. WE then discussed the first prophecy that Jeremiah has for the nation of Israel. That God was watching over the coming destruction of Israel and watches over his word to see it accomplished.
 
 # This Week
-This week we are looking at the first example of Jeremiah comparing the apostasy/idolatry of Israel with Adultery. The concept being that Isreal was loyal to God doing its best to follow and obey Him [^b1]
+This week we are looking at the first example of Jeremiah comparing the apostasy/idolatry of Israel with [[adultery-def|Adultery]]. The concept being that Isreal was loyal to God doing its best to follow and obey Him [^b1]
 
 [^b1]: [Jer 2:1-3](Jer%202.md) - this is the opening of the first thing God has sent Jeremiah to say.
 

@@ -41,7 +41,7 @@ Specifically they
 - follow other Gods
 - murder
 - steal
-- commit adultery
+- commit [[adultery-def|adultery]]
 - break vows
 
 Overall they use the temple to fuel a false sense of security, meanwhile God is calling for them to repent [^guzik]. This false sense in security (using God as a catchall) weakens the overall nation [^garner-howes]. The turth here is that they made religion a supersition [^john-gill]

@@ -10,7 +10,7 @@ parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 # Review
-This week we continue our study of the life of [[../p-jeremiah]]. This study highlights how idolatry and adultery are inherently tied together. How God is watching the destruction of Israel ensuring that HIS word is kept true.
+This week we continue our study of the life of [[../p-jeremiah]]. This study highlights how idolatry and [[adultery-def|adultery]] are inherently tied together. How God is watching the destruction of Israel ensuring that HIS word is kept true.
 # This Week
 This week we see that God is releasing the [[../p-nation-of-israel]] into their own sinfulness and calling out how racid their sin has become
 
@@ -23,7 +23,7 @@ The first section here is talking about where Israel is *currently* in.  This is
 
 
 ## You Cannot Be Cleaned
-The next segment highlights that Israel has walked away from God to the point that they cannot be cleaned. This furthers the idea that apostasy is adultery. Starting with the idea that they cannot be washed no matter how hard they try or what products they use. Further GOd calls the nations bluf. They try to act like they are behaving appriatly but they are living a double life where they are going out to sin. They act like a donkey in heat, which based on my understanding is vary hard to hide its really clear. This would be the equvalent of God say *"I found you on Tinder"* today. [^b2]
+The next segment highlights that Israel has walked away from God to the point that they cannot be cleaned. This furthers the idea that apostasy is [[adultery-def|adultery]]. Starting with the idea that they cannot be washed no matter how hard they try or what products they use. Further GOd calls the nations bluf. They try to act like they are behaving appriatly but they are living a double life where they are going out to sin. They act like a donkey in heat, which based on my understanding is vary hard to hide its really clear. This would be the equvalent of God say *"I found you on Tinder"* today. [^b2]
 
 [^b2]: [Jer 2:22-24](Jer%202.md)
 

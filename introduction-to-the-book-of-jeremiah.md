@@ -29,7 +29,7 @@ This book is a collection of Jeremiah's sermons, poems and essays rather than ju
 ### Sections
 
 #### A Call to Repent
-The first 24 chapters consist of Jeremiah calling the people to return the the covenant and flee from Idolatry. A central theme is the comparison of adultery & idolatry[^note1].  It even highlights how the political and social corruption is harming the vulnerable in the Nation. [^cite1]
+The first 24 chapters consist of Jeremiah calling the people to return the the covenant and flee from Idolatry. A central theme is the comparison of [[adultery-def|adultery]] & idolatry[^note1].  It even highlights how the political and social corruption is harming the vulnerable in the Nation. [^cite1]
 
 
 
