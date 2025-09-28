@@ -41,25 +41,10 @@ rival:
 
 Today we are going to dive deeper into the topic of angels or angelology. Some things to note tis that angels are 100% spirit and only adopt human forms temporarily.
 ## Angels Ministries
-Angels have a variety of ministries that they do examples include
-- Being Messengers (this is what the word "angel" actually means) [^s1]
-    - This includes providing Guidance [^b5]
-    - Being Protectors of God's people [^b1]
-- Being Providers form God [^b3]
-- Being executors of God's Judgments [^b4]
 
-The focus of  all angels ministries is like it is for all things to point to Christ [^b10]. They are also the worshipers of got in his throne room [^b11]
 
-[^s1]: [Strong's Greek: 32. ἄγγελος (aggelos) -- an angel, messenger](https://biblehub.com/greek/32.htm)
-[^b1]: [[2 Kings 6|2 Kings 6:15-16]] - In this selection these angels were surrounding the town that Elisha was in while they were attacked by the King of Syria
-  [[Acts 12|Acts 12:7-10]] - This is when [[🧑Peter]] is freed from jail for the second time
-[^b3]: [[Matt 4|Matt 4:11]] - This is after [[jesus|👼Jesus]] was in the wilderness and had finished this trial did angels come and provide for him
-[^b4]: [[Rev 15|Rev 15:7]] - Rev angels are given 7 bowls of judgment and later will spill them out. 
-   [[Acts 12|Acts 12:20-23]] - Acts an angel is used to kill Herod Aggripa who is claiming the Glory of God
-   [[Ps 103|Ps 103:20]] - This verse spicily talks about how angels do God's word and execute his will.
-[^b5]: [[Acts 10]] - angels bring down the sheet of unclean animals within a vision that started the mission to the Gentiles 
-[^b10]: [[Col 1|Col 1:16]] - this verse discuses how all things were made for the sake of Christ this includes angels and demons.
-[^b11]: [[Rev 22|Rev 22:8-9]] - This verse is when John is met by an angel that pushes him to Worship God as a "Fellow Servant"
+Section Exported to note [[angles-ministries]]
+
 ### Spiritual "Ladders"
 Note: reference for Jacobs ladder [[Gen 28|Gen 28:10-22]]
 Next we will discus Spiritual Ladders, in the book Evans ties this into the call of Nathaniel, which is interesting. But the goal is too connect a few things these The Ladder is used to represent God's blessings on earth. 
