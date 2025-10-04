@@ -41,20 +41,16 @@ rival:
 
 Today we are going to dive deeper into the topic of angels or angelology. Some things to note tis that angels are 100% spirit and only adopt human forms temporarily.
 ## Angels Ministries
-
-
 Section Exported to note [[angles-ministries]]
-
 ### Spiritual "Ladders"
 Note: reference for Jacobs ladder [[Gen 28|Gen 28:10-22]]
 Next we will discus Spiritual Ladders, in the book Evans ties this into the call of Nathaniel, which is interesting. But the goal is too connect a few things these The Ladder is used to represent God's blessings on earth. 
 
-> One  Satan has done successfully is keep us ignorant of God's promises
-\- Dr. Tony Evans, "The Battle is the Lords", pg 118
+![[quote-tony-evans-stan-keeps-us-ignorant-of-gods-promises#^quote]]
 
-Similar too the necessity of the [[Armor of God]] to Spiritual Warfare God's promises operate as supplies or tactical utilities in our war. Consider it similar to a Army solider calling in for support and a A10 coming in to provide a path to victory. This is the first blessing being shown via "Jacobs Ladder".
+Extracted to [[gods-promises-are-support-in-war]]
 
-The second blessing is the presence of God. Remember that this ladder goes from earth to heaven, **the throne room of God**. The reason this is important is sometimes we miss God providing, guiding or otherwise answering our prayers because we *do not acknowledge his presence* because we are calloused to his presence.
+Extrated to [[we-are-connected-to-god]]
 
 The third blessing is protection for the *purpose God has for you*. For Jacob this was to form the [[../p-nation-of-israel]] that ultimately culminated in the birth of Jesus.  Similarly for you this is the same. This is  also why the Bible hits on the concept of "Do not Fear", as something we face is this idea that "I cannot do X" this is not necessarily and in some cases is a fear response. Rather remember who you are called to be and the God you serve. [^b6]
 
