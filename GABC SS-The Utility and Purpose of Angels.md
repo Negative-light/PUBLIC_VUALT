@@ -43,25 +43,7 @@ Today we are going to dive deeper into the topic of angels or angelology. Some t
 ## Angels Ministries
 Section Exported to note [[angles-ministries]]
 ### Spiritual "Ladders"
-Note: reference for Jacobs ladder [[Gen 28|Gen 28:10-22]]
-Next we will discus Spiritual Ladders, in the book Evans ties this into the call of Nathaniel, which is interesting. But the goal is too connect a few things these The Ladder is used to represent God's blessings on earth. 
-
-![[quote-tony-evans-stan-keeps-us-ignorant-of-gods-promises#^quote]]
-
-Extracted to [[gods-promises-are-support-in-war]]
-
-Extrated to [[we-are-connected-to-god]]
-
-The third blessing is protection for the *purpose God has for you*. For Jacob this was to form the [[../p-nation-of-israel]] that ultimately culminated in the birth of Jesus.  Similarly for you this is the same. This is  also why the Bible hits on the concept of "Do not Fear", as something we face is this idea that "I cannot do X" this is not necessarily and in some cases is a fear response. Rather remember who you are called to be and the God you serve. [^b6]
-
-The final blessing from the ladder is provision from God to do what he has called you to do. This can be blurred if we focus too much on our circumstances and do not focus on God. [^b7] 
-
-
-Something to note here is that all of the elements of what the ladders do are operated by angels.
-
-[^b6]: [[1 John 4|1 John 4:4]] - "Greater is He who is in you than he who is in the world"
-[^b7]: [[1 Kings 19]] - This is the story of God providing for Elijah when he was weak (this also ties into depression and other areas)
-
+Section exported to [[angles-operate-as-ministers-to-gods-promises]]
 #### What this looks like Today
 The method of seeing how "Jacobs Ladder" exists today is really just looking back at the scripture and acting out in faith. This can be looked further into Faith in God's Word and Faith in God's Son. The goal here is how to "Open Up Heaven" and have it impact your life. Remember as well that faith will naturally produce a work or a result in your life.
 - Faith in God's word is how you "know" what to do. Note that this is part of coloring your worldview. It is our primary counter to temptation.. [^b8]
@@ -70,7 +52,7 @@ The method of seeing how "Jacobs Ladder" exists today is really just looking bac
 
 [^b8]: [[Matt 4|Matt 4:1-11]] - Jesus temptation and how he uses the scriptures to counter temptation
   [[2 Tim 3|2 Tim 3:16-17]] - This is part of the final call of Paul to Timothy beseeching him to study the scriptures because of its many uses
-  [^b9]: [[Rom 1|Romans 1:16]] - "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth ; to the Jew first and also to the Greek"
+[^b9]: [[Rom 1|Romans 1:16]] - "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth ; to the Jew first and also to the Greek"
     [[Matt 5|Matt 5:13-15]] - Jesus uses the example of believers being salt and light to the world. We should not try to hide that we are followers of Christ because that is counter to our calling as Christians.
 
 ##  The Invisible World
