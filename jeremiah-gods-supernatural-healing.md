@@ -12,7 +12,7 @@ parent:
 aiConversation: "[[2025-09-27-jeremiah-31-bible-study_CHATGPT]]"
 ---
 # Review
-We have been in a section talking about how [[God|God]] would restore [[p-nation-of-israel|Israel]] and [[city-jerusalem|Jerusalem]] after their 70 year captivity in [[🏙️Babylon|Babylon]]. Last week we specifically look at how God will fully restore the people but for the sake of discipline and that we will understand the why, but it must wait till after that point.
+We have been in a section talking about how [[God|God]] would restore [[p-nation-of-israel|Israel]] and [[city-jerusalem|Jerusalem]] after their 70 year captivity in [[nation-babylon|Babylon]]. Last week we specifically look at how God will fully restore the people but for the sake of discipline and that we will understand the why, but it must wait till after that point.
 # Lesson
 This week a short but powerful section. Here we see God is going to restore the people but also heal them. And that this discipline was also a bit of rest for the people [^1].
 

@@ -26,7 +26,7 @@ t.
 [^b1]: [Matt 16:18-19](Matt%2016.md)
 [^heb1]: [Strong's Hebrew: 3256. יָסַר (yasar) -- to discipline, chasten, admonish](https://biblehub.com/hebrew/3256.htm)
 
-This week we see God call [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) to being her assault building weapons of war. This also functions as a warning to Israel.
+This week we see God call [nation-babylon](nation-babylon.md) to being her assault building weapons of war. This also functions as a warning to Israel.
 
 ## The Call to Israel
 Israel is called to run and protect from cover because God is going to destroy [city-jerusalem](../city-jerusalem.md) [^m1]. Here we see God use the shepherd/flock analogy for the armies that would surround Jerusalem [^john-gill].  Oddly this analogy also could be used as the church standing or charging against the "gates of hell" that we see [🧑Peter](%F0%9F%A7%91Peter.md) [^b1].

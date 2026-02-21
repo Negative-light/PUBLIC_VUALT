@@ -43,7 +43,7 @@ In response to Jeremiah god describes the people of Israel in their evil. Follow
 Although we can look at our nation I find it interesting that something we could all see more of is that God calls us to perservere through the evil of our times *and* the corresponding judgment and to not loose our heart and soul. We are to have God on our lips and in our mind.
 
 ## God Describes the Problem with Israel's Leaders
-This next section God focuses on the leadership of Israel. [^m3] I will note that some commentaries believe this is a metaphor for the leaders of [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md). [^john-gill]  
+This next section God focuses on the leadership of Israel. [^m3] I will note that some commentaries believe this is a metaphor for the leaders of [nation-babylon](nation-babylon.md). [^john-gill]  
 
 ### Applications
 Overall we cannot decree that this is something that happens though. For us given that we are going to be looking for a new pastor I beleve it is importnat to thing of howwhy this happened. This is not the first nor will it be the last time we hear this type of call out.

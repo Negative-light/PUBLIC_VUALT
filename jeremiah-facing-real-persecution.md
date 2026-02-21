@@ -13,7 +13,7 @@ exportFontSize: 10
 noteType: output
 ---
 # Last Week
-Last week we looked at a object lesson [God](God.md) gave to [Jeremiah](p-jeremiah.md) to give to the priests and leaders of the [Southern Kingdom](Southern%20Kingdom.md) to describe how the [The Nation of Israel](p-nation-of-israel.md). This is God saying the end is coming and we are going to transition into only the judgment of the nation coming as [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) prepares to invade.
+Last week we looked at a object lesson [God](God.md) gave to [Jeremiah](p-jeremiah.md) to give to the priests and leaders of the [Southern Kingdom](Southern%20Kingdom.md) to describe how the [The Nation of Israel](p-nation-of-israel.md). This is God saying the end is coming and we are going to transition into only the judgment of the nation coming as [nation-babylon](nation-babylon.md) prepares to invade.
 
 # This Week
 This week we are going to be talking about one of the leaders [🧑Pashhur son of Immer](%F0%9F%A7%91Pashhur%20son%20of%20Immer.md), note that there are several Pashhurs as a matter of fact the next chapter has another one and there are two more Pashhur's one found after the exile and another in Chronicles. This name is believed therefore to be common among the priests and often those with this name show a division between the priests and prophets at that time [^1]. Pashhur means to cleave or cut, the name hightlights division.

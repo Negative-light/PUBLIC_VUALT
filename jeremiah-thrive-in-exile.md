@@ -42,7 +42,7 @@ Truthfully this is something to consdier that they like us would think that God 
 ## Applications
 
 ### Thrive In Exile
-The first thing that stuck out like a sore thumb to me was in verse 4-7 where God calls the people to go on with everyday life. To have families and to even make [[🏙️Babylon|Babylon]] thrive.
+The first thing that stuck out like a sore thumb to me was in verse 4-7 where God calls the people to go on with everyday life. To have families and to even make [[nation-babylon|Babylon]] thrive.
 
 There are many directions we can take this:
 - Do your best where God has you. That is really the explicit call here.

@@ -9,7 +9,7 @@ parent:
 # Review
 Last week we took the time to focus on how [God](God.md) will forgo destruction of [Israel](../p-nation-of-israel.md) if they repented. This of course we understand can be extrapolated ot God's 
 # This Week
-[^b1]: [Jer 4:5-9](Jer%204.md) - this poem is about how [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) was coming to conquer Judah
+[^b1]: [Jer 4:5-9](Jer%204.md) - this poem is about how [nation-babylon](nation-babylon.md) was coming to conquer Judah
 [^b2]: [Jer 4:11-18](Jer%204.md) - this poem segment targets how the judgment coming to Israel 
 [^sutdy-light]: [Jeremiah 4 - Coffman's Commentaries on the Bible - Bible Commentaries - StudyLight.org](https://www.studylight.org/commentaries/eng/bcc/jeremiah-4.html) - This is coffman's commentary on the Bible from StudylLight.org
 [^enduring-word]: [Enduring Word Bible Commentary Jeremiah Chapter 4](https://enduringword.com/bible-commentary/jeremiah-4/) - this is a commentary I used in study of this.

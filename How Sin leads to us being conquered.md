@@ -31,7 +31,7 @@ The second vision is a pot boiling over form north to south. I am certain there 
 
 [^b3]: [Jer 1:13-16](Jer%201.md) - this is the second vision that Jeremiah sees of a boiling pot talking of the Judgment God is bringing because the nation has run from him. and Into Idolatry
 
-This vision is on how God will be sending [[🏙️Babylon]] to attack from the North. But specifically God is going this because the people have fallen into idolatry and sacrificing to them.
+This vision is on how God will be sending [[nation-babylon]] to attack from the North. But specifically God is going this because the people have fallen into idolatry and sacrificing to them.
 
 ## God Encouraging Jeremiah
 The final part of this vision is that God is encouraging Jeremiah to stand firm and try his best. The first thing God calls Jeremiah is to not be intimidated or to not fall to the pressure of the culture of the day [^cite3] and become "dismayed" or discouraged by what the people will do.

@@ -21,7 +21,7 @@ Last week we evaluated a section that I called God's Song of Sorrow. This used t
 This guided our discussion on the way we use words the way that ones word becomes their burden. This ties into our self talk not only of ourselves but of our church. I will say that I have not done well in applying this. Furthermore for us to not consume the mockery (which is a form of persecution) that the world gives.
 
 # This Week
-This is one of the shortest chapters of the book but it is still *very* important. We open to [Jehoiachin](%F0%9F%A7%91Jehoiachin.md) and all the skilled laborers were taken by [Nebuchadnezzar](%F0%9F%A7%91Nebuchadnezzar.md) to [Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md). Note that this probably included characters like [Daniel](%F0%9F%A7%91Daniel.md) as well. But this comes with an object lesson [^1]
+This is one of the shortest chapters of the book but it is still *very* important. We open to [Jehoiachin](%F0%9F%A7%91Jehoiachin.md) and all the skilled laborers were taken by [Nebuchadnezzar](person-nebuchadnezzar.md) to [Babylon](nation-babylon.md). Note that this probably included characters like [Daniel](%F0%9F%A7%91Daniel.md) as well. But this comes with an object lesson [^1]
 
 ```mermaid
 timeline

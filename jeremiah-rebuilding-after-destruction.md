@@ -12,7 +12,7 @@ parent:
 aiConversation: "[[2025-09-20-jeremiah-30-exegesis_CHATGPT]]"
 ---
 # Review
-We have been in the book of Jeremiah for a while now. WE have been in the first section where we see the restoration of [[p-nation-of-israel|Israel]] after their exile to [[🏙️Babylon|Babylon]]. This prophecy that [[God]] calls [[p-jeremiah|Jeremiah]] to write down to be carried into the exile as a reminder of God's promise that he would restore the nation.
+We have been in the book of Jeremiah for a while now. WE have been in the first section where we see the restoration of [[p-nation-of-israel|Israel]] after their exile to [[nation-babylon|Babylon]]. This prophecy that [[God]] calls [[p-jeremiah|Jeremiah]] to write down to be carried into the exile as a reminder of God's promise that he would restore the nation.
 
 # Lesson
 Todays lesson we finish the first chapter of this section. Further expounding on the general idea that God will restore Israel and [[city-jerusalem|Jerusalem]]. Today we look at two sides as we do return to the idea of Judgment as well for a bit.

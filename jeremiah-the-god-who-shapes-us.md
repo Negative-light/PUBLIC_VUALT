@@ -12,7 +12,7 @@ includeTags: true
 exportFontSize: 10
 ---
 # Last Week
-Last week we look at the [Sabbath](Sabbath.md) as a sign to the world what the people of Israel are God's people. This comes with a ultimatum to the [Southern Kingdom](Southern%20Kingdom.md) before they are conquered by [Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md).  But the application for us is that as a church we should be know for showing the [Fruit of the Spirit](Fruit%20of%20the%20Spirit.md) and our [love](love.md) for each other as Christians.
+Last week we look at the [Sabbath](Sabbath.md) as a sign to the world what the people of Israel are God's people. This comes with a ultimatum to the [Southern Kingdom](Southern%20Kingdom.md) before they are conquered by [Babylon](nation-babylon.md).  But the application for us is that as a church we should be know for showing the [Fruit of the Spirit](Fruit%20of%20the%20Spirit.md) and our [love](love.md) for each other as Christians.
 
 # This Week
 This week we are starting into a set of analogies that [God](God.md) brings [Jeremiah](p-jeremiah.md) using a parable from a potter shaping clay. This has a lot of applications especially for our church in the time we are in. And honestly with some things that happened this week that i have been made aware of. Ironically I write this lesson while my heart is broken or I am "distraught" over these things.

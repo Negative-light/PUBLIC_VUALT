@@ -38,7 +38,7 @@ The fist part of this chapter is this search for righteous people throughout [ci
 
 
 ## God is the Judge
-We once again have a section on God bringing Judgment using [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) [^m3] this being said God also desires to have grace on the people [^matthew-henry]. A interesting point highlighted by John Gill also ties this into judgments from Leviticus [^b1], [^john-gill].
+We once again have a section on God bringing Judgment using [nation-babylon](nation-babylon.md) [^m3] this being said God also desires to have grace on the people [^matthew-henry]. A interesting point highlighted by John Gill also ties this into judgments from Leviticus [^b1], [^john-gill].
 
 ### Applications
 >[!TIP]

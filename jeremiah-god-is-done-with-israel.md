@@ -17,7 +17,7 @@ This week we look at a second object lesson that God wants Jeremiah to give to t
 
 The second section is continuation of the statement of judgment upon Israel and specifically Jerusalem [^2]. This is similar to other statements with the caveat that God does mention that the people would result to cannibalism due to how bad the siege was.
 
-Finally we get to the use of that clay pot. God has Jeremiah smash the pot and use it to depict how he is going to destroy Israel and spread the people out such that the nation will never be whole [^3]. Mind that some tribes never returned from [Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md). We also see that the people were going to be buried in mass graves in the location Jeremiah was doing this at [^enduring-word].
+Finally we get to the use of that clay pot. God has Jeremiah smash the pot and use it to depict how he is going to destroy Israel and spread the people out such that the nation will never be whole [^3]. Mind that some tribes never returned from [Babylon](nation-babylon.md). We also see that the people were going to be buried in mass graves in the location Jeremiah was doing this at [^enduring-word].
 
 The chapter ends with Jeremiah having accomplished what God had him do with the leaders and he goes to the [First Temple](First%20Temple.md) to continue preaching of the coming judgment because of the stubbornness of Israel's heart. [^4]
 

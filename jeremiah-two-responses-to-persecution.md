@@ -9,7 +9,7 @@ title:
   - "Jeremiah: Two Responses to Persecution"
 ---
 # Last Week
-Last week we were looking at a prophecy [[God|God]] had given [[p-jeremiah|Jeremiah]]  about the coming destruction of the [[Southern Kingdom]] by [[🏙️Babylon|Babylon]]. 
+Last week we were looking at a prophecy [[God|God]] had given [[p-jeremiah|Jeremiah]]  about the coming destruction of the [[Southern Kingdom]] by [[nation-babylon|Babylon]]. 
 
 # This Week
 So this week we roll back in time and see how Jeremiah is persecuted for his prophecies and we see the story of another prophet ([[🧑Uriah|Uriah]]) who is also persecuted. This would be around 605 BC [^matthew-poole] [^john-gill].

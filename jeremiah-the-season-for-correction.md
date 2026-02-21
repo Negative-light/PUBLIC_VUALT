@@ -23,11 +23,11 @@ title:
 
 # Last Week
 So last week we reviewed an object lesson where [[God]] presented two sets of figs to [[p-jeremiah|Jeremiah]].
-The good figs represent the people who were exiled to [[🏙️Babylon|Babylon]] and the bad represents the people left in [[city-jerusalem|Jerusalem]]. 
+The good figs represent the people who were exiled to [[nation-babylon|Babylon]] and the bad represents the people left in [[city-jerusalem|Jerusalem]]. 
 This lesson had a focus on the idea that those who are blessed by God might not be the ones who look that way and for us to not take for granted the relationship we have with God. This of course has several relationships within scripture such as how in the end times Christ will separate between the sheep and goats.
 
 # This Week
-Ok so this week we are actually going back in time slightly to just at the start of [[🧑Jehoiakim|Jehoiakim]].  Where Jeremiah gets a specific prophecy of the now oncoming invasion from [[🧑Nebuchadnezzar|Nebuchadnezzar]].
+Ok so this week we are actually going back in time slightly to just at the start of [[🧑Jehoiakim|Jehoiakim]].  Where Jeremiah gets a specific prophecy of the now oncoming invasion from [[person-nebuchadnezzar|Nebuchadnezzar]].
 
 ## Context
 Ok so this chapter gives us some important context that it happens in the 4th year of Jehoiakim (aka Jeconiah) and the 1st year of Nebuchadnezzar. Mind that this was the first year that Nebuchadnezzar was the sole ruler of Babylon, he was actually crowned king before this but was ruling with his father [^john-calvin] This would have been around 605 BC where Babylon would defeat Egypt. This would remove the primary seat of power from [[📌Assyria|Assyria]] and make it Babylon. This would be like a major upset in a national election, everyone is now wondering how the world is going to work moving forward [^thomas-constable]. 

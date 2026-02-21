@@ -17,7 +17,7 @@ exportFontSize: 10
 We have decided to go through the book of [[../Jeremiah/Jeremiah|Jeremiah]] for the remainder of this year. I personally have the goal of finishing the book by the end of the year, but we will see how it goes and it may just take longer.
 
 ## Introduction
-So what is the book of Jeremiah about. Well it is the story of the prophet [[../p-jeremiah|Jeremiah]] who works in the area around [[../city-jerusalem|Jerusalem]]. He specifically prophesied about the [[Southern Kingdom|Kingdom of Judah]] being taken over by [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) if the people didn't turn from idolatry. [^cite1]
+So what is the book of Jeremiah about. Well it is the story of the prophet [[../p-jeremiah|Jeremiah]] who works in the area around [[../city-jerusalem|Jerusalem]]. He specifically prophesied about the [[Southern Kingdom|Kingdom of Judah]] being taken over by [nation-babylon](nation-babylon.md) if the people didn't turn from idolatry. [^cite1]
 
 
 This book is a collection of Jeremiah's sermons, poems and essays rather than just a simple book of prophecy. Thus it will appear to be a assortment of writings... that is because that is what it is. [^cite1]

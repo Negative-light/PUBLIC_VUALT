@@ -28,7 +28,7 @@ Last week we focused on how [God](God.md) warns the nations of the coming judgme
 [^b1]: [Josh 1:9](Josh%201.md)
 
 ## Israel is Called to Mourn
-Our fist segment see [🏙️Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) being described as a evil unrelenting force (this for some reason only brings the Orcs of LoTR to mind) and Israel being described as week and begging for mercy that will not come. Then we see Israel being called to mourn [^m1]. Oddly the first thought I had is that Israel is told when interning the [📌Canaan](%F0%9F%93%8CCanaan.md) that they should not be afraid because God is with them [^b1] but here we see Israel have dep and "palpable" fear [^john-gill]. But even at this point God reminds them that He would return if they repent by mourning [^guzik]. 
+Our fist segment see [nation-babylon](nation-babylon.md) being described as a evil unrelenting force (this for some reason only brings the Orcs of LoTR to mind) and Israel being described as week and begging for mercy that will not come. Then we see Israel being called to mourn [^m1]. Oddly the first thought I had is that Israel is told when interning the [📌Canaan](%F0%9F%93%8CCanaan.md) that they should not be afraid because God is with them [^b1] but here we see Israel have dep and "palpable" fear [^john-gill]. But even at this point God reminds them that He would return if they repent by mourning [^guzik]. 
 
 ### Applications
 - Have you felt deep mourning full sorrow over your sins?

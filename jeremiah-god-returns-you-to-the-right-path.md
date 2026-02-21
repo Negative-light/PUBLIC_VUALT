@@ -18,7 +18,7 @@ The first part of Jeremiah 21 showed us that it is importnat to look back at the
 Our section today is a poem describing the people who will return to [[city-jerusalem|Jerusalem]] and the joy of the return [^1].
 
 ## Rejoice for God calls his people
-This section starts with an explicit call to rejoice because God is going to gather people from the "northern land" (this is likely [[🏙️Babylon|Babylon]] [^garner-howes] [^matthew-poole]) and remote spaces. Note that a set of "hurdles" are present. There are women about to go into labor and the people are weak. But "they will not stumble" [^1].
+This section starts with an explicit call to rejoice because God is going to gather people from the "northern land" (this is likely [[nation-babylon|Babylon]] [^garner-howes] [^matthew-poole]) and remote spaces. Note that a set of "hurdles" are present. There are women about to go into labor and the people are weak. But "they will not stumble" [^1].
 
 Something important of Israel being called foremost of nations. this is a signal that Israel is still the beloved of God, despite her having been an adulterous nation [^ellicott]. Now this same phrase could also be interpreted to publicly proclaim the joy "Infront of" the nations [^john-calvin]. This will carry over later but this joy or Israel would flow into all nations [^enduring-word], this of course I would say is a forecalling to [[jesus|Jesus]]. Another thing to see is that although God is calling the people to celebrate it requires that they proclaim that God saves the remnant of Israel [^1], this is that they are called express the promises of God [^matthew-henry]. 
 

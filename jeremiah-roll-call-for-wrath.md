@@ -33,7 +33,7 @@ As we walk through this section we see that Judah is judged first. The nature of
 
 I did want to go through the nations mentioned and give you an idea of them.
 
-- Egypt: Defeated by [[🧑Nebuchadnezzar|Nebuchadnezzar]] before Judah. A later Pharaoh would be killed by his people as well (this is prophesied later in Jeremiah too (in Jeremiah 40)) [^john-gill]
+- Egypt: Defeated by [[person-nebuchadnezzar|Nebuchadnezzar]] before Judah. A later Pharaoh would be killed by his people as well (this is prophesied later in Jeremiah too (in Jeremiah 40)) [^john-gill]
 - The Mixed People: these were a group of people who were in Egypt but weren't Egyptian. This would include both immigrants seeking protection from the super power and mercenaries working for them [^ellicott]. Basically these people were likely wrapped up into Egypt's punishment.
 - The Land of Uz: Near Edom these people would initially celebrate Judah's destruction [^5] [^8]. It is not clear when this nation is destroyed but by the time Judah returns This area was populated only with nomads and if my understanding of Israel is accurate today it is still that way today.
 - The Philistines: Here we have a few of the major rules of the Philistines cities. Later prophecies of Jeremiah specify that Babylon would invade and finish them off [^6]. Before this these cities would also be attacked by Egypt. Archeology also shows that the destruction was rather though [^ellicott] [^john-gill].

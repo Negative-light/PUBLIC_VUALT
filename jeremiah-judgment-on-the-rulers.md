@@ -19,7 +19,7 @@ noteType: output
 [^john-calvin]: [Jeremiah 22 Calvin's Commentaries](https://biblehub.com/commentaries/calvin/jeremiah/18.htm)
 [^john-gill]: [Jeremiah 22 Bible Commentary - John Gill’s Exposition of the Bible \| Christianity.com](https://www.christianity.com/bible/commentary/john-gill/jeremiah/22)
 # Last Week
-Last week we looked at [Jeremiah](p-jeremiah.md)'s prophecy to the [Northern Kingdom](Northern%20Kingdom.md) that [Babylon](%F0%9F%8F%99%EF%B8%8FBabylon.md) was coming and that the judgment is set. 
+Last week we looked at [Jeremiah](p-jeremiah.md)'s prophecy to the [Northern Kingdom](Northern%20Kingdom.md) that [Babylon](nation-babylon.md) was coming and that the judgment is set. 
 
 We then took on to consider what this discuses for leadership, how we should take care of those under us. 
 

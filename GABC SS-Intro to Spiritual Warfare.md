@@ -40,7 +40,7 @@ It is important that we understand that our battle is not with individuals rathe
     - This conflict is 100% invisible and all we are seeing are symptoms. To fix them in our own lives we must put on the [[Armor of God]] through prayer and faith. This is further explained in [[Dan 4|Dan 4:26-32]]
         - There will be more on this point later and we will be diving deeper on Ephes 6 in the future.
 ## Physical  World
-Dan 4 is in the story of [[🧑Nebuchadnezzar]] having a dream being interpreted by [[🧑Daniel]], the main thing we see here is that many physical "movements" or major moments do have a spiritual counterpart directing it behind the scenes. [^b2]
+Dan 4 is in the story of [[person-nebuchadnezzar]] having a dream being interpreted by [[🧑Daniel]], the main thing we see here is that many physical "movements" or major moments do have a spiritual counterpart directing it behind the scenes. [^b2]
 
 To see the spiritual effects we must have the right worldview for the purpose of the study we will define a world view as follows:
 > Worldview - the lens one uses to see reality
