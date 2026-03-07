@@ -41,7 +41,7 @@ This is an idea that I have been considering and facing every day. We need to kn
 I will be honest. I am struggling with this one and beg that y'all pray for me. I am tempted often to give into despair. So I am no teacher here, just a brother in Christ in need.
 
 ## The Relationship of the Believer and God
-Something that I noticed in verse 22 is that we see a reversal of the usual statement of God's covenant with man of course this isn't the only instance of this [^1][^4][^5]. This is the idea of the [[Abrahamic Covenant]] and the [[Jewish Covenant]] given to [[🧑Moses|Moses]]. That the people will have a deep relationship with God and God has a deep relationship with them [^matthew-henry].
+Something that I noticed in verse 22 is that we see a reversal of the usual statement of God's covenant with man of course this isn't the only instance of this [^1][^4][^5]. This is the idea of the [[Abrahamic Covenant]] and the [[Jewish Covenant]] given to [[person-moses|Moses]]. That the people will have a deep relationship with God and God has a deep relationship with them [^matthew-henry].
 
 I think we miss the heart of this idea looking at it as only "ownership". But I think the better analogy is marriage. Now I am absolutely not a expert here, but marriage has this same type of relationship. She is my wife and I am her husband. We "own" each other but that really isn't the right word. I don't know what that right word is but that is the imagery i think God tries to invoke. And understand that is the relationship we have both individually *and* corporately with God as believers and the [[Church]].
 

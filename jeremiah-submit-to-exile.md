@@ -8,7 +8,7 @@ title:
   - "Jeremiah: Submit To Exile"
 ---
 # Last Week
-Ok last week we were looking at how [[p-jeremiah|Jeremiah]] and [[🧑Hezekiah|Hezekiah]]  responded to persecution. Jeremiah had faith that [[God|God]] would protect him while Hezekiah attempted to flee and lost. This showed us as future leaders of the church body that we should seek faith over fear. The response of the Jewish leaders showed us that knowledge of God doesn't mean wisdom to repent. 
+Ok last week we were looking at how [[p-jeremiah|Jeremiah]] and [[person-hezekiah|Hezekiah]]  responded to persecution. Jeremiah had faith that [[God|God]] would protect him while Hezekiah attempted to flee and lost. This showed us as future leaders of the church body that we should seek faith over fear. The response of the Jewish leaders showed us that knowledge of God doesn't mean wisdom to repent. 
 
 # This Week
 This chapter we see one idea shared to both the nations around the [[Southern Kingdom]] then to [[🧑Zedekiah|Zedekiah]] and finally the [[Tribe of Levi|Levites]]. It is the same motif. Submit to [[nation-babylon|Babylon]] to reduce suffering of your people, do not listen to your prophets. This is all done using a yoke as an object lesson and prompt to "put on the yoke" of Babylon [^1].

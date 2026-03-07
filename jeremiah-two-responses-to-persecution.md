@@ -29,7 +29,7 @@ Following this the people since Jeremiah accusing him of being a false prophet a
 These people had made "church" to be a source of pride in their life. And thus any attack against the norms of "church" is an attack on them, and therefore the "god" they had built in their mind. Thus he was a blasphemer and traitor [^garner-howes] [^enduring-word]. Mind that this also reminds me of [[jesus|Jesus]] and how he was attacked after questioning the norms of the [[Pharisees]]. This includes how they only focused on the bad part of the prophecy of Jeremiah and how the Pharisees never saw the good news but only saw people as worthless sinners while they were righteous because of their position [^matthew-henry]
 
 ### The Judgment
-Now we see Jeremiah defend himself making it clear that he is preaching God's words (and thereby the other prophets are false). Jeremiah stands boldly and submits to the possibly of his own death. The older men who remembered the time of [[🧑Hezekiah|Hezekiah]] and they point out that killing Jeremiah might bring judgment upon themselves [^3] 
+Now we see Jeremiah defend himself making it clear that he is preaching God's words (and thereby the other prophets are false). Jeremiah stands boldly and submits to the possibly of his own death. The older men who remembered the time of [[person-hezekiah|Hezekiah]] and they point out that killing Jeremiah might bring judgment upon themselves [^3] 
 
 First we look that Jeremiah focuses his defense on God and submits to authority. Knowing that he is being fully obedient he understands that there are two options. To quote [[🧑Paul|Paul]] "to live is Christ and to die is gain" [^4].
 
