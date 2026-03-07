@@ -14,7 +14,7 @@ exportFontSize: 10
 **No Review this is a new lesson plan**
 
 # Today
-We have decided to go through the book of [[../Jeremiah/Jeremiah|Jeremiah]] for the remainder of this year. I personally have the goal of finishing the book by the end of the year, but we will see how it goes and it may just take longer.
+We have *decided* to go through the book of [[../Jeremiah/Jeremiah|Jeremiah]] for the remainder of this year. I personally have the goal of finishing the book by the end of the year, but we will see how it goes and it may just take longer.
 
 ## Introduction
 So what is the book of Jeremiah about. Well it is the story of the prophet [[../p-jeremiah|Jeremiah]] who works in the area around [[../city-jerusalem|Jerusalem]]. He specifically prophesied about the [[Southern Kingdom|Kingdom of Judah]] being taken over by [nation-babylon](nation-babylon.md) if the people didn't turn from idolatry. [^cite1]

@@ -15,8 +15,9 @@ aliases:
   - Destructiong and Rebuilding a Study of the book of Jeremiah
 noteType: map of content
 ---
+
 # Introduction
-We started with a [introduction-to-the-book-of-jeremiah](introduction-to-the-book-of-jeremiah.md). As we looked the the first two visions given to [p-jeremiah](../p-jeremiah.md) we see how [God](God.md) is calling judgment upon the [p-nation-of-israel](../p-nation-of-israel.md) we then did [How Sin leads to us being conquered](How%20Sin%20leads%20to%20us%20being%20conquered.md) ending that first chapter of Jeremiah.
+We started with a [[PUBLIC_VUALT/introduction-to-the-book-of-jeremiah|introduction-to-the-book-of-jeremiah|an introduction]] As we looked the the first two visions given to [p-jeremiah](../p-jeremiah.md) we see how [God](God.md) is calling judgment upon the [p-nation-of-israel](../p-nation-of-israel.md) we then did [How Sin leads to us being conquered](How%20Sin%20leads%20to%20us%20being%20conquered.md) ending that first chapter of Jeremiah.
 
 # The First Section
 We see Jeremiah's primary analogy next in [Apostasy is Adultery](apostasy-is-adultry.md). This opens us into a discussion on [God Opening Us to Judgment](god-opening-us-to-judgment.md) and a further lesson on the [Rejection of God Creates Division from Him](rejection-of-god-creates-division-from-him.md).
