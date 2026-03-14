@@ -31,7 +31,7 @@ These people had made "church" to be a source of pride in their life. And thus a
 ### The Judgment
 Now we see Jeremiah defend himself making it clear that he is preaching God's words (and thereby the other prophets are false). Jeremiah stands boldly and submits to the possibly of his own death. The older men who remembered the time of [[person-hezekiah|Hezekiah]] and they point out that killing Jeremiah might bring judgment upon themselves [^3] 
 
-First we look that Jeremiah focuses his defense on God and submits to authority. Knowing that he is being fully obedient he understands that there are two options. To quote [[🧑Paul|Paul]] "to live is Christ and to die is gain" [^4].
+First we look that Jeremiah focuses his defense on God and submits to authority. Knowing that he is being fully obedient he understands that there are two options. To quote [[person-paul-the-apostel|Paul]] "to live is Christ and to die is gain" [^4].
 
 Now we look at the leaders response that they realize this guys words align with other prophecies from back in the time of Hezekiah. But if we just look at how Hezekiah reacted when he learned that the nation need to repent vs these leaders. It is the polar opposite despite having the same data. This showing a contrast of knowledge of God and wisdom that comes from God. 
 

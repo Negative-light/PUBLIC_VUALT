@@ -56,7 +56,7 @@ A second element is to understand the significance of this time figure. It was m
 Another note is that God's sovereignty is being shown here in that someone who doesn't know God and may even hate him is being actively used for God's purposes [^john-gill]. This ties in to a whole free will paradox which may be a fruitful discussion and I maybe we can dive into that ourselves.
 
 ### Judgment to Babylon
-Now this doesn't not mean that God is going to ignore his "servant" Babylon who is also a desperately wicked nation and God would still judge them. The idea of God using the wicked as a tool of judgment is even mentioned in the New Testament where [[🧑Paul|Paul]] requests the Corinthians to pray a man over to Satan for incest [^5]. In both cases God uses a known evil to judge but doesn't ignore the fact that the evil entity will be judged.
+Now this doesn't not mean that God is going to ignore his "servant" Babylon who is also a desperately wicked nation and God would still judge them. The idea of God using the wicked as a tool of judgment is even mentioned in the New Testament where [[person-paul-the-apostel|Paul]] requests the Corinthians to pray a man over to Satan for incest [^5]. In both cases God uses a known evil to judge but doesn't ignore the fact that the evil entity will be judged.
 
 Unlike the judgment on Israel this one doesn't come with a promise of return. Babylon would be fully destroyed (taken over by the Medo-Persian Empire) with no real redemption of that nation. This disciplining tools was created to be destroyed [^garner-howes]. 
 

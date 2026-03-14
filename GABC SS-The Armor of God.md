@@ -41,7 +41,7 @@ The point here is that Satan cannot take your heart. That is fully protected by 
 The Boots of the Gospel of Peace [^b1] though a mouthful honestly has a lot of depth.
 First lets look at the Roman Cleats which had "nubs" designed to lock further into the ground allowing them to have a strong footing.
 The Gospel is the "Good News" that is the literal translation, so to the readers they would read this as the Boots of the Good News of Peace. So we in fact have knowledge of peace and we have that good news which we can stand in.
-The peace [[🧑Paul]] is talking about here is Probably the peace from earlier in the letter, that being Jesus [^b4].
+The peace [[person-paul-the-apostel]] is talking about here is Probably the peace from earlier in the letter, that being Jesus [^b4].
 Thus we could also calls this the Boots of the Good News of Christ
 
 [^b4]: [[Ephes 2|Ephes 2:14]] - In this verse Jesus is called our peace.

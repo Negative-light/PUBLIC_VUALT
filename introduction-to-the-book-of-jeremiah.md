@@ -57,7 +57,7 @@ For our group this is important and the Bible has more to say. We as Christians 
 
 [^b3]: [Jer 1:6-8](Jer%201.md) - here we see Jeremiah making the excuse of his age and how he wants to go on this.
 
-[^b4]: [1 Tim 4:12](1%20Tim%204.md) - This verse is a excerpt from a encouraging message from [🧑Paul](%F0%9F%A7%91Paul.md) to [🧑Timothy](%F0%9F%A7%91Timothy.md) about him pushing forward despite being a very young pastor.
+[^b4]: [1 Tim 4:12](1%20Tim%204.md) - This verse is a excerpt from a encouraging message from [person-paul-the-apostel](person-paul-the-apostel.md) to [🧑Timothy](%F0%9F%A7%91Timothy.md) about him pushing forward despite being a very young pastor.
 
 [^b5]: [Eccles 11:9-10](Eccles%2011.md) - this is from a secotion on how old age and youth are vanity and particularly oh youthfulness and how to use it well.
 

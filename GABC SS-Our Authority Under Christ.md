@@ -21,7 +21,7 @@ This week we start the practical application for this study, primarily we are go
 ## The Source for Authority
 For us the source of Authority is Jesus. That is obviously the point of the whole point of this study. But is there more to this not really. We are called to rely on Jesus for everything and this comes by getting to know him [^b1].
 
-[^b1]: [[Acts 17|Acts 17:24-31]] - This is a excerpt from [[🧑Paul]]'s presentation to the men on the [[🏠Areopagus]]. This is focused on how we are called to find everything in God and this comes by seeking him.
+[^b1]: [[Acts 17|Acts 17:24-31]] - This is a excerpt from [[person-paul-the-apostel]]'s presentation to the men on the [[🏠Areopagus]]. This is focused on how we are called to find everything in God and this comes by seeking him.
 
 ### Jesus Defeated Satan's Weapon
 One thing to consider is that Satan's primary weapon is death and Jesus defeated death. This is why the resurrection is so important. It results in Satan not only having less authority but has no weapon to work with. [^b1a]

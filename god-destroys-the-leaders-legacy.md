@@ -40,7 +40,7 @@ We all respect our dead and that is why in our fist section when God calls for h
 
 On a personal level this made me consider astrology the pseudo-science/religion that is common among people today, including Christians. It is not uncommon in the dating sphere for people to seek "compatible" signs and some people make their sign their personality. Meanwhile if you dig a tiny bit deeper astrology seems to be nothing but generic and empty platitudes that could mean anything to anyone.
 
-The thing is that the leadership of Israel sought signs from the sky, using the cosmic timing system that God created as a replacement for God. It is sad that we do this so often that even the apostle [🧑Paul](%F0%9F%A7%91Paul.md) noticed it and mentioned that we tend to worship the creation rather than the creator [^b1]. As Christians we shouldn't be seeking the sky to tell us what should be done rather we should seek God.
+The thing is that the leadership of Israel sought signs from the sky, using the cosmic timing system that God created as a replacement for God. It is sad that we do this so often that even the apostle [person-paul-the-apostel](person-paul-the-apostel.md) noticed it and mentioned that we tend to worship the creation rather than the creator [^b1]. As Christians we shouldn't be seeking the sky to tell us what should be done rather we should seek God.
 
 ### Applications
 
