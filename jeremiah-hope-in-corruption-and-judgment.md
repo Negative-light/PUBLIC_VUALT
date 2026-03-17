@@ -31,7 +31,7 @@ Now I will say that these are probably the political rulers [^matthew-poole] [^e
 Given that the charge here is scattering due to neglect how can this happen not just at church but in general?
 
 ## The Coming Branch
-The next section cover the raising of a branch of [David](%F0%9F%A7%91David.md) a continuation on the [Davidic Covenant](Davidic%20Covenant.md). This includes a name for Christ (Yahweh-zidenu). This is supposed to be something so powerful that how God himself is described would change [^2]
+The next section cover the raising of a branch of [David](person-king-david.md) a continuation on the [Davidic Covenant](Davidic%20Covenant.md). This includes a name for Christ (Yahweh-zidenu). This is supposed to be something so powerful that how God himself is described would change [^2]
 
 Apparently there is an idea that this could talk of Zerubbabel but in general most commentaries greatly disagree even calling the idea preverse [^john-calvin]. Of course we also shouldn't miss that this also talks of a fully functional king and not a puppet king over a vassal state [^enduring-word]
 

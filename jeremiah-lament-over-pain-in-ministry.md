@@ -33,7 +33,7 @@ I am going to try something different I want to give y'all a few minutes to read
 The first section here Jeremiah states the pain he is facing to God [^1].
 In this section I do think its important to highlight that Jeremiah considers that God has "persuaded" him into a mission that he was not willingly asking for and he (Jeremiah) was not aware of the full cost of it [^enduring-word] [^matthew-poole]. 
 
-Jeremiah also mentions that he is mocked for the prophecy his is given which he tried to shove down but he had no choice to speak. This made a cycle that he was divided continuously [^matthew-henry] [^enduring-word]. Additionally we see that the people that should be supporting Jeremiah are backstabbing him which echoes [David](%F0%9F%A7%91David.md)[^matthew-poole] [^ellicott].
+Jeremiah also mentions that he is mocked for the prophecy his is given which he tried to shove down but he had no choice to speak. This made a cycle that he was divided continuously [^matthew-henry] [^enduring-word]. Additionally we see that the people that should be supporting Jeremiah are backstabbing him which echoes [David](person-king-david.md)[^matthew-poole] [^ellicott].
 
 Ultimately this culminates in a desire to quit ministry (now ain't that relatable) because he has only gained reproach [^matthew-poole]. This is because it was appearing the ministry would not produce fruit and the pain cause by the position given.
 

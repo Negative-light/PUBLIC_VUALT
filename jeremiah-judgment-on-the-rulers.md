@@ -54,7 +54,7 @@ Jehoiakim is is then brought out as being a unrighteousness king. Spicily this c
 Coniah was the young son of Jehoiakim and was also known as [Jehoiachin](%F0%9F%A7%91Jehoiachin.md) [^garner-howes]. He would only result for a few month before being replaced by Another Zedekiah (not the one motioned previously) and this would being the state where Israel is under Babylon.
 
 ## Disobedience
-In looking through this chapter the habit of disobedience which defied the [Davidic Covenant](Davidic%20Covenant.md) that these people would continue the godliness of [David](%F0%9F%A7%91David.md) [^matthew-poole] but they instead simply excuse for their sin. Although their line was privileged by God they shouldn't have taken it for grated and that they would and could still be judged for this disobedience [^john-calvin] [^john-gill]. 
+In looking through this chapter the habit of disobedience which defied the [Davidic Covenant](Davidic%20Covenant.md) that these people would continue the godliness of [David](person-king-david.md) [^matthew-poole] but they instead simply excuse for their sin. Although their line was privileged by God they shouldn't have taken it for grated and that they would and could still be judged for this disobedience [^john-calvin] [^john-gill]. 
 
 
 ## Application Questions

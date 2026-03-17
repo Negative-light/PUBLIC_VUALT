@@ -48,7 +48,7 @@ How can a long standing sin infect and corrupt your memory?
 How has it effected the ministries of others?
 
 Are there examples of how people can be redeemed even after this point?
-    The example I am considering here is [🧑David](%F0%9F%A7%91David.md).
+    The example I am considering here is [person-king-david](person-king-david.md).
 
 ## Stubbornness in Israel's Rebellion
 Our next section is God commanding Jeremiah to talk about how foolish the rebellion of Israel is and how far they have run [^m2]. First I think it is important to consider the history of Israel especially the timeframe recorded in [Judges](Judges.md) where they were in a genearational cycle of falling into sin then being conquered then God sending someone to extract them from captivity. Then we need to consider that hte northern kingdom had *just* been taken not too long ago. But we also should see here also some of the "why", the peoples heart had become callous. Similar to the hard path in the [Parable of the Sower](Parable%20of%20the%20Sower.md).  This whole pattern of Judah at this point defies the "natural order" of how a person would act [^enduring-word] [^guzik] [^ellicott].

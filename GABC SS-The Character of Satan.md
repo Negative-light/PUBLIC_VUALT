@@ -3,46 +3,10 @@ tags:
   - spiritual/warfare
   - c/demons
   - c/humility
-noteType: lesson
+noteType: output
 parent:
-  - The Battle is the Lords
   - "[[The_Battle_Is_The_Lords]]"
-child:
-sibling:
-  - "[[GABC SS-Intro too World Views]]"
-  - "[[GABC SS-Back to the Beginning]]"
-  - "[[GABC SS-Intro to Spiritual Warfare]]"
-  - "[[GABC SS-The Battle Field]]"
-  - "[[GABC SS-The Utility and Purpose of Angels]]"
-rival:
 ---
-# Review
-- We are in a battle over glory between God and Satan
-- We are victorious in Jesus
-- We fight in four different areas
-    - Induvial
-    - Family
-    - Church
-    - Society
-- There are two Structures
-    - Fortresses
-    - Partitions
-- Angles are messengers for
-    - Guidance
-    - Protection
-    - Provision
-    - Judgment
-- As we get closer to God we get four blessings
-    - A Connection to God
-    - Access to god's Throne Room
-    - Protection *for God's Purposes*
-    - Provision for God's Purposes
-- Angles are structured in a format for authority and can be *enlisted* into our lives by
-    - Praise
-    - Prayer
-    - Submission
-
-
 # Today
 
 Today we are going to look into Satan and his Character. this can be best summarized in his name which means "adversary" or "opposer" [^cite1] and "accuser" or "slanderer" [^cite2]. This really shows that his character is to accuse us before God but remember that [[jesus|👼Jesus]] protects us [^b1]. Satan does have other names that may be worth further study in the future but for this study we will not be focusing on that today.
@@ -52,10 +16,7 @@ Today we are going to look into Satan and his Character. this can be best summar
 [^b1]: [[1 John 2|1 John 2:1]] - This passage talks about hos Jesus is our protector and advocate before God.
 ## Satan's Goal
 
-Throughout scripture Satan is compared to a wolf, a destroy, a trickster all of these focus on that Satan's goal is to kill us [^b2].
-
-[^b2]:  [[John 10|John 10:10]] - This passage is where Jesus describes Satan's target to steal, kill and destroy us.
-  [[John 8|John 8:44]] - This passage is where Jesus describes Satan as a "murderer from the beginning"
+![[satans-goal-is-to-kill-us|naked]]
 ## The Power of Satan
 Before we being here it is important to remember that God is sovereign. This means that if Satan is going to do a thing he **must** ask for permission or that God has veto power over Satan at any time. For the sake of looking at Satan's power we will first look at Jesus' temptation specifically the second temptation when Satan offers Jesus all the kingdoms of the world, Satan does have the power to give you things and build you up for selfish desires. These will be used to achieve his Goals of destroying us [^b2a] [^related1]. We also must ackoledge though that Satan is a liar and thus his promises are empty and will result in you being destroyed [^b2b].
 
