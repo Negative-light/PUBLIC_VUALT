@@ -53,7 +53,7 @@ Satan's first attack on marriage was to reverse these roles. This can show both 
 
 If you are not in the role that God has called you to Satan has a method to attack. This is especially true in marriage and the church (we will hit on that later). Ironically when we go back to the curses brought on by sin it even grantees strife within marriage. No longer is man and wife completing each other and trying to swap roles. Including the man becoming passive or not leading lovingly and the wife striving to become the leader of the family.
 
-[^b1]: [[Gen 2|Gen 2:24-25]] - this is the definition of marriage based on the scriptures and the first marriage between [[🧑Adam]] and [[🧑Eve]].
+[^b1]: [[Gen 2|Gen 2:24-25]] - this is the definition of marriage based on the scriptures and the first marriage between [[person-adam]] and [[person-eve]].
 [^b2]: [[Ephes 5|Ephes 5:21-33]] - this is where we get a biblical definition of the man and woman's roll in marriage
 [b3]: [[1 Cor 11|1 Cor 11:3-10]] - this verse highlights in the middle of a discussion of head coverings the role of a husband
 [^b4]: [[Gen 3]] - this passage is the fall of man and the resulting consequences

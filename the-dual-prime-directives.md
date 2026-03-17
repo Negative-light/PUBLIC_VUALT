@@ -13,7 +13,7 @@ This short lesson is a concept for a local meeting of Christians. The goal is to
 
 # Definitions
 ## The Human Directive
-The human directive can be found in Genesis and is the common call to [🧑Adam](%F0%9F%A7%91Adam.md) and [🧑Eve](%F0%9F%A7%91Eve.md) to "Be Fruitful and Multiply" [^1]
+The human directive can be found in Genesis and is the common call to [person-adam](person-adam.md) and [person-eve](person-eve.md) to "Be Fruitful and Multiply" [^1]
 
 [^1]: [Gen 1:28](Gen%201.md): This is the verse that holds the "human directive" to be fruitful and multiply
 
