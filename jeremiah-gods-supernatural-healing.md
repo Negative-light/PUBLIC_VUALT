@@ -29,7 +29,7 @@ Now we look at the remaining verses which talk about how God will redeem Israel 
 - God tells the peole they will have rest after surviving the sword
     - This could be referencing the events of Exodus [^matthew-poole] [^matthew-henry] calling the people to remember God's pattern for mercy [^2]
     - The point  that God's faithfulness should bolster our faith providing hope for a future we do not see [^3]
-- God is faithful in his unconditional [[Strongs G26|agapé]] love.
+- God is faithful in his unconditional [[words/greek/strongs-g26|agapé]] love.
 - God Redemptive healing
     - He emphasizes rebuilding by doubling it up (this was common for the Hebrew language). We might call this revival.
     - The Revirgining Effect. Israel is now pure. There is no more impurity. [^john-gill].
