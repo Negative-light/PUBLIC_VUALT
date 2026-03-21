@@ -68,7 +68,7 @@ In looking through this chapter the habit of disobedience which defied the [Davi
     - How could you create  a legacy that is worth morning (this is based on the mourning for Josiah)?
 
 # Next Week
-Into chapter 23, I may split it at verse 9 but will reach out next week. Please review the full chapter. Something fun here we get to start talking about [Jesus](Jesus.md)!
+Into chapter 23, I may split it at verse 9 but will reach out next week. Please review the full chapter. Something fun here we get to start talking about [person-jesus](people/biblical/person-jesus.md)!
 
 [^1]: [Jer 22:1-9](Jer%2022.md)
 [^2]: [Jer 22:10-30](Jer%2022.md)

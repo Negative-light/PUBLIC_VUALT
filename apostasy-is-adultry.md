@@ -41,7 +41,7 @@ The next bitgt that I think is super important is that the nation of Isreal in a
 This prophecy ends  with God calling the nation of Israel doubly evil because they exchanged God satisfying. This interests me not because of the charge here of double evil but because of this key concept. *That we as Christians have a never ending well* and that when we look to sin *We dig a broken cistern* [^b6]. The cistern they have cannot hold water, which relates to life, joy, hope. We as humans cannot live without water (or coffee... that is more everyone around me) and its the same here wasting good clean water "living water" is fundamental and they were wasting this vial resource. How often do we do this in our spiritual walk? HOW OFTEN do we trade the truth of God for a lie that will never satisfy us? [^b7]
 
 
-[^b6]: [John 7:37-39](John%207.md) - this is a passage that [[people/biblical/jesus|Jesus]] promises that he will provided living water to us. That he is the person mentioned in Jeremiah
+[^b6]: [John 7:37-39](John%207.md) - this is a passage that [[people/biblical/person-jesus|Jesus]] promises that he will provided living water to us. That he is the person mentioned in Jeremiah
 [^b7]: [Jer 2:13](Jer%202.md) - here we have the nation of Isreal being charged wit ha double evil of wating the water and triading their God.
 
 # Next Week

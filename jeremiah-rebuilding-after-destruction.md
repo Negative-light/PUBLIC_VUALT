@@ -22,7 +22,7 @@ Some reminders is that this is written while Jerusalem is under siege and Jeremi
 ## Full Restoration
 The first portion of this section talks about how God would cause the restoration of all of the promised land. That their national wealth, their cities, population and leadership would be fully reestablished. The idea here i want to highlight is that they would "build upon the mound" of their history [^1].
 
-This of course cannot ignore that all of the restoration of Israel mirrors the future restoration we have hope for through [[jesus|Christ]] when we get to [[Heaven]]. We can see all the bad right now and understand that when all is done and over we will be with Christ where all things are perfected, our hope, our joy. Our pain will be but a faint memory [^john-calvin][^john-gill].
+This of course cannot ignore that all of the restoration of Israel mirrors the future restoration we have hope for through [[people/biblical/person-jesus|Christ]] when we get to [[Heaven]]. We can see all the bad right now and understand that when all is done and over we will be with Christ where all things are perfected, our hope, our joy. Our pain will be but a faint memory [^john-calvin][^john-gill].
 
 Something interesting in my analysis is that this chapter covers that everyone will be restored. I read this section as a progression as going back to being slightly nomadic in nature to having fortresses and a palace (though some commentaries do use this to call to permanent home structures). But rather people were actually willingly nomadic. So God is saying he will restore *every* way to of life [^ellicott] [^matthew-henry].
 

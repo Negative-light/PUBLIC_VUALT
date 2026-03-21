@@ -28,7 +28,7 @@ As we start up we see the idea of the people trying to bring a case against God,
 
 The first thing God does against the people is attack the children of the people. But this was 'in vain'. This in vain idea really is that God desired for them to repent, and they did not .[^b2]
 
-Next God sent prophets which they killed. I find this interesting because [[people/biblical/jesus|Jesus]] later uses this to charge the people .[^b3] But these people had not only killed God's prophets they killed them like a Lion .[^b2]
+Next God sent prophets which they killed. I find this interesting because [[people/biblical/person-jesus|Jesus]] later uses this to charge the people .[^b3] But these people had not only killed God's prophets they killed them like a Lion .[^b2]
 
 ### God's Charge
 

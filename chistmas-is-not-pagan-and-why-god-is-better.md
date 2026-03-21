@@ -37,7 +37,7 @@ Now an interesting insight is that the "customs" of the people doesn't just talk
 ### Applications
 How does idol worship tie into how we interact with Christmas?
     - Often the consumerist mentality does make "stuff" an idol
-    - The use of [Santa Clause](Santa%20Clause.md) can push us to see him as the key to Christmas rather than [Jesus](jesus.md)
+    - The use of [Santa Clause](Santa%20Clause.md) can push us to see him as the key to Christmas rather than [Jesus](people/biblical/person-jesus.md)
     - Something important for us to consider is that we should live a life of faith. Do we celebrate/live/act out of that [^enduring-word] [^b1]
 
 [^b1]: [Rom 14:23](Rom%2014.md)

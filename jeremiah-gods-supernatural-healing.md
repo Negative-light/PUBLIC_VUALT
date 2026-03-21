@@ -54,7 +54,7 @@ verse 4 has something i feel we miss so so often in the modern day. God redeems 
 
 But what does God say. He makes all things new. And every day is a new day you can be redeemed.  Yes, go sin no more. But do not dwell in your sin while obeying dwell on who God is and what he has done. You're identity who you are is something new.
 
-Here I want to remind us and end with the [[Gospel]]. We are sinners in need of a savior. That savior came as a man [[jesus|Jesus Christ]] who died on a cross for our sins. He was raised three days later showing that even death can be conquered. We are called to one thing, to believe that Jesus was  who he said he was (God) and that he died for our sins. Then through the power of the [[Holy Spirit]] we will be made new.
+Here I want to remind us and end with the [[Gospel]]. We are sinners in need of a savior. That savior came as a man [[people/biblical/person-jesus|Jesus Christ]] who died on a cross for our sins. He was raised three days later showing that even death can be conquered. We are called to one thing, to believe that Jesus was  who he said he was (God) and that he died for our sins. Then through the power of the [[Holy Spirit]] we will be made new.
 
 [^garner-howes]: [Jeremiah 31 - Garner-Howes Baptist Commentary - Bible Commentaries - StudyLight.org](https://www.studylight.org/commentaries/eng/ghb/jeremiah-31.html)
 [^matthew-poole]: [Jeremiah 31 Matthew Poole's Commentary](https://biblehub.com/commentaries/poole/jeremiah/31.htm)

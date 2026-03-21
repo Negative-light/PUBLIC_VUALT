@@ -11,7 +11,7 @@ rival:
 ---
 # Review
 This study is over the spiritual war for glory between [[God]] and [[Satan]]. Within this study we have analyzed the different battle fronts that we fight on as well as different tactics that Satan uses. Furthermore we analyzed how angels interact with us in regards to spiritual warfare. Next we analyzed how demons and Satan work as a dark mirror attempting to take glory from God by immobilizing Christians. 
-Last week we looked into the authority we get from [[jesus|👼Jesus]]. This authority comes from Jesus and is delegated to each of us to further the kingdom as much as possible. But within this we also say that Jesus destroyed [[Satan's Weapon of Death]] and Paid our debts. Furthermore we have become co-conquerors with Jesus as our commander conquering the world for the glory of Christ. We can therefore live in the victory of Jesus toward the righteous life of a believer and acknowledge that we have delegated authority from Christ.
+Last week we looked into the authority we get from [[people/biblical/person-jesus|👼Jesus]]. This authority comes from Jesus and is delegated to each of us to further the kingdom as much as possible. But within this we also say that Jesus destroyed [[Satan's Weapon of Death]] and Paid our debts. Furthermore we have become co-conquerors with Jesus as our commander conquering the world for the glory of Christ. We can therefore live in the victory of Jesus toward the righteous life of a believer and acknowledge that we have delegated authority from Christ.
 
 # Today
 This week we are focusing on how to practically use our authority and how that intersects with the [[../Church|Church]] and the resulting responsibilities from it.
@@ -26,7 +26,7 @@ This week we are focusing on how to practically use our authority and how that i
 ## The Church's Authority
 One huge thing to consider here is that the church is the principle group that Jesus gave authority to. The church is the primary way Christians are to gather (this is precisely what the church is) and grow with each other to more fully submit to Christ.
 
-The church started when Jesus renamed [[🧑Peter|Simon]] to Peter and stated that on him the church would be founded. This is where the church gets its authority is through the delegation of Jesus. [^b1]
+The church started when Jesus renamed [[person-peter|Simon]] to Peter and stated that on him the church would be founded. This is where the church gets its authority is through the delegation of Jesus. [^b1]
 
 It is important to note that the word used for *rock* in that passage is `petra` this is not the name that Peter is given, `petros`. Petra is the feminine form of that word and is used to mean a group of stones that fused together to form a slab. That the church is built on the concept that Jesus is the messiah. [^g1] [^g2]
 
