@@ -47,7 +47,7 @@ Now we look at the remaining verses which talk about how God will redeem Israel 
 ## Remember God's Faithfulness
 I think that the fist application of this chapter is that we should remember how God has been faithful in our lives and in the lives of those around us.  Remember who God is and what he does bolsters our faith [^matthew-henry]. God starts this section by reminding that he is the God who drew them out of Egypt and he will draw them out of Babylon [^john-calvin] [^matthew-poole].
 
-Somehting to consider is that God even encourages making intentional places to remember is faithfulness such as when Israel first entered the promissed land under [[🧑Joshua son of Nun|Joshua]] [^4] 
+Somehting to consider is that God even encourages making intentional places to remember is faithfulness such as when Israel first entered the promissed land under [[people/biblical/person-joshua-son-of-nun|Joshua]] [^4] 
 
 ## No Limits on Redemption
 verse 4 has something i feel we miss so so often in the modern day. God redeems full. I think it is important to remember that God was calling Israel an adulterous people in the beginning in this book. Yet here God says "Virgin Israel" [^1]. Today I think we treat some sins (especially sexual sin) as once tainted always tainted. If you are divorced you are used up. Child out of wedlock, not worthy of celebrating your child's life.
