@@ -45,7 +45,7 @@ Satan had 5 I will statements that happened when he dedicated himself to overthr
 ### Satan's Attempts
 Satan obviously doesn't like the fact that he is already defeated so he tried to thwart God's plan. We see that God was pleased by the sacrifice of Abel and not with  Cain [^b5], Satan took advantage of this by planting the idea of murder in Cain this theoretically would stop God's plan [^b6]. But Satan didn't compensate for the soon to be Seth who is the ancestor to all of us today (as he was the ancestor of Noah).
 
-[^b5]: [[Gen 4|Gen 4]] - This chapter covers the story of [[🧑Cain]] and [[🧑Abel]]
+[^b5]: [[Gen 4|Gen 4]] - This chapter covers the story of [[person-cain]] and [[🧑Abel]]
 [^b6]: [[1 John 3|1 John 3:12]] - This verse further explains *why* Cain killed Abel
 
 ### Jesus' Victory
