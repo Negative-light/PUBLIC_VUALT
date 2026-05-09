@@ -82,7 +82,7 @@ I think we will just do verses 1-14 of chapter 25.
 [^2]: This reminds me of [Joseph](%F0%9F%A7%91Joseph%20son%20of%20Israel.md) in [Egypt](%F0%9F%93%8CEgypt.md) as well as the [Parable of the Fig Tree](Parable%20of%20the%20Fig%20Tree.md)
 [^3]: [Jer 24:4-10](Jer%2024.md)
 [^4]: [Jer 1](Jer%201.md)
-[^5]: This reminds me of the story of [Cain](person-cain.md) and [Abel](%F0%9F%A7%91Abel.md)
+[^5]: This reminds me of the story of [Cain](person-cain.md) and [Abel](person-abel.md)
 [^6]: [Heb 12:3-13](Heb%2012.md)
 [^7]: [Hos 9](Hos%209.md)
 [^8]: [Matt 21](Matt%2021.md)
