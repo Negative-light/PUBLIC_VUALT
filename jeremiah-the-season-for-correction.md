@@ -30,7 +30,7 @@ This lesson had a focus on the idea that those who are blessed by God might not 
 Ok so this week we are actually going back in time slightly to just at the start of [[🧑Jehoiakim|Jehoiakim]].  Where Jeremiah gets a specific prophecy of the now oncoming invasion from [[person-nebuchadnezzar|Nebuchadnezzar]].
 
 ## Context
-Ok so this chapter gives us some important context that it happens in the 4th year of Jehoiakim (aka Jeconiah) and the 1st year of Nebuchadnezzar. Mind that this was the first year that Nebuchadnezzar was the sole ruler of Babylon, he was actually crowned king before this but was ruling with his father [^john-calvin] This would have been around 605 BC where Babylon would defeat Egypt. This would remove the primary seat of power from [[📌Assyria|Assyria]] and make it Babylon. This would be like a major upset in a national election, everyone is now wondering how the world is going to work moving forward [^thomas-constable]. 
+Ok so this chapter gives us some important context that it happens in the 4th year of Jehoiakim (aka Jeconiah) and the 1st year of Nebuchadnezzar. Mind that this was the first year that Nebuchadnezzar was the sole ruler of Babylon, he was actually crowned king before this but was ruling with his father [^john-calvin] This would have been around 605 BC where Babylon would defeat Egypt. This would remove the primary seat of power from [[assyria|Assyria]] and make it Babylon. This would be like a major upset in a national election, everyone is now wondering how the world is going to work moving forward [^thomas-constable]. 
 
 Furthermore we have to note that at least three prophets were active during this time [[🧑Uriah|Uriah]], [[🧑Zephaniah son of Cush|Zephaniah]] and [[🧑Habakkuk|Habakkuk]]. 
 
