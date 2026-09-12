@@ -36,7 +36,7 @@ First we look that Jeremiah focuses his defense on God and submits to authority.
 Now we look at the leaders response that they realize this guys words align with other prophecies from back in the time of Hezekiah. But if we just look at how Hezekiah reacted when he learned that the nation need to repent vs these leaders. It is the polar opposite despite having the same data. This showing a contrast of knowledge of God and wisdom that comes from God. 
 
 ## Uriah's Story
-Now we see the story of the prophet Uriah who was also speaking the same things of Jeremiah. But rather than responding with boldness he responded in fear. He runs to [[📌Egypt|Egypt]] and is drawn back by [[🧑Jehoiakim|Jehoiakim's]] men. This leads to his death.
+Now we see the story of the prophet Uriah who was also speaking the same things of Jeremiah. But rather than responding with boldness he responded in fear. He runs to [[place-egypt|Egypt]] and is drawn back by [[🧑Jehoiakim|Jehoiakim's]] men. This leads to his death.
 
 Now we don't have the timeline here. Was this sequential or was it that Uriah was prophesying while Jeremiah was under arrest. We don't know but we have the clear implication that fear lead to Uriah's death while faith lead to Jeremiah's protection. 
 

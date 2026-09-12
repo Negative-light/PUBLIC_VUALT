@@ -24,7 +24,7 @@ So this chapter opens with "At This time" which means when *all of Israel* is un
 Of course there is a partial completion with Israel having been returned under [[🧑Cyrus|Cyrus]] and under [[🏙️Rome|Rome]] [^john-calvin] [^matthew-poole]. 
 
 ## The Redemption of God
-Now we look at the remaining verses which talk about how God will redeem Israel and reminds them of how God saved them from [[📌Egypt|Egypt]].
+Now we look at the remaining verses which talk about how God will redeem Israel and reminds them of how God saved them from [[place-egypt|Egypt]].
 
 - God tells the peole they will have rest after surviving the sword
     - This could be referencing the events of Exodus [^matthew-poole] [^matthew-henry] calling the people to remember God's pattern for mercy [^2]

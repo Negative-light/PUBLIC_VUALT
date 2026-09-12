@@ -29,7 +29,7 @@ Last week we looked at a request of [p-jeremiah](../p-jeremiah.md) for [God](God
 [^m4]: [Jer 11:21-23](Jer%2011.md)
 
 ## God Call Israel to Remember
-This second focus on God reviewing the history of Israel mentioning [📌Egypt](%F0%9F%93%8CEgypt.md) as a refining place for the nation. This leads God into reminding them of the covenant they formed and the curse of disobedience (i.e. following other "gods") just as their ancestors did [^m1]. Here we see some important points to consider,
+This second focus on God reviewing the history of Israel mentioning [place-egypt](place-egypt.md) as a refining place for the nation. This leads God into reminding them of the covenant they formed and the curse of disobedience (i.e. following other "gods") just as their ancestors did [^m1]. Here we see some important points to consider,
 
 1. Israel's rebellion is Generational yet God has yet to have removed them completely showing God's faithfulness against Israel's unfaithfulness [^ellicott] [^john-gill]
 2. Israel's decay spiritually leads to this continuous rebellion which God highlights as their stubborn nature to not repent [^guzik] [^matthew-poole]

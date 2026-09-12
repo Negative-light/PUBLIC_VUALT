@@ -27,7 +27,7 @@ First God calls Jeremiah to take the "cup of wine of his wrath". And describes t
 This imagery is something reused by God often such as ins [[Psalms/Ps 75|Ps 75]] and [[Isaiah/Isa 51|Isa 51]]. This idea of a "foaming cup" of wrath that would intoxicate nations in calamity [^enduring-word] [^ellicott]. The result from this drink although obviously just standard drunkenness, but it would also be the effects of a nation ravaged by war [^matthew-henry]. 
 
 ### The Judged
-The next section Jeremiah lists out each nation that will be judged [^2]. An element behind why the judged includes many of these nations is that this would attack the confidence Judah had in their foreign alikeness [^john-calvin]. Obviously we know of their alliance with [[📌Egypt|Egypt]] but some of these other nations were tied up into that alliance.
+The next section Jeremiah lists out each nation that will be judged [^2]. An element behind why the judged includes many of these nations is that this would attack the confidence Judah had in their foreign alikeness [^john-calvin]. Obviously we know of their alliance with [[place-egypt|Egypt]] but some of these other nations were tied up into that alliance.
 
 As we walk through this section we see that Judah is judged first. The nature of God's judgement is that he is quick to judge his people. Although this is often after a time of grace, we should know better and we should turn faster, but if we don't God will come upon us quickly [^matthew-poole].
 
