@@ -50,7 +50,7 @@ Something that sticks out to me here is that many Christians treat the church bu
 
 ### An Example of Judgment
 
-Our next section we see God highlight that he is not going to treat a place of worship uniquely just because it is a place of worship. Rather he will still bring judgment on it .[^m2] This is using [🏙️Shilo](%F0%9F%8F%99%EF%B8%8FShilo.md) the former location of the [🏠Tabernacle](%F0%9F%8F%A0Tabernacle.md) .[^b3] This section is a reminder that God will withdraw his presence (and thereby his blessing) if judgment is needed .[^metthew-henry] 
+Our next section we see God highlight that he is not going to treat a place of worship uniquely just because it is a place of worship. Rather he will still bring judgment on it .[^m2] This is using [🏙️Shilo](%F0%9F%8F%99%EF%B8%8FShilo.md) the former location of the [Tabernacle](Tabernacle.md) .[^b3] This section is a reminder that God will withdraw his presence (and thereby his blessing) if judgment is needed .[^metthew-henry] 
 
 The focus is that religion had become an Idol for the nation of Israel. This naturally makes their actions "vain". This is something to consider that we even as Christians have "religious" actions, going to Church, studying the scriptures, prayer, communion etc. These actions though good (just as sacrifice was) is not what God wants. That is obidence from the heart
 

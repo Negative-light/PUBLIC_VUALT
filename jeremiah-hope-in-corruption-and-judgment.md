@@ -26,7 +26,7 @@ This week [Jeremiah](../p-jeremiah.md) bring forward a charge against false lead
 ## Woe Upon the bad Shepherds
 This first section targets the shepherds (leaders) who refused to cover and take care of the people [^1]. The primary charge here is that they are not intentionally harming but rather were neglectful. Negligent in duty causing them to be scattered. But this ends with a promise to raise new leaders after the coming exile.
 
-Now I will say that these are probably the political rulers [^matthew-poole] [^ellicott] (though having recently read on the life of [King Solomon](%F0%9F%A7%91King%20Solomon.md) I would say that the kings were just as much spiritual) but this applies to the current leaders. Now the job of a shepherd is to bring together the people to live a life that glorifies God (and is abundant) [^garner-howes] but these leaders scatter the people. As far as history I will note that Ellicott theorizes this is addressing the theocracy formed under Ezra and Nehemiah [^ellicott]
+Now I will say that these are probably the political rulers [^matthew-poole] [^ellicott] (though having recently read on the life of [King Solomon](person-solomon.md) I would say that the kings were just as much spiritual) but this applies to the current leaders. Now the job of a shepherd is to bring together the people to live a life that glorifies God (and is abundant) [^garner-howes] but these leaders scatter the people. As far as history I will note that Ellicott theorizes this is addressing the theocracy formed under Ezra and Nehemiah [^ellicott]
 
 Given that the charge here is scattering due to neglect how can this happen not just at church but in general?
 

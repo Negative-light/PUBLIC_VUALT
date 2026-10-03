@@ -25,7 +25,7 @@ This week we are going to see further judgment on Israel but we are going to be 
 ## Opening
 
 We are starting with some context that God is bring this judgment specifically because of what the son of [[person-hezekiah|Hezekiah]]([[person-manasseh-son-of-hezekiah|Manasseh son of Hazekiah]]). [^m1] 
-The situation that the two intercessors of Israel ([[person-moses|Moses]] and [[🧑Samuel|Samuel]] interceded for the nation [^b1]) wouldn't be able to intercede for the nation .[^enduring-word] [^matthew-poole] 
+The situation that the two intercessors of Israel ([[person-moses|Moses]] and [[person-samuel|Samuel]] interceded for the nation [^b1]) wouldn't be able to intercede for the nation .[^enduring-word] [^matthew-poole] 
 God then describes the nature of the destruction He is sending (sword, famine and captivity) this read to me more as through groupos of people those who would die, those you would starve and those who would be captives (like [[people/person-daniel-pace|Daniel]]). 
 Some commentaries see this as the progression of the judgment that is that there will be death, suffering and exile .[^ellicott]
 The thing is that the people are not just being killed they are being desecrated .[^guzik]
