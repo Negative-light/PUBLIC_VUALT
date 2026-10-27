@@ -10,7 +10,7 @@ noteType: output
 aiConversation: "[[2025-10-04-jeremiah-31-study-help_CHATGPT]]"
 ---
 # Review
-We are in a section of Jeremiah where [[God]] is explaining through [[p-jeremiah|Jeremiah]] how he will bring the [[p-nation-of-israel|Nation of Israel]] back to the promised land. This of course also reflects onto the return of Israel in the end times and how God will treat Christians in the end times.
+We are in a section of Jeremiah where [[God]] is explaining through [[person-jeremiah|Jeremiah]] how he will bring the [[p-nation-of-israel|Nation of Israel]] back to the promised land. This of course also reflects onto the return of Israel in the end times and how God will treat Christians in the end times.
 
 The first part of Jeremiah 21 showed us that it is importnat to look back at the good things God has done and that God's redemptive power is not limited. This shows us both the practical thing to do when you are going through a hard time and how we should handle others that we might thing have "gone too far".
 

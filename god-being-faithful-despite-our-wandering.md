@@ -11,7 +11,7 @@ tags:
 noteType: output
 ---
 # Review
-We are studying the prophecies of [[../p-jeremiah|Jeremiah]] to the southern kingdom of [Israel](../p-nation-of-israel.md). This book highlights how they have abandoned [God](God.md) for idols. this book uses [[adultery-def|adultery]] to highlight that point the most [^connection1].
+We are studying the prophecies of [[person-jeremiah|Jeremiah]] to the southern kingdom of [Israel](../p-nation-of-israel.md). This book highlights how they have abandoned [God](God.md) for idols. this book uses [[adultery-def|adultery]] to highlight that point the most [^connection1].
 
 [^connection1]: This reminds me of [[apostasy-is-adultry|Apostasy is Adultery]], and [[divorce-and-adulatory|divorce-and-adulatory]]
 

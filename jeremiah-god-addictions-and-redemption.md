@@ -17,7 +17,7 @@ includeTags: true
 exportFontSize: 10
 ---
 # Last Week
-Last week we talks about how [God](God.md) had called [Jeremiah](p-jeremiah.md) to become a sign to the [Southern Kingdom](Southern%20Kingdom.md) because he is not going to get married nor partake in any celebrations. This is to make it clear that the judgment is coming.
+Last week we talks about how [God](God.md) had called [Jeremiah](person-jeremiah.md) to become a sign to the [Southern Kingdom](Southern%20Kingdom.md) because he is not going to get married nor partake in any celebrations. This is to make it clear that the judgment is coming.
 Another side to this that we looked at was how God was sparring Jeremiah who would have also suffered some due to being married and joining in merriment while preaching of a great judgment coming.
 
 # This Week

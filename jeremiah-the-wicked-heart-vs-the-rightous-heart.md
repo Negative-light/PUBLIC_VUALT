@@ -21,7 +21,7 @@ Last week we explored the topic of addiction. How [God](God.md) told the [Southe
 This week we are looking at a "inverse" to the story of Psalm 1, the tree planted in the desert [^1]. This goes into the concepts of the heart.
 
 ## The Sin of Judah
-This chapter opens with God spelling out a part of the judgment to [Jeremiah](../p-jeremiah.md). This includes what to me seems like a noted nostalgia filter that the people would have on the idol worship places. Ultimately God removes the blessings of the land He had given them. [^2]
+This chapter opens with God spelling out a part of the judgment to [Jeremiah](person-jeremiah.md). This includes what to me seems like a noted nostalgia filter that the people would have on the idol worship places. Ultimately God removes the blessings of the land He had given them. [^2]
 
 To add some history to this we are nearing the end at this point, so the children at this time would be young adults [^garner-howes], thus the Asherah poles that were hosted in large Groves [^ellicott] would be imbedded in their mind just like the beauty of old chapels/malls etc. are in ours today.
 

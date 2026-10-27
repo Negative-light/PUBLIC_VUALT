@@ -22,7 +22,7 @@ aliases:
 Last week we
 
 1. Planned out this next year we do have some adhoc plans in place 
-2. Discussed the persecution of [Jeremiah](p-jeremiah.md) from [Pashhur](%F0%9F%A7%91Pashhur%20son%20of%20Immer.md) who was the leading priest of the [First Temple](First%20Temple.md)
+2. Discussed the persecution of [Jeremiah](person-jeremiah.md) from [Pashhur](%F0%9F%A7%91Pashhur%20son%20of%20Immer.md) who was the leading priest of the [First Temple](First%20Temple.md)
 
 # This Week
 This week we are going to go over Jeremiah's lament from this persecution directed toward [God](God.md). 

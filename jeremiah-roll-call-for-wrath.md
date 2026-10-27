@@ -10,7 +10,7 @@ title:
 # Last Week
 Last week we discussed the prophecy announcing the 70 year exile for the [[Southern Kingdom]]. [[God]] used this to allow the land to rest after a long over due need for it. Furthermore this was coming with the purpose. God wanted to bring the nation to redemption.
 
-A second element of the lesson was that [[p-jeremiah|Jeremiah]] had served for 23 years with no real results (and next week we will being to see some of the actual persecution Jeremiah had faced). Yet he persevered.
+A second element of the lesson was that [[person-jeremiah|Jeremiah]] had served for 23 years with no real results (and next week we will being to see some of the actual persecution Jeremiah had faced). Yet he persevered.
 
 This lesson I believe teach us as future leaders of our church three things
 - *Patience*: sometimes  the changes we want to see 

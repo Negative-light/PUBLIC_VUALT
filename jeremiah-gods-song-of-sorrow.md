@@ -39,7 +39,7 @@ This type of song is one that the artist has burdened over, when played it weigh
 
 This definition comes with the figurative definitions that i feel align with this passage. Which does seem to use this word as a clever devise to using both the literal definition of the word and the figurative case [^garner-howes], it also may be used to call out how people would mock the true prophecies of the time [^matthew-henry]
 ## What is this Burden
-So now we need to evaluate what exactly is this burden. It is the people, the very ones that would ask [Jeremiah](p-jeremiah.md) "What is the burden of the Lord?". This coming out of the last part of verse 33, sometimes that last bit can be translated as You are the burden rather than the question What is the burden. 
+So now we need to evaluate what exactly is this burden. It is the people, the very ones that would ask [Jeremiah](person-jeremiah.md) "What is the burden of the Lord?". This coming out of the last part of verse 33, sometimes that last bit can be translated as You are the burden rather than the question What is the burden. 
 
 Furthermore this plays on how the false prophets were misusing the terms [^ellicott]. This usage of the term created persecution via mockery [^matthew-henry], creating noise that prevents the signal of Jeremiah's message from coming through.  
 

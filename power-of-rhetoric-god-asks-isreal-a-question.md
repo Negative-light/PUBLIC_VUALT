@@ -14,7 +14,7 @@ title: "Jeremiah: Power of Rehtoric - God Asks Israel a Question"
 
 # Last Week
 
-Last week we looked at the false teachers [[p-nation-of-israel|Israel]] that they will not be judged by [[God]]. [[p-jeremiah|Jeremiah]] specifically calls out how to handle this situation. This brought us to question a few things
+Last week we looked at the false teachers [[p-nation-of-israel|Israel]] that they will not be judged by [[God]]. [[person-jeremiah|Jeremiah]] specifically calls out how to handle this situation. This brought us to question a few things
 1. Do we listen to people who convict us?
 2. Do we correct those who lead us when what they say denies the word of God
 

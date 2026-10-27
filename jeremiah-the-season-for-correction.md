@@ -22,7 +22,7 @@ title:
 [^thomas-constable]: [Jeremiah 25 - Dr. Constable's Expository Notes - Bible Commentaries - StudyLight.org](https://www.studylight.org/commentaries/eng/dcc/jeremiah-25.html)
 
 # Last Week
-So last week we reviewed an object lesson where [[God]] presented two sets of figs to [[p-jeremiah|Jeremiah]].
+So last week we reviewed an object lesson where [[God]] presented two sets of figs to [[person-jeremiah|Jeremiah]].
 The good figs represent the people who were exiled to [[nation-babylon|Babylon]] and the bad represents the people left in [[city-jerusalem|Jerusalem]]. 
 This lesson had a focus on the idea that those who are blessed by God might not be the ones who look that way and for us to not take for granted the relationship we have with God. This of course has several relationships within scripture such as how in the end times Christ will separate between the sheep and goats.
 

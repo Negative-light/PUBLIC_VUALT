@@ -10,10 +10,10 @@ title:
   - "Jeremiah: Judgement on Hananiah"
 ---
 # Last Week
-Last week we evaluated the object lesson [[God]] had [[p-jeremiah|Jeremiah]] present in the [[First Temple]]. This was wearing a yoke and informing people to go ahead and submit to the judgment to come as [[nation-babylon|Babylon]] was about to claim the last part of the [[Southern Kingdom]]. 
+Last week we evaluated the object lesson [[God]] had [[person-jeremiah|Jeremiah]] present in the [[First Temple]]. This was wearing a yoke and informing people to go ahead and submit to the judgment to come as [[nation-babylon|Babylon]] was about to claim the last part of the [[Southern Kingdom]]. 
 
 # This Week
-This chapter we are introduced to a new character [[🧑Hananiah|Hananiah]] who is a false prophet during the time of [[🧑Zedekiah|Zedekiah]]. He outright denies the prophecies of Jeremiah and is thereby judged.
+This chapter we are introduced to a new character [[person-hananiah|Hananiah]] who is a false prophet during the time of [[person-zedekiah|Zedekiah]]. He outright denies the prophecies of Jeremiah and is thereby judged.
 
 ## Introduction
 As we start the chapter we see Hananiah who is preaching the message that everything under Babylon would be returned in two years and that [[🧑Jehoiachin|Jehoiachin]] would return to ruling the nation [^1]. Now when diving into this prophecy we need to understand that this was also a national thing so his prophecy was about the nation and it is posited by Matthew Poole that Hananiah was mentioning specifically Jehoiachin for the same reason false teacher make any political lean clear, adjacency to power. [^matthew-poole].

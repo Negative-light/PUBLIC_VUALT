@@ -9,12 +9,12 @@ title:
   - "Jeremiah: Thrive In Exile"
 ---
 # Last Week
-Last Week we looked at how [[🧑Hananiah|Hananiah]] provided false prophecies to the people in [[city-jerusalem|Jerusalem]] and [[p-jeremiah|Jeremiah]] confronted him. This taught us on how to confront good sounding false gospels like the [[Prosperity Gospel]], by first acknowledging the good and hoping for the best, but understanding that [[God]]'s word doesn't always sound that good. We must respond as well with self control not getting into flame-wars over things and that ultimately compromising truth leads to punishment
+Last Week we looked at how [[person-hananiah|Hananiah]] provided false prophecies to the people in [[city-jerusalem|Jerusalem]] and [[person-jeremiah|Jeremiah]] confronted him. This taught us on how to confront good sounding false gospels like the [[Prosperity Gospel]], by first acknowledging the good and hoping for the best, but understanding that [[God]]'s word doesn't always sound that good. We must respond as well with self control not getting into flame-wars over things and that ultimately compromising truth leads to punishment
 # This Week
 
 For this weeks study I will note that 5-6 sermons could be writen on this chapter with different lenses and disperate applications. I strongly advise y'all study this chapter a few times. It is very deep and worthwhile.
 
-This week we see a letter sent from Jeremiah to the exiles in Babylon. This was send most likely via an official envoy and the two people who sent the letter could have been trusted friends of Jeremiah as well [^garner-howes] [^ellicott]. As far as why this letter would be allowed to be sent some commentators do think that [[🧑Zedekiah|Zedekiah]] reviewed this letter and liked the general message to keep the peace and allow him to remain in power [^matthew-henry] [^john-calvin]. An additional theory would be that if these people were friends of Jeremiah he could have also snuck the letter. [^1]
+This week we see a letter sent from Jeremiah to the exiles in Babylon. This was send most likely via an official envoy and the two people who sent the letter could have been trusted friends of Jeremiah as well [^garner-howes] [^ellicott]. As far as why this letter would be allowed to be sent some commentators do think that [[person-zedekiah|Zedekiah]] reviewed this letter and liked the general message to keep the peace and allow him to remain in power [^matthew-henry] [^john-calvin]. An additional theory would be that if these people were friends of Jeremiah he could have also snuck the letter. [^1]
 
 This letter is pastoral and I think is the first "epistle" type writing we see in scripture and is dealing with the same types of problems. Individuals in the group are causing a problem that will harm the "church" and possibly get people killed [^enduring-word] [^ellicott].
 

@@ -16,7 +16,7 @@ noteType: output
 [^john-calvin]: [Jeremiah 24 Calvin's Commentaries](https://biblehub.com/commentaries/calvin/jeremiah/18.htm)
 [^john-gill]: [Jeremiah 24 Bible Commentary - John Gill’s Exposition of the Bible \| Christianity.com](https://www.christianity.com/bible/commentary/john-gill/jeremiah/24)
 # Last Week
-Last week we evaluated a section that I called God's Song of Sorrow. This used the idea of a burden and related wordplay for the original Hebrew word that [God](God.md) used through [Jeremiah](p-jeremiah.md).
+Last week we evaluated a section that I called God's Song of Sorrow. This used the idea of a burden and related wordplay for the original Hebrew word that [God](God.md) used through [Jeremiah](person-jeremiah.md).
 
 This guided our discussion on the way we use words the way that ones word becomes their burden. This ties into our self talk not only of ourselves but of our church. I will say that I have not done well in applying this. Furthermore for us to not consume the mockery (which is a form of persecution) that the world gives.
 
@@ -31,7 +31,7 @@ timeline
     586 BC : Jeruslaems Fall
 ```
 ## The Object Lesson
-This object lesson God uses baskets of good figs and bad figs [^2] which have some relatively obvious symbolism. The Good figs are tied to those that were taken to Babylon and would later return (after having repented and  returned to God) and rebuilt [Jerusalem](city-jerusalem.md). The second group or bad figs were those that remind in Israel under [Zedekiah](%F0%9F%A7%91Zedekiah.md) [^3].
+This object lesson God uses baskets of good figs and bad figs [^2] which have some relatively obvious symbolism. The Good figs are tied to those that were taken to Babylon and would later return (after having repented and  returned to God) and rebuilt [Jerusalem](city-jerusalem.md). The second group or bad figs were those that remind in Israel under [Zedekiah](person-zedekiah.md) [^3].
 
 Some history around this. These events occur around 597 BC and this results in Zedekiah becoming the puppet ruler of Jerusalem. Here we see the idea that the ones who were left in the [Southern Kingdom](Southern%20Kingdom.md) thought they were the ones that God had blessed and protected, which clearly God was inverting those expectations [^garner-howes] [^enduring-word].
 
