@@ -10,7 +10,7 @@ parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 # Review
-Last weeks lesson was focused on [God](God.md) futher providing a chance and call for [Israel](../p-nation-of-israel.md) to repent and return to Him.
+Last weeks lesson was focused on [God](God.md) futher providing a chance and call for [Israel](nation-israel.md) to repent and return to Him.
 - This section did highlight that the time was coming *quickly* and would be *unavoidable*
 - Furthermore there is a break for [person-jeremiah](person-jeremiah.md) to call out to God out of being disheartened based on how *people* could reacted
 

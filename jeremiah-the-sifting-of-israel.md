@@ -16,7 +16,7 @@ title: "Jeremiah: The Sifting of Israel"
 
 # Last Week
 
-Last week we focused on how [God](God.md) warns the nations of the coming judgment on [Israel](p-nation-of-israel.md). This comes from them rejecting of the "ancient paths" of wisdom from God. We also talked aobut how Israel was walking in "vain repetition". This culminates in God placing "stumbling blocks" in the path of Israel.
+Last week we focused on how [God](God.md) warns the nations of the coming judgment on [Israel](nation-israel.md). This comes from them rejecting of the "ancient paths" of wisdom from God. We also talked aobut how Israel was walking in "vain repetition". This culminates in God placing "stumbling blocks" in the path of Israel.
 
 # This Week
 

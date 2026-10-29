@@ -7,7 +7,7 @@ parent:
   - "[[destruction-&-rebuilding-study-of-jeremiah]]"
 ---
 # Review
-Last week we took the time to focus on how [God](God.md) will forgo destruction of [Israel](../p-nation-of-israel.md) if they repented. This of course we understand can be extrapolated ot God's 
+Last week we took the time to focus on how [God](God.md) will forgo destruction of [Israel](nation-israel.md) if they repented. This of course we understand can be extrapolated ot God's 
 # This Week
 [^b1]: [Jer 4:5-9](Jer%204.md) - this poem is about how [nation-babylon](nation-babylon.md) was coming to conquer Judah
 [^b2]: [Jer 4:11-18](Jer%204.md) - this poem segment targets how the judgment coming to Israel 

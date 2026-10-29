@@ -14,7 +14,7 @@ title: "Jeremiah: repentance Resists Destruction"
 
 # Review
 
-The Previous studies we have focused on the prophecies of [person-jeremiah](person-jeremiah.md). We have been highlighting this concept that [[adultery-def|Adultery]] and Apostasy are directly connected. Furthermore we have further discussed how God is faithful to [Israel](../p-nation-of-israel.md) even when they wander.
+The Previous studies we have focused on the prophecies of [person-jeremiah](person-jeremiah.md). We have been highlighting this concept that [[adultery-def|Adultery]] and Apostasy are directly connected. Furthermore we have further discussed how God is faithful to [Israel](nation-israel.md) even when they wander.
 
 A key thing to consider as we study is that Israel relates to how the christian life works too.
 

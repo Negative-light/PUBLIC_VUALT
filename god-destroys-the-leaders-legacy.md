@@ -31,7 +31,7 @@ Last week in our study of the writings of [person-jeremiah](person-jeremiah.md) 
 [^m3]: [Jer 8:8-12](Jer%208.md)
 [^m4]: [Jer 8:13](Jer%208.md)
 
-This chapter has some interesting turns in it. We see that the leadership of [Israel](../p-nation-of-israel.md) is called out for idolatry.
+This chapter has some interesting turns in it. We see that the leadership of [Israel](nation-israel.md) is called out for idolatry.
 
 ## Desecration of the Dead.
 [^b1]: [Rom 1:25](Rom%201.md)

@@ -16,7 +16,7 @@ noteType: output
 [^john-gill]: [Jeremiah 23 Bible Commentary - John Gill’s Exposition of the Bible \| Christianity.com](https://www.christianity.com/bible/commentary/john-gill/jeremiah/23)
 
 # Last Week
-Last week we looked at a set of prophecies that [God](God.md) gave the kings of the [Southern Kingdom](Southern%20Kingdom.md). These covered the nature of their deaths and a charge to seek justice. 
+Last week we looked at a set of prophecies that [God](God.md) gave the kings of the [nation-judah](nation-judah.md). These covered the nature of their deaths and a charge to seek justice. 
 
 The focus for us in looking at that is as the leaders in our life what does this mean for us. How can we seek justice and righteousness for God. But a second element is how can we redeem people's legacy, a better way to put this is how can we build on the legacy of those who came before us **including** the bad.
 

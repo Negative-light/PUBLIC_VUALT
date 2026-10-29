@@ -14,7 +14,7 @@ title: "Jeremiah: Rejection of God Creates Division from Him"
 
 # Review
 
-We are looking at the book from the prophet [[person-jeremiah|Jeremiah]]. This study highlights the sin of the southern kingdom of the [[p-nation-of-israel|Israel]]. Who have abandoned [God](God.md) and have gone to false god's and have come to rely on neighboring nations for protection. Withing this study we have noticed this trend in Jeremiah that 
+We are looking at the book from the prophet [[person-jeremiah|Jeremiah]]. This study highlights the sin of the southern kingdom of the [[nation-israel|Israel]]. Who have abandoned [God](God.md) and have gone to false god's and have come to rely on neighboring nations for protection. Withing this study we have noticed this trend in Jeremiah that 
 
 # This Week
 

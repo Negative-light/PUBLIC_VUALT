@@ -18,7 +18,7 @@ parent:
 [^john-calvin]: [Jeremiah 23 Calvin's Commentaries](https://biblehub.com/commentaries/calvin/jeremiah/18.htm)
 [^john-gill]: [Jeremiah 23 Bible Commentary - John Gill’s Exposition of the Bible \| Christianity.com](https://www.christianity.com/bible/commentary/john-gill/jeremiah/23)
 # Last Week
-Last week we started by discussing a condemnation to the political leadership of the [Southern Kingdom](Southern%20Kingdom.md) and how they neglected their duty to seek both justice and righteousness. They are scattering the people in their actions rather than bringing them together.
+Last week we started by discussing a condemnation to the political leadership of the [nation-judah](nation-judah.md) and how they neglected their duty to seek both justice and righteousness. They are scattering the people in their actions rather than bringing them together.
 
 This is followed by mentioning that the [Davidic Covenant](Davidic%20Covenant.md) will continue with a future branch (this being a reference to [Jesus](people/biblical/person-jesus.md)). This being a promise that God's name would change. This does provide some context as to how the [Pharisees](Pharisees.md) would think that the Messiah would be a conquering king.
 

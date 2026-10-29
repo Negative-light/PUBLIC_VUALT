@@ -21,7 +21,7 @@ Last week we looked at how [God](God.md) woulld destroy the leadership of Israel
 
 # This Week
 
-Today we see that [[p-nation-of-israel|Israel]] is very much aware of their sin and know some of what they should do. This leads into [[person-jeremiah|Jeremiah]] lamenting
+Today we see that [[nation-israel|Israel]] is very much aware of their sin and know some of what they should do. This leads into [[person-jeremiah|Jeremiah]] lamenting
 
 ## The People Know and Will Be Judged
 

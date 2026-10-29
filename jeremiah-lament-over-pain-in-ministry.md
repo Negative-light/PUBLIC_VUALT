@@ -43,7 +43,7 @@ Our second section Jeremiah acknowledges the faithfulness of God [^2]. This sect
 I think the encouragement comes out of the idea that God destroys the legacy of the persecutors [^matthew-poole]. This applies to those within the church as well. The legalists, the heretics and the unfaithful.
 
 ## Absolute Despair
-The final section Jeremiah shows his outright dispare cursing the day he was born. Whishing that his father faced the judgement facing the [[Southern Kingdom]] [^3].
+The final section Jeremiah shows his outright dispare cursing the day he was born. Whishing that his father faced the judgement facing the [[nation-judah]] [^3].
 
 I think this is where I want to make it clear. This type of despair is human. Something that we are taught unintentionally from growing up in church is that Biblical characters are paragons of Christianity. But they are humans. Real people with real feeling. Jeremiah was "just a dude". Our next pastor is just a dude. 
 

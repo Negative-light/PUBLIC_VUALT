@@ -12,7 +12,7 @@ includeTags: true
 exportFontSize: 10
 ---
 # Last Week
-Last week we looked at a object lesson [God](God.md) had for [Jeremiah](person-jeremiah.md) using a potter to show that God was shaping the [Southern Kingdom](Southern%20Kingdom.md) the way he wanted to. If they were unwilling then God would work then by destroying the "progress" that was seen to soften the clay of their heats such that they would be willing later.
+Last week we looked at a object lesson [God](God.md) had for [Jeremiah](person-jeremiah.md) using a potter to show that God was shaping the [nation-judah](nation-judah.md) the way he wanted to. If they were unwilling then God would work then by destroying the "progress" that was seen to soften the clay of their heats such that they would be willing later.
 
 This obviously applies to Christians as God does work this way with us. Building us up but if we are heart in our hearts God will soften us up. That is not always fun.
 # This Week

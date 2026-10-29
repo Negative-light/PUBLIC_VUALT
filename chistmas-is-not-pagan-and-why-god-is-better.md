@@ -13,7 +13,7 @@ aliases:
 [^ip-christmas-is-not-pagan]: [1. Christmas is Not Pagan (Scripture) - YouTube](https://www.youtube.com/watch?v=ca_Yx3aMCiE&ab_channel=InspiringPhilosophy)
 
 # Last Week
-We focused on how [.Israel](../p-nation-of-israel.md) was so evil they they were a "fountain" of evil. This results and deep judgment
+We focused on how [.Israel](nation-israel.md) was so evil they they were a "fountain" of evil. This results and deep judgment
 
 # This Week
 [^guzik]: [Study Guide for Jeremiah 10 by David Guzik](https://www.blueletterbible.org/comm/guzik_david/study-guide/jeremiah/jeremiah-10.cfm)

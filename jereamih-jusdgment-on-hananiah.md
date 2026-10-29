@@ -10,7 +10,7 @@ title:
   - "Jeremiah: Judgement on Hananiah"
 ---
 # Last Week
-Last week we evaluated the object lesson [[God]] had [[person-jeremiah|Jeremiah]] present in the [[First Temple]]. This was wearing a yoke and informing people to go ahead and submit to the judgment to come as [[nation-babylon|Babylon]] was about to claim the last part of the [[Southern Kingdom]]. 
+Last week we evaluated the object lesson [[God]] had [[person-jeremiah|Jeremiah]] present in the [[First Temple]]. This was wearing a yoke and informing people to go ahead and submit to the judgment to come as [[nation-babylon|Babylon]] was about to claim the last part of the [[nation-judah]]. 
 
 # This Week
 This chapter we are introduced to a new character [[person-hananiah|Hananiah]] who is a false prophet during the time of [[person-zedekiah|Zedekiah]]. He outright denies the prophecies of Jeremiah and is thereby judged.

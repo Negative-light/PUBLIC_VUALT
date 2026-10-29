@@ -14,7 +14,7 @@ parent:
 
 # Last Week
 
-Last week we looked at how [God](God.md) was sifting [Israel](../p-nation-of-israel.md) callign them to mourn for the sins they had committed and followed. We also see [person-jeremiah](person-jeremiah.md) becomes the "sifter" or blacksmith of the nation testing their actions.
+Last week we looked at how [God](God.md) was sifting [Israel](nation-israel.md) callign them to mourn for the sins they had committed and followed. We also see [person-jeremiah](person-jeremiah.md) becomes the "sifter" or blacksmith of the nation testing their actions.
 
 # This Week
 

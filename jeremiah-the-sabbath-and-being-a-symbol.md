@@ -13,7 +13,7 @@ exportFontSize: 10
 Last week we focused on the heart and how a corrupt heart is like a tree planted in the desert (specially the Sodom Apple) who's fruit is toxic and dangerous. The purpose of causse is that we should focus on Christ and what he has called us to become.
 
 # This Week
-This week is actually going to be a lot more discussion focused because the focus is our action. The section of Jeremiah we are covering [God](God.md)  is calling the [Southern Kingdom](Southern%20Kingdom.md) to be obedient to the covenants and obey the [Sabbath](Sabbath.md) which is one thing that visibly makes Israel Gods [^1].
+This week is actually going to be a lot more discussion focused because the focus is our action. The section of Jeremiah we are covering [God](God.md)  is calling the [nation-judah](nation-judah.md) to be obedient to the covenants and obey the [Sabbath](Sabbath.md) which is one thing that visibly makes Israel Gods [^1].
 
 ## God's Call to Jeremiah
 God calls [🧑 Jeremiah](person-jeremiah.md) to preach tis message at the gates of [city-jerusalem](../city-jerusalem.md). This message is a clear and concise call to follow the Sabbath rest rather than working on that day. This includes a promise of blessings and a true king. The threat comes at the end that Jerusalem would be destroyed (which is the final result when [nation-babylon](nation-babylon.md) invades). The gate that God has Jeremiah go to is the busiest  gate which remember that Gates also functioned as the courthouse/business center of a city [^enduring-word] [^matthew-henry]. 

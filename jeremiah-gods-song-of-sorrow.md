@@ -18,7 +18,7 @@ parent:
 [^john-gill]: [Jeremiah 23 Bible Commentary - John Gill’s Exposition of the Bible \| Christianity.com](https://www.christianity.com/bible/commentary/john-gill/jeremiah/23)
 
 # Last Week
-Last week we see [God](God.md) warn the people of the [Southern Kingdom](Southern%20Kingdom.md) against false prophets, calling them his enemies. Now this wasn't my best lesson because I had been ill, that shouldn't be the case this week.
+Last week we see [God](God.md) warn the people of the [nation-judah](nation-judah.md) against false prophets, calling them his enemies. Now this wasn't my best lesson because I had been ill, that shouldn't be the case this week.
 
 But I wanted to continue the discussion.
 1. In the last week have you heard things, about yourself, about our church what are things you have been told or messages you have received?

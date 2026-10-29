@@ -33,7 +33,7 @@ timeline
 ## The Object Lesson
 This object lesson God uses baskets of good figs and bad figs [^2] which have some relatively obvious symbolism. The Good figs are tied to those that were taken to Babylon and would later return (after having repented and  returned to God) and rebuilt [Jerusalem](city-jerusalem.md). The second group or bad figs were those that remind in Israel under [Zedekiah](person-zedekiah.md) [^3].
 
-Some history around this. These events occur around 597 BC and this results in Zedekiah becoming the puppet ruler of Jerusalem. Here we see the idea that the ones who were left in the [Southern Kingdom](Southern%20Kingdom.md) thought they were the ones that God had blessed and protected, which clearly God was inverting those expectations [^garner-howes] [^enduring-word].
+Some history around this. These events occur around 597 BC and this results in Zedekiah becoming the puppet ruler of Jerusalem. Here we see the idea that the ones who were left in the [nation-judah](nation-judah.md) thought they were the ones that God had blessed and protected, which clearly God was inverting those expectations [^garner-howes] [^enduring-word].
 
 A few ideas here is that the figs were probably related to the first fruit offerings at the temple as Figs are harvestable rather early [^ellicott] [^matthew-henry] which does some with the assumption that God was using a physical occurrence to teach a spiritual lesson [^5]. 
 

@@ -12,7 +12,7 @@ aliases: Jeremiah Mercy in Being a Sign
 
 
 # Last Week
-Last week we focused on the pain that comes from being a prophet through the eyes of [person-jeremiah](person-jeremiah.md) who [God](God.md) also calls to repent for the sake of returning to him. This cam with a promise that God would establish him before [Israel](p-nation-of-israel.md)
+Last week we focused on the pain that comes from being a prophet through the eyes of [person-jeremiah](person-jeremiah.md) who [God](God.md) also calls to repent for the sake of returning to him. This cam with a promise that God would establish him before [Israel](nation-israel.md)
 
 Furthermore we discussed how to share the Gospel at work. How we should be doing those things that open doors such that other will listen to the Gospel.
 
@@ -59,7 +59,7 @@ This is again Jeremiah living as a sign of the time he is in. He is called to li
 - Given the day and time we are in are there celebrations that you should cut out?
 
 ## Why Now
-So we have to question why God brought this to Jeremiah at this point. Wouldn't this be something God would give Jeremiah at the start of his ministry. Well at this point the kind of the [Southern Kingdom](Southern%20Kingdom.md) would be looking for others to support  (him being [🧑Jehoiakim](%F0%9F%A7%91Jehoiakim.md)). Secondly and as we will hit on next week the judgments that  hadn't really hit yet were coming very very shortly at this point [^guzik].
+So we have to question why God brought this to Jeremiah at this point. Wouldn't this be something God would give Jeremiah at the start of his ministry. Well at this point the kind of the [nation-judah](nation-judah.md) would be looking for others to support  (him being [🧑Jehoiakim](%F0%9F%A7%91Jehoiakim.md)). Secondly and as we will hit on next week the judgments that  hadn't really hit yet were coming very very shortly at this point [^guzik].
 
 ## General Applications
 God is going to call us to live differently. And sometimes that is small, sometimes that is large. We are not in a time where we are going ot vbe considered normal as Christians. Furthermore we must consider the image we present in the day to day life we live. Do you join in on celebrations at work? 

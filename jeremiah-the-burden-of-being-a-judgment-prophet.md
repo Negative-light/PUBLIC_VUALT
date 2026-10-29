@@ -14,7 +14,7 @@ title: "Jeremiah: The burden of Being a Judgment Prophet"
 
 # Last Week
 
-Last week we hit on the rhetorical questions [[God]] gives to [[p-nation-of-israel|Israel]]. This is focused on the fate worse than death that God is depting for the nation through [[person-jeremiah|Jeremiah]]. The desicration of ones body is like Hell.
+Last week we hit on the rhetorical questions [[God]] gives to [[nation-israel|Israel]]. This is focused on the fate worse than death that God is depting for the nation through [[person-jeremiah|Jeremiah]]. The desicration of ones body is like Hell.
 
 # This Week
 

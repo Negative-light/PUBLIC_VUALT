@@ -15,7 +15,7 @@ includeTags: true
 exportFontSize: 10
 ---
 # Last Week
-Last week we explored the topic of addiction. How [God](God.md) told the [Southern Kingdom](Southern%20Kingdom.md) that their punishment would include them **continuing deeper** into the idolatry they were already doing. But this includes a hopeful message of the future redemption that God would do with them.
+Last week we explored the topic of addiction. How [God](God.md) told the [nation-judah](nation-judah.md) that their punishment would include them **continuing deeper** into the idolatry they were already doing. But this includes a hopeful message of the future redemption that God would do with them.
 
 # This Week
 This week we are looking at a "inverse" to the story of Psalm 1, the tree planted in the desert [^1]. This goes into the concepts of the heart.

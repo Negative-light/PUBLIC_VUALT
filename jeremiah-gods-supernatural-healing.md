@@ -12,14 +12,14 @@ parent:
 aiConversation: "[[2025-09-27-jeremiah-31-bible-study_CHATGPT]]"
 ---
 # Review
-We have been in a section talking about how [[God|God]] would restore [[p-nation-of-israel|Israel]] and [[city-jerusalem|Jerusalem]] after their 70 year captivity in [[nation-babylon|Babylon]]. Last week we specifically look at how God will fully restore the people but for the sake of discipline and that we will understand the why, but it must wait till after that point.
+We have been in a section talking about how [[God|God]] would restore [[nation-israel|Israel]] and [[city-jerusalem|Jerusalem]] after their 70 year captivity in [[nation-babylon|Babylon]]. Last week we specifically look at how God will fully restore the people but for the sake of discipline and that we will understand the why, but it must wait till after that point.
 # Lesson
 This week a short but powerful section. Here we see God is going to restore the people but also heal them. And that this discipline was also a bit of rest for the people [^1].
 
 Some extra useful data for y'all is that this chapter is considered the climax of Jeremiah and we will see in a future lesson even the idea of the new covenant that we as believers are under [^garner-howes] [^enduring-word] [^ellicott]. But the focus for today is that God will keep his promise at the end of chapter 30 [^ellicott] [^garner-howes] [^john-gill].
 
 ## When Are we talking about
-So this chapter opens with "At This time" which means when *all of Israel* is unified. This hasn't been completed as there are the "lost tribes" which were the northern tribes that were scattered via [[assyria|Assyria]]. So zooming out from the last chapter that talks a lot about just the [[Southern Kingdom|Southern Kingdom]]  but all of Israel [^john-gill] [^garner-howes] [^ellicott] [^enduring-word]. 
+So this chapter opens with "At This time" which means when *all of Israel* is unified. This hasn't been completed as there are the "lost tribes" which were the northern tribes that were scattered via [[assyria|Assyria]]. So zooming out from the last chapter that talks a lot about just the [[nation-judah|Southern Kingdom]]  but all of Israel [^john-gill] [^garner-howes] [^ellicott] [^enduring-word]. 
 
 Of course there is a partial completion with Israel having been returned under [[🧑Cyrus|Cyrus]] and under [[🏙️Rome|Rome]] [^john-calvin] [^matthew-poole]. 
 
