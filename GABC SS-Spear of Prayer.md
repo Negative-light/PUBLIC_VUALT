@@ -50,7 +50,7 @@ For the sake of encouragement I also will mention endurance takes time to build 
 [^b3]: [[1 Thess 5|1 Thess 5:17]] - This verse is where we get the call to pray without ceasing. This is in a much larger list of things we are called to.
 
 ## Prayer in the *Pneuma*
-I am reaching with the headings now. But I think this works. The word there *Pneuma* is the word used for the [[Holy Spirit]] throughout the Scriptures. If we look back at our call in the passage on the armor of God we will see that we are called to "pray in  the Spirit" [^b1].  This is a call to immersion with the Spiritual things  that can only be gained via the Holy Spirit. This requires that we think of Spiritual thoughts [^b4].
+I am reaching with the headings now. But I think this works. The word there *Pneuma* is the word used for the [[holy-spirit]] throughout the Scriptures. If we look back at our call in the passage on the armor of God we will see that we are called to "pray in  the Spirit" [^b1].  This is a call to immersion with the Spiritual things  that can only be gained via the Holy Spirit. This requires that we think of Spiritual thoughts [^b4].
 The greatest part of this is that when you are beaten down and cannot pray or don't even know what you need to pray for the Holy Spirit interciedes for *you* [^b5].
 
 [^b4]: [[1 Cor 2|1 Cor 2:9013]] - This passage shows us what it means to live in the Spiritual realm specifcly being envelpoed in the Holy Spirit.

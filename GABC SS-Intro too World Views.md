@@ -46,7 +46,7 @@ First we must acknowledge a basis of Spiritual Warfare.
 
 Your worldview shapes all of your decision making and thus it has massive implications. Therefore we are commanded in several areas of things we need too do to different ourselves in the battle for the mind.
 
-[[Romans/Rom 12#2|Romans 12:2]] tells us how to be transformed by the [[Holy Spirit]] through the renewing or remaking of the mind. That word renew is [[Strongs G342]], which at it not only a complete embodied change but also a change for the better [^1]
+[[Romans/Rom 12#2|Romans 12:2]] tells us how to be transformed by the [[holy-spirit]] through the renewing or remaking of the mind. That word renew is [[Strongs G342]], which at it not only a complete embodied change but also a change for the better [^1]
 
 I like this quote from the book
 

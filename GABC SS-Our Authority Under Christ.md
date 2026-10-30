@@ -43,7 +43,7 @@ Jesus furthermore has authority of all things in heaven and on earth via his dea
 > We have powerful Christians living powerless lives because they keep looking to Satan for permission to live as Christians
 \- Tony Evans *The Battle is the Lords* pg 235
 
-We as Christian *must* understand our actual position and the authority we have simply being followers of Jesus. This is huge as many Christians ignore this and get stuck in Sin struggles. We have the authority the right to be sanctified through the [[Holy Spirit]], this being said of course there are some sins we are also commanded to flee from.
+We as Christian *must* understand our actual position and the authority we have simply being followers of Jesus. This is huge as many Christians ignore this and get stuck in Sin struggles. We have the authority the right to be sanctified through the [[holy-spirit]], this being said of course there are some sins we are also commanded to flee from.
 
 ### Co-Conquerors
 

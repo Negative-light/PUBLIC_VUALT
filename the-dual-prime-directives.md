@@ -21,7 +21,7 @@ The human directive can be found in Genesis and is the common call to [person-ad
 We find the Great Commission in the last moments [[people/biblical/person-jesus|👼Jesus]] spent with his disciples where he told them to "go and make disciples" [^2]. Or go and multiply the number of followers of Christ. Now how we share the [[../Gospel|Gospel]] is explained further in the New Testament and a key of that is to be fruitful. Now unlike the Human directive this fruitfulness was not to produce things of beauty of create physical fruit but to create the fruit of the spirit [^3]
 
 [^2]: [[Matt 28|Matt 28:19]]: This verse is Jesus giving out the great commission. **Note**: the great commission is back by Jesus having authority now over heaven and earth similar to how humans once did before the fall, we had authority under [[God]], but we gave that over.
-[^3]: [[Gal 5|Gal 5:22-23]]: Here we see the fruit that the [[Holy Spirit]] produces in a Christians life. This is the greatest witness we can have.
+[^3]: [[Gal 5|Gal 5:22-23]]: Here we see the fruit that the [[holy-spirit]] produces in a Christians life. This is the greatest witness we can have.
 
 # Applications
 it is important for us as Christians to fulfill what we are called to. FYI you do have a calling. From some it is to teach others it is to give, still more it is to pray. We are all one body are we not [^4]. The thing is that we are called to live a life of unity with other Christians. This is hard, and honestly the first and hardest step is communication.
