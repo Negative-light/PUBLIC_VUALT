@@ -12,7 +12,7 @@ child:
 sibling:
   - "[[GABC SS-Intro to Spiritual Warfare|GABC SS-Intro to Spiritual Warfare]]"
   - "[[GABC SS-Back to the Beginning|GABC SS-Back to the Beginning]]"
-rival:
+enemy:
 ---
 # Review
 Last week we had a short introduction into spiritual warfare. The major things we covered are

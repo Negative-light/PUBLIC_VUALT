@@ -7,7 +7,7 @@ parent:
   - The Battle is the Lords
 child:
 sibling:
-rival:
+enemy:
 ---
 # Review
 This study we have been talking about the root cause of evil in the world. This is the spiritual war between [[God]] and [[Satan]] in which Satan is attempting to take the glory from God.

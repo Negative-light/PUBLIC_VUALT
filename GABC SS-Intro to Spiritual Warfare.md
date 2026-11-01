@@ -12,7 +12,7 @@ child:
 sibling:
   - "[[GABC SS-Intro too World Views]]"
   - "[[GABC SS-Back to the Beginning]]"
-rival:
+enemy:
 ---
 # Review
 N/A (First Lesson)

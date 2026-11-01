@@ -12,7 +12,7 @@ child:
 sibling:
   - "[[PUBLIC_VUALT/GABC SS-Intro too World Views|GABC SS-Intro too World Views]]"
   - "[[PUBLIC_VUALT/GABC SS-Intro to Spiritual Warfare|GABC SS-Intro to Spiritual Warfare]]"
-rival:
+enemy:
 ---
 # Review
 In the study we have already covered the following:

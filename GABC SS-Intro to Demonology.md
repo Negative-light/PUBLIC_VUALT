@@ -11,7 +11,7 @@ parent:
   - "[[The_Battle_Is_The_Lords|The_Battle_Is_The_Lords]]"
 child:
 sibling:
-rival:
+enemy:
 ---
 # Review
 In this study we are analyzing the spiritual war for Glory between God and Satan including where it is fought. We have also taken time to analyze how we are given aid through angels and how Satan operates to attack us. It is important to remember as always with this study victory is found in **Christ Alone**.

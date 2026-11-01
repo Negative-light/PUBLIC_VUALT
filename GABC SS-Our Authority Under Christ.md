@@ -8,7 +8,7 @@ parent:
   - "[[The_Battle_Is_The_Lords]]"
 child:
 sibling:
-rival:
+enemy:
 ---
 # Review
 This study has covered the spiritual war between [[God]] and Satan over Glory. We have discussed the different spaces Satan attempt to attack, the units on both God's side and Satan's. Last week we covered how we find victory in [[people/biblical/person-jesus|👼Jesus]] over Satan

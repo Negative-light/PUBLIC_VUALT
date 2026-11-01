@@ -12,7 +12,7 @@ sibling:
   - "[[GABC SS-Back to the Beginning]]"
   - "[[GABC SS-Intro to Spiritual Warfare]]"
   - "[[GABC SS-The Battle Field]]"
-rival:
+enemy:
 ---
 # Review
 - We are in a Spiritual War

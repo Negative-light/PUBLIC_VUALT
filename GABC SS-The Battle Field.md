@@ -15,7 +15,7 @@ sibling:
   - "[[PUBLIC_VUALT/GABC SS-Intro too World Views|GABC SS-Intro too World Views]]"
   - "[[GABC SS-Back to the Beginning]]"
   - "[[GABC SS-Intro to Spiritual Warfare]]"
-rival:
+enemy:
 ---
 # Review
 Last week we did a short introduction into angles but here is what we know so far
