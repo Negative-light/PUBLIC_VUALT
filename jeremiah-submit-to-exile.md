@@ -15,7 +15,7 @@ This chapter we see one idea shared to both the nations around the [[nation-juda
 
 
 
-> Some manuscripts have verse 1 saying that Jeremiah received this command under [[🧑Jehoiakim|Jehoiakim]]. But either way this prophecy was clearly meant for Zedekiah [^garner-howes] [^ellicott]. Some translations only leave this as a footnote such as the CSB.
+> Some manuscripts have verse 1 saying that Jeremiah received this command under [[person-jehoiakim|Jehoiakim]]. But either way this prophecy was clearly meant for Zedekiah [^garner-howes] [^ellicott]. Some translations only leave this as a footnote such as the CSB.
 
 The events here probably happened around 15 years after chapter 26. During the interim [[🧑Jehoiachin|Jehoiachin]] would have been carried off to Babylon and some of the temple and palaces wealth would have gone as well and Jehoiakim would have passed [^ellicott] [^matthew-henry]
 ## For Everybody

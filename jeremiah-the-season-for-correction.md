@@ -27,7 +27,7 @@ The good figs represent the people who were exiled to [[nation-babylon|Babylon]]
 This lesson had a focus on the idea that those who are blessed by God might not be the ones who look that way and for us to not take for granted the relationship we have with God. This of course has several relationships within scripture such as how in the end times Christ will separate between the sheep and goats.
 
 # This Week
-Ok so this week we are actually going back in time slightly to just at the start of [[🧑Jehoiakim|Jehoiakim]].  Where Jeremiah gets a specific prophecy of the now oncoming invasion from [[person-nebuchadnezzar|Nebuchadnezzar]].
+Ok so this week we are actually going back in time slightly to just at the start of [[person-jehoiakim|Jehoiakim]].  Where Jeremiah gets a specific prophecy of the now oncoming invasion from [[person-nebuchadnezzar|Nebuchadnezzar]].
 
 ## Context
 Ok so this chapter gives us some important context that it happens in the 4th year of Jehoiakim (aka Jeconiah) and the 1st year of Nebuchadnezzar. Mind that this was the first year that Nebuchadnezzar was the sole ruler of Babylon, he was actually crowned king before this but was ruling with his father [^john-calvin] This would have been around 605 BC where Babylon would defeat Egypt. This would remove the primary seat of power from [[assyria|Assyria]] and make it Babylon. This would be like a major upset in a national election, everyone is now wondering how the world is going to work moving forward [^thomas-constable]. 
@@ -35,7 +35,7 @@ Ok so this chapter gives us some important context that it happens in the 4th ye
 Furthermore we have to note that at least three prophets were active during this time [[🧑Uriah|Uriah]], [[🧑Zephaniah son of Cush|Zephaniah]] and [[🧑Habakkuk|Habakkuk]]. 
 
 ## A Reminder of Jeremiah's Ministry
-Our first section Jeremiah gives a not of his ministry from the reign of [[🧑Josiah|Josiah]] to the modern day this included covering that he continually preached repentance [^1] In this section we get a clear highlight that God was given more than enough opportunities for the people to repent but they refused to obey time and time again for 23 years. This was 23 years of attempted revival. 23 years of having street preachers give a message of repentance without fail, but with no one turning to God. This significance also would have shown *why* the punishment was so high because 23years of refusal means there is no excuse for having no attempt to repent [^matthew-henry] [^thomas-constable]. 
+Our first section Jeremiah gives a not of his ministry from the reign of [[person-joshaih|Josiah]] to the modern day this included covering that he continually preached repentance [^1] In this section we get a clear highlight that God was given more than enough opportunities for the people to repent but they refused to obey time and time again for 23 years. This was 23 years of attempted revival. 23 years of having street preachers give a message of repentance without fail, but with no one turning to God. This significance also would have shown *why* the punishment was so high because 23years of refusal means there is no excuse for having no attempt to repent [^matthew-henry] [^thomas-constable]. 
 
 I like how Calvin put the state of Jeremiah's ministry.
 

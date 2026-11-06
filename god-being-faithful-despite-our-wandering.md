@@ -21,7 +21,7 @@ This week I wanted to take a step back and look at how Goid is still faithful de
 ## Setting the Scene
 Most of chapter three covers this theme that God has divorced the people because they were unfaithful to him. This even calls out that someone cannot remarry a woman if they have given her a divorce and she remarries another [^b2]. This here is a call to self reflect [^b1].
 
-[^b1]: [Jer 3:1-12](Jer%203.md) - This section we see God provide a rhetorical question to Israel and a new prophecy to Jeremiah during the reign of [🧑Josiah](%F0%9F%A7%91Josiah.md)
+[^b1]: [Jer 3:1-12](Jer%203.md) - This section we see God provide a rhetorical question to Israel and a new prophecy to Jeremiah during the reign of [person-joshaih](person-joshaih.md)
 [^b2]: [Deut 24:1-4](Deut%2024.md) - this passage includes  the description of some divorce law for Israel
 
 Within this God also highlights that the Northern tribe has already been taken away and completely defiled. Being taken over completely by idols [^b1].

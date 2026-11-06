@@ -24,7 +24,7 @@ Last week we looked at [Jeremiah](person-jeremiah.md)'s prophecy to the [nation-
 We then took on to consider what this discuses for leadership, how we should take care of those under us. 
 
 # This Week
-So this week we look at the leadership of the nation specifically the kids of [Josiah](%F0%9F%A7%91Josiah.md). These being [Jehoahaz](%F0%9F%A7%91jehoahaz.md), [Jehoiakim](%F0%9F%A7%91Jehoiakim.md), and Jehoiakim's son Coniah. Something that is important is that Jeremiah was especially told to go into the throne room (well palace but I am going to hope this assumption is safe) and tell the king.
+So this week we look at the leadership of the nation specifically the kids of [Josiah](person-joshaih.md). These being [Jehoahaz](%F0%9F%A7%91jehoahaz.md), [Jehoiakim](person-jehoiakim.md), and Jehoiakim's son Coniah. Something that is important is that Jeremiah was especially told to go into the throne room (well palace but I am going to hope this assumption is safe) and tell the king.
 
 ## To The Crown
 The first section God is talking generally to the crown of Israel [^1]. 

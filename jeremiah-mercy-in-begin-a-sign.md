@@ -59,7 +59,7 @@ This is again Jeremiah living as a sign of the time he is in. He is called to li
 - Given the day and time we are in are there celebrations that you should cut out?
 
 ## Why Now
-So we have to question why God brought this to Jeremiah at this point. Wouldn't this be something God would give Jeremiah at the start of his ministry. Well at this point the kind of the [nation-judah](nation-judah.md) would be looking for others to support  (him being [🧑Jehoiakim](%F0%9F%A7%91Jehoiakim.md)). Secondly and as we will hit on next week the judgments that  hadn't really hit yet were coming very very shortly at this point [^guzik].
+So we have to question why God brought this to Jeremiah at this point. Wouldn't this be something God would give Jeremiah at the start of his ministry. Well at this point the kind of the [nation-judah](nation-judah.md) would be looking for others to support  (him being [person-jehoiakim](person-jehoiakim.md)). Secondly and as we will hit on next week the judgments that  hadn't really hit yet were coming very very shortly at this point [^guzik].
 
 ## General Applications
 God is going to call us to live differently. And sometimes that is small, sometimes that is large. We are not in a time where we are going ot vbe considered normal as Christians. Furthermore we must consider the image we present in the day to day life we live. Do you join in on celebrations at work? 

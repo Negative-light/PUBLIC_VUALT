@@ -36,7 +36,7 @@ First we look that Jeremiah focuses his defense on God and submits to authority.
 Now we look at the leaders response that they realize this guys words align with other prophecies from back in the time of Hezekiah. But if we just look at how Hezekiah reacted when he learned that the nation need to repent vs these leaders. It is the polar opposite despite having the same data. This showing a contrast of knowledge of God and wisdom that comes from God. 
 
 ## Uriah's Story
-Now we see the story of the prophet Uriah who was also speaking the same things of Jeremiah. But rather than responding with boldness he responded in fear. He runs to [[place-egypt|Egypt]] and is drawn back by [[🧑Jehoiakim|Jehoiakim's]] men. This leads to his death.
+Now we see the story of the prophet Uriah who was also speaking the same things of Jeremiah. But rather than responding with boldness he responded in fear. He runs to [[place-egypt|Egypt]] and is drawn back by [[person-jehoiakim|Jehoiakim's]] men. This leads to his death.
 
 Now we don't have the timeline here. Was this sequential or was it that Uriah was prophesying while Jeremiah was under arrest. We don't know but we have the clear implication that fear lead to Uriah's death while faith lead to Jeremiah's protection. 
 
@@ -45,7 +45,7 @@ Now we don't have the timeline here. Was this sequential or was it that Uriah wa
 - Faith Over Fear
     - This has been something that I have been convicted over a lot recently. I am going to be honest I cannot teach y'all how to not be fearful. I just know I need to change. And this text gives us an example of what Faith and Fear result in for believers.
 - Knowledge vs Wisdom
-    - A second element that stuck out to me is that the judges. The older men. They *knew* what to do yet they did not do it. The refused to turn the nation to God. Which had succeeded not even that long ago under [[🧑Josiah|Josiah]] and under Hezekiah
+    - A second element that stuck out to me is that the judges. The older men. They *knew* what to do yet they did not do it. The refused to turn the nation to God. Which had succeeded not even that long ago under [[person-joshaih|Josiah]] and under Hezekiah
 - Boldly Teach
     - We only get a small exherpt of Jeremiah's teaching but we know that he taught all the word of God. Although we may not all have a similar calling we should be able to boldly present the Gospel when it is needed. Understanding that it may have a cost, but not turning back
 - You are called
